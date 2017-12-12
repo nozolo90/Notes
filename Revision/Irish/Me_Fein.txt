@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-03T14:51:38+01:00
+
+====== Me Fein ======
+
+
+Created Sunday 03 September 2017
+
+* **Ainm** - Name
+* **Aois** - Age - [[+Aois|Aois]]
+* **Clann** - Family - [[+Clann|Clann]]
+* **Sonraí Pearsanta Fisiciuil** - Physical details
+* **Ait conaithe** - Where You Live
+* **Peata** - Pets - [[+Peata|Peata]]
+* **Caitheamh aimsire** - Hobbies
+* **Dlúthchairde**- Best Freinds
+* **Scoil** - School
+
+These are **Bonúsach Sonraí**
+
+**Bonúsach **- Basic
+**Sonraí** - Deatails
+
+[[Irish|Back To Irish]]

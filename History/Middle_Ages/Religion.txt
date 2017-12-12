@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T15:34:46+01:00
+
+====== Religion ======
+
+
+Created Wednesday 23 August 2017
+
+manor farms were **parishes** organized by priests ( who could read and write )
+**dioscese** were groups of **parishes** - **bishops** ran them
+bishops built big churches called **cathedrals**
+
+=== Church Design Features ===
+	__romanesque - 1000AD__
+	* **rounded** **arches**
+	* **thick pillars**
+	__gothic - 1000AD+__
+	* **thin** **pillars** - thinner pillars
+	* **pointed** **arches** - triangular arches
+	* **rose** **windows** - beautiful design on tinted glass windows
+	* **flying** **buttreses** - supports
+	* **spires** - the tall spikes
+
+[[+Monastaries|To Monastaries]]
+[[Middle Ages|To Middle Ages]]

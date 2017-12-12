@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T17:42:19+01:00
+
+====== Wind Energy ======
+
+
+Created Monday 21 August 2017
+
+Large wind turbines are built
+The turbines have blades which spin when it is windy
+spinning turbines generate energey
+
+=== Advantages ===
+	Clean
+
+
+=== Disadvantages ===
+	Large pylons used to carry energy //could //cause cancer
+	Eyesore
+
+[[Types Of Recourses|Back To Types Of Recourses]]

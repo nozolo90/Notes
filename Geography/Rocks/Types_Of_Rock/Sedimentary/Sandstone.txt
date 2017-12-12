@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:57:35+01:00
+
+====== Sandstone ======
+
+
+Created Sunday 20 August 2017
+
+**Sandstone** is formed when layers of sand at the bottom of the ocean or in the desserts built up, compressing the previous layers into solid rock
+
+=== Characteristics ===
+	* [[Sedimentary]] Rock
+	* red/brown color
+	* coarse
+
+=== Found in ===
+	* Macgillycuddy reek
+
+=== Uses ===
+	* Building house walls
+
+[[Types Of Rock|Back To Types Of Rocks]]

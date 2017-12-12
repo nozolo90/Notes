@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T22:53:10+01:00
+
+====== Aos Dana ======
+
+
+Created Monday 21 August 2017
+
+The **Aos Dana** were people well respected for their skills
+
+=== Examples ===
+	**Smiths**
+	**Craftsmen**
+	**Druids**
+	**Brehons**
+	**Fili** - poets
+	**Bards** - muisicians
+
+[[Groups Of People|Back To Groups Of People]]

@@ -1,0 +1,12 @@
+[Notebook]
+version=0.4
+name=Notes
+interwiki=
+home=Revision
+icon=
+document_root=~/Notebooks/Notes
+shared=True
+endofline=unix
+disable_trash=False
+profile=
+

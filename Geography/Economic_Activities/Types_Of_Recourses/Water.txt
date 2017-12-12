@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T18:34:19+01:00
+
+====== Water ======
+
+
+Created Sunday 20 August 2017
+
+**Water **is a **Renewable Recourse**
+
+=== Uses ===
+	Drinking
+	Cleaning
+	Cooking
+	Irrigation
+
+
+=== How its abused ===
+	Rivers and Other sources can be polluted by **rubbish**, **chemicals** and **untreated sewage**
+	Farm fertilizers can pollute rivers
+	* River **pollution** affects fish we eat and can make us sick
+	* It also affects the water we **drink**
+
+=== How we can conserve it ===
+	Have **showers** instead of **baths**
+
+
+=== Water Cycle ===
+	Evaporation
+	Condensation
+	Percipitation
+	Run Off
+
+[[Economic Activities:Types Of Economic Activity:Primary Economic Activity:Water Supply|Water Supply]]
+[[Types Of Recourses|Back To Types Of Recourses]]

@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:42:43+01:00
+
+====== Types Of Mass Movement ======
+
+
+Created Saturday 19 August 2017
+
+| Type       | Speed       | Slope                      |
+|:-----------|:------------|:---------------------------|
+| Soil Creep | Slow        | Small                      |
+| MudFlow    | Fast        | Steep                      |
+| BogBurst   | May Be Fast | May Be Steep but not small |
+| LandSlides | Very Fast   | Very Steep                 |
+
+
+=== Types ===
+	* [[+Soil Creep|Soil Creep]]
+	* [[+BogBurst|BogBurst]]
+	* [[+Mudflow|Mudflow]]
+	* [[+LandSlides|LandSlides]]
+
+[[Mass Movement|Back To Contents]]

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T17:33:23+01:00
+
+====== Key Words ======
+
+
+Created Saturday 19 August 2017
+
+* **Scource** - the place where the river starts
+* **Course** - the path the river takes
+* **Tributary** - a small river that joins a larger river
+* **Confluence** - The point where a tributary and river meet
+* **Mouth** - where the river enters the sea
+* **Basin** - The area of land drained by the river
+* **Watershed** - the high ground separating one river basin from another
+* **The Shanon** - begins in the culcadh mountains and ends in the Atlantic
+* **River transportation** - Debris from upstream is carried downstream by the river
+
+[[Rivers|Back To Contents]]

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T19:48:09+01:00
+
+====== re verbs ======
+
+
+Created Tuesday 05 September 2017
+
+**Je/Tu** + s
+**elle/il** + nothing
+**nous** + ons
+**vous** + ez
+**ils/elles** + ent
+
+[[Regular Verbs|Back To Regular Verbs]]

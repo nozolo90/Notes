@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T17:38:19+01:00
+
+====== Geothermal Energy ======
+
+
+Created Monday 21 August 2017
+
+Water is pumped deep into the earths Crust
+The deeper you get into the earths crust, the hotter it gets due to i t being closer to the Mantle
+
+The water is heated and pumped back up where the steam is used to heat homes and turn turbines
+
+[[Types Of Recourses|Back To Types Of Recourses]]

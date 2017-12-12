@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-07T17:48:11+00:00
+
+====== Cool Oceanic ======
+
+
+Created Thursday 07 December 2017
+
+=== Temperature ===
+* They have **warm summers** that are around **16 degrees celcius**
+* They have **mild winters** that are around **5 degrees celcius**
+
+=== Precipitation ===
+* Rain all year
+* **800-2000ml per year**
+* Weather is cloudy.
+
+=== Vegetation ===
+* Deciduos forests like **oark**, **elm** and **ash**.
+
+[[Climates|Back To Climates]]

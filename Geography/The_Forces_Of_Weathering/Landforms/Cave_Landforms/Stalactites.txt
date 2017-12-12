@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T09:56:27+01:00
+
+====== Stalactites ======
+
+Created Saturday 19 August 2017
+
+=== Statement ===
+	* **Stalactites** are spikes **hanging down** from the roof of the cave
+
+=== Development ===
+	* drops of water containing **disolved specs of calcite ( **[[Geography:Rocks:Types Of Rock:Sedimentary:Limestone|limestone]]** )** drip down from a cave roof or evaporate , **leaving some specs behind on the roof**.
+	* Over thousands of years , **theese specs build up to form stalactites**.
+
+[[Stalagmites|To Stalagmites]]
+
+[[Cave Landforms|Back To Cave Landforms]]
+[[Landforms|Back To Landforms]]

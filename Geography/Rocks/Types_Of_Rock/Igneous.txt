@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:45:13+01:00
+
+====== Igneous ======
+
+
+Created Sunday 20 August 2017
+
+**Igneous Rocks** are formed as a result of **volcanic activity**
+
+=== The Igneous rocks are ===
+	* [[+Basalt|Basalt]]
+	* [[+Granite|Granite]]
+
+[[Rocks|Back To Rocks]]

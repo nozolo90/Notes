@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-08T18:55:50+00:00
+
+====== Path Of Food ======
+
+
+Created Friday 08 December 2017
+
+**Digestion** is the **breakdown of food**.
+Our **digestive** **system** breaks down food into **smaller molecules** that can be **absorbed** by our bodies into our blood.
+
+=== Types of digestion ===
+__Physical digestion__
+* breaking down of food into smaller pieces **mechanically**/**physically**.
+__Chemical digestion__
+* Using **enzymes** to break down food.
+* An enzyme is a chemical made of **protien** that speeds up a chemical reaction.
+* Enzymes are called **biological catalysts**.
+
+[[+Diigestive System|Digestive System]]
+
+[[Science|Back To Science]]

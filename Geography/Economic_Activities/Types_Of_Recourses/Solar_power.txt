@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T17:34:19+01:00
+
+====== Solar power ======
+
+
+Created Monday 21 August 2017
+
+**Solar Power **is collecting light and heat from the sun into energy with solar panels
+
+[[Types Of Recourses|Back To Types Of Recourses]]

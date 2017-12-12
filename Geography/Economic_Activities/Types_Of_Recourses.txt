@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T18:29:42+01:00
+
+====== Types Of Recourses ======
+
+
+Created Sunday 20 August 2017
+
+=== There are two types of recourses ===
+	**Renewable** - will last forever if managed properly
+	**Non-Renewable **- no matter what, will eventually run out
+
+**Sustainable Exploitation** is when harvest something and create it again
+
+== Examples ==
+	plant a tree when you cut one down
+	fish reproduce when caught
+
+
+=== Examples of renewable recourses ===
+	* [[+Fish|Fish]]
+	* Timber
+	* [[+Water|Water]]
+	* [[+Solar power|Solar power]]
+	* [[+HydroElectric Power|HydroElectric Power]]
+	* [[+Geothermal Energy|Geothermal Energy]]
+	* [[+Tidal Energy|Tidal Energy]]
+	* [[+Wind Energy|Wind Energy]]
+
+
+=== Examples of Non-Renewable recourses ===
+	* [[+Oil|Oil]]
+	* Coal
+	* [[+Peat|Peat]]
+	* Natural Gas
+
+[[Economic Activities|Back To Economic Activities]]

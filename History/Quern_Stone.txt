@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T23:52:01+01:00
+
+====== Quern Stone ======
+
+
+Created Monday 21 August 2017
+
+**Quern Stones** were two stones placed on top of each other
+The top stone would have a **handle** so you could **turn** it
+you would put **grain** **in between** the stones and twist the top stone
+this grinds the grain into **flour**
+
+[[History|Back To History]]

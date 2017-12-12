@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T18:26:32+01:00
+
+====== Primary Economic Activity ======
+
+Created Sunday 20 August 2017
+
+**Primary Economic Activity **is when raw materials are obtained from the earth
+
+=== Some Examples ===
+	* [[+Water Supply|Water Supply]]
+	* [[+Fishing|Fishing]]
+	* [[+Oil|Oil]]
+	* [[+Peat|Peat]]
+	* [[+Farming|Farming]]
+
+[[Types Of Economic Activity|Back To Types Of Economic Activity]]

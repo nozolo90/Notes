@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-18T14:04:35+00:00
+
+====== Population Change ======
+Created Saturday 18 November 2017
+
+World Population Change is called **natural change**.
+It can be calculated by measuring **birth rates** against **death rates**.
+
+=== Birth rates ===
+	* Number of **live births** per thousand of the population.
+	* When the **birth rates** are **higher** than the **death rates**, **natural increase** occurs.
+
+=== Death rates ===
+	* Number of deaths per thousand of the population.
+	* When the **death rates** are **higher** than the **birth rates**, **natural decrease** occurs.
+
+Countries go through **different phases** of natural increase and decrease.
+Geographers have conjured up a diagram to show these changes called the **Demographic Transition Model**.
+
+[[+Demographic Transition Model|To Demographic Transition Model]]
+
+=== Factors that influence population change ===
+	* [[+Factors That Influence Change:War|War]]
+	* [[+Factors That Influence Change:Food Supply|Food Supply]]
+	* [[+Factors That Influence Change:Education|Education]]
+	* [[+Factors That Influence Change:Improved Technology|Improved Technology]]
+	* [[+Health|Health]]
+	* [[+Women In Society|Women In Society]]
+
+[[Population|Back to Population]]

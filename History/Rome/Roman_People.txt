@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T15:45:09+01:00
+
+====== Roman People ======
+
+
+Created Tuesday 22 August 2017
+
+=== There were three groups of roman people ===
+	[[+Patritians|Patritians]]
+	[[+Plebians|Plebians]]
+	[[+Slaves|Slaves]]
+
+
+=== Roman Entertainment ===
+	[[+Public Baths|Public Baths]]
+	[[+Gladiator Battles|Gladiator Battles]]
+	[[+Chariot Racing|Chariot Racing]]
+	[[+Theaters|Theaters]]
+
+[[Rome|Back To Rome]]
+

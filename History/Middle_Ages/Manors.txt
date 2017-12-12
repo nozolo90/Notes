@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T21:52:55+01:00
+
+====== Manors ======
+
+
+Created Tuesday 22 August 2017
+
+**Manors **were medieval villages owned by the [[Lord & Lady:Lords|Lord]]
+
+=== Buildings ===
+	* **A manor house** - where the lord lived
+	* **A serfs house** - one roomed shack ( [[History:Wattle and Daub|wattle & daub]] )
+	* **Acres of land** - Where peasants would farm
+	* **Church** - The priest lived in a house beside it - nobody could be arrested here ( sanctuary )
+	* **Commons** - where animals grazed
+	* **Forge** - blacksmith worked here
+	* **Water mill** - mechanism that uses water power to grind wheat to flour - **miller** works here
+	* **River** - Water supply for everything
+	* **Forest** - wood supply
+	* **Ballifs house** - He managed money
+
+[[Middle Ages|Back To Middle Ages]]

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T19:04:59+01:00
+
+====== Tertiary Economic Activity ======
+
+
+Created Sunday 20 August 2017
+
+**Tertiary Economic Activity **is when people pay for services they need
+
+=== Some Examples ===
+	Teachers
+	Engineers
+	Opticians
+	Doctors
+
+[[Types Of Economic Activity|Back To Types Of Economic Activity]]

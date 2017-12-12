@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-10T19:21:33+01:00
+
+
+
+====== Qu'ran ======
+Created Sunday 10 September 2017
+
+{{../../../../Images/picture_of_the_quran.jpeg?width=278}}
+
+The Qu'ran is the **sacred text** of islam.
+
+It is around the same size as the Christian New Testament.
+The book is split into **144 chapters **called **surrahs.**
+
+Muslims wash their hands before touching the book.
+The book is written in arabic, and it is read from right to left.
+
+=== How it was written ===
+* **God spoke to Muhamed** through **Gabriel**.
+* Muhamed **learned the word of god** passed to him by gabriel thouroughly.
+* Muhamed **passes the word of God** **down** to his followers.
+* After Muhameds death(**622AD**), **oral** **and** **written sources** were collected.
+* It took **20 years** to compile them all into a single book, the Qu'ran
+
+Muslims respect the Qu'ran because they consider it to be the direct word of God.
+
+[[Islam|Back To Islam]]

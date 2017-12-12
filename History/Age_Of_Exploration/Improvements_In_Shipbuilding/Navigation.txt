@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T19:46:29+01:00
+
+====== Navigation ======
+Created Monday 25 September 2017
+
+Before, sailors used the stars to see where they were going
+
+=== Astrolabe ===
+	* These used the sun or noth star to find the ships lattitude
+
+=== Compass ===
+	* compasses were used to tell direction
+
+=== Speed ===
+	* a log attatched to a rope would be thrown int the sea; it would remain stationary.
+	* The boat would move away from the log and the log would pull rope off the deck
+	* by seeing how much length of the rope fell off the boat over a certain period of time, you could tell the speed of the bouat
+	* Time was measured by an hourglass
+
+[[Improvements In Shipbuilding|Back To Improvements In Shipbuilding]]
+

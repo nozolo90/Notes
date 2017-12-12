@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T18:16:44+01:00
+
+====== Hydraulic action ======
+
+
+Created Saturday 19 August 2017
+
+**Hydraulic action **is a type of **erosion**
+it is when the force of the water erodes things
+
+[[Attrition|To Attrition]]
+[[Abrasion|To Abrasion]]
+[[Solution|To Solution]]
+
+[[Erosion|Back To Erosion]]

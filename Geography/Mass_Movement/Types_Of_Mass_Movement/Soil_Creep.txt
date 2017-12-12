@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:49:03+01:00
+
+====== Soil Creep ======
+
+
+Created Saturday 19 August 2017
+
+=== Statement ===
+* **Soil creep** is slowest kind of **Mass Movement**
+
+=== Development ===
+* Land moves **grain** by **grain **- 1cm a year
+
+=== Effects on landscape ===
+* **phone poles** are **tilted**
+* Trees grow at an **angle**
+* Steps called **teracets** can develop on the slope
+* **Soil piles up behind walls** causing them to bulge and collapse
+
+[[Mudflow|To Mudflow]]
+[[BogBurst|To BogBurst]]
+[[LandSlides|To LandSlides]]
+
+[[Types Of Mass Movement|Back Up]]

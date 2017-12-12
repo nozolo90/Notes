@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-18T14:14:18+00:00
+
+====== Demographic Transition Model ======
+Created Saturday 18 November 2017
+
+The Demographic Transition Model is a diagram that shows the phases of natural change that countries go through as they develop.
+
+=== Stage 1 - no example ===
+	* Place is **poor**.
+	* Birth rates are **high**.
+	* **Death rates are also high** because of disease, famine and war.
+	* Population **fluctuates** or **grows slowly**.
+
+=== Stage 2 - eg Mali ===
+	* Countries **economy begins to develop**
+	* Birth rates remain **high**.
+	* **Death rates plummet** due to better water, food and medical supplies.
+	* Population **"explodes"** and grows rapidly.
+
+=== Stage 3 - eg Brazil ===
+	* Economy continues to **improve**.
+	* **Birth rates begin to fall** because people begin to plan their families.
+	* Population **growth slows down**.
+
+=== Stage 4 - eg Ireland ===
+	* **Country is economically developed**.
+	* **People live long** but **have few children**.
+	* **Birth rates** and **death rates** are **low**.
+	* Population increases **very slowly**.
+
+=== Stage 5 - eg Germany ===
+	* People have very **few children**.
+	* People are more concerned with **material comforts**.
+	* Population/Natural **decrease**.
+
+[[Population Change|Back To Population Change]]

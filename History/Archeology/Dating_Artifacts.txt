@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T15:12:02+01:00
+
+====== Dating Artifacts ======
+
+
+Created Monday 21 August 2017
+
+After artifacts have been found, they have to be **dated** so we know how old they are
+
+=== There are for ways archaeologists date artifacts ===
+	[[+Dendrochronology|Dendrochronology]]
+	[[+Stratigraphy|Stratigraphy]]
+	[[+Carbon 14 Dating|Carbon 14 Dating]]
+	
+[[Archeology|Back To Contents]]
+

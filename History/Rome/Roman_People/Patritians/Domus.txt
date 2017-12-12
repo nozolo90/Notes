@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T15:55:39+01:00
+
+====== Domus ======
+
+
+Created Tuesday 22 August 2017
+
+**Domuses **were large town houses
+
+They were surrounded in a **High wall **for protection
+
+in the front door was an [[Villa:Atrium|Atrium]].
+It contained **pools** , **statues** , **fountains** and **flowers**.
+
+=== Rooms ===
+	[[Villa:Perystilium|Perystilium]]
+	[[+Slaves Quarters|Slaves Quarters]]
+	**Bedrooms**
+	dining rooms
+	offices
+	kitchens
+
+They had colorful mosaics on the floors and bright murals on the walls
+
+[[Patritians|Back To Patritians]]

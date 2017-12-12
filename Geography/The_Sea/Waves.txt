@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T15:26:33+01:00
+
+====== Waves ======
+
+Created Friday 18 August 2017
+
+{{../../../Images/image_of_wave.jpeg?height=200}}
+
+=== The size of waves is determined by two things ===
+* the **fetch**
+* the **wind power**
+
+the **fetch** is the maximum length of open water wind can blow before hitting land.
+
+Waves are able to affect the coastline.
+
+=== two types of swash ===
+	* **Swash** is the white foamy water that **flows up** on the beach - it [[The Sea:Deposition|deposits]].
+	* **Backwash** is the water that flows **back into the sea** when the wave loses power - it erodes.
+
+===== there are two types of waves =====
+
+=== Constructive Waves ===
+	* **Constructive waves** are waves with a strong swash but weak backwash.
+	* they **add** material to the coast and [[Sea Deposition And Erosion|deposit]].
+
+=== Destructive Waves ===
+	* **Destructive waves** are waves with a weak **swash** but strong **backwash**.
+	* They **remove** material from the coast and erode.
+
+Waves break on the shore due to **friction** with the seabed
+
+[[The Sea|Back To Contents]]

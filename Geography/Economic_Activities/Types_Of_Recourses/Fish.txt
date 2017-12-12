@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T15:55:55+01:00
+
+====== Fish ======
+
+
+Created Monday 21 August 2017
+
+Fish are a renewable resource
+
+=== How fish supply is abused ===
+	[[+Overfishing|Overfishing]]
+		[[+Overfishing:Super Trawlers|Super Trawlers]]
+		[[+Overfishing:Illegal Fishing|Illegal Fishing]]
+
+
+=== How we can conserve fish ===
+	Monitor illegal fishing
+	Smaller fishing ships
+	Reduce amount of trawlers going out at once
+
+
+=== How fish are being conserved ===
+	Irish navy are monitoring illegal fishing
+	Eu sets a maximum amount of fish that can be caught
+	Amount of trawlers going out has decreased
+	Endangered fish species are being protected like cod
+	Ireland has places that other countries cant fish
+
+When we conserve fish, we call it **sustainable** **fishing**
+
+[[Types Of Recourses|Back To Types Of Recourses]]

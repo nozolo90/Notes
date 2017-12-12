@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T13:51:00+01:00
+
+====== Archeology ======
+
+
+Created Monday 21 August 2017
+
+**Archeology** is the study of artifacts
+An **Artifact** is a man made object
+An **Archaeologist** is a person who looks for **artifacts**
+
+==== Contents ====
+	[[+Excavations|Excavations]]
+	[[+Finding An Excavation Site|Finding An Excavation Site]]
+	[[+Excavations:Excavation Tools|Excavation Tools]]
+	[[+Dating Artifacts|Dating Artifacts]]
+	[[+After Artifacts Are Found|After Artifacts Are Found]]
+	
+	[[+Essay|Essay]]
+
+[[History|Back To History]]

@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T12:32:07+01:00
+
+====== Stone Castles ======
+
+
+Created Wednesday 23 August 2017
+
+**Stone Castles **were stronger than **motte and bailey castles**
+
+=== Buildings ===
+	* [[+Keep|keep]] - lord & lady lived here - very strong (thick walls) - narrow windows good defence
+	* **ramparts** - paths on top of the walls
+	* **baws**/**bailey**/**courtyard** - soilders lived here
+	* **stables** - knights horses
+	* **kitchens** - food was made by cooks
+	* **forge** - smith worked here -  horseshoes were made
+	* **well** - fresh water supply without leaving castle
+	* **latrines** - toilets
+	* **battlements** - on top of keep soilders were put here to look for enemies
+
+=== Protection ===
+	* **curtain** **walls** - walls you can peep out of, attack then cover
+	* **Turrets** - strong towers along the walls
+	* **Drawbridge** - raised when enemies were near
+	* **Portcuillis** - Iron grille - like a door
+	* **moat** - ditch around the castle making it less accesible to the enemy
+
+[[Castles|Back To Castles]]

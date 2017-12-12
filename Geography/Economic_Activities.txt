@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T18:11:38+01:00
+
+====== Economic Activities ======
+
+
+Created Sunday 20 August 2017
+
+study for **Economic Activities**
+
+==== Contents ====
+* [[+Types Of Economic Activity|Types Of Economic Activity]]
+	* [[+Types Of Economic Activity:Primary Economic Activity|Primary Economic Activity]]
+	* [[+Types Of Economic Activity:Secondary Economic Activity|Secondary Economic Activity]]
+	* [[+Types Of Economic Activity:Tertiary Economic Activity|Tertiary Economic Activity]]
+* [[+Types Of Recourses|Types Of Recourses]]
+	* [[+Types Of Recourses:Water|Water]]
+	* [[+Types Of Recourses:Fish|Fish]]
+	* [[+Types Of Recourses:Peat|Peat]]
+
+[[Geography|Back To Chapters]]

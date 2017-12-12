@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T22:21:01+01:00
+
+====== Deltas ======
+
+
+Created Saturday 19 August 2017
+
+This landform forms in the [[Rivers:Stages of The River:Old Stage|Old Stage]] at the Mouth71
+**Triangle shaped piece of land which is formed at the mouth of the river**
+
+=== How they form ===
+	* As the river enter the sea it looses speed and drops off all of its remaining load
+	* This material builds up to form a new **land** **delta**
+	* If the **deltas** clog up the Mouth, The river breaks into smaller rivers called [[+Distributaries|Distributaries]]
+
+[[Landforms|Back To Landforms]]

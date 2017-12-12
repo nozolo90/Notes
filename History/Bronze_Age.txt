@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T19:10:14+01:00
+
+====== Bronze Age ======
+
+
+Created Monday 21 August 2017
+
+Began around **2500BC** ( outside Ireland ) when a new metal, **Copper** was discovered.
+People then found out that by adding **tin** to **Copper** they could make a stronger metal, **Bronze**
+
+The [[+Beaker People|Beaker People]] brought the bronze age to Ireland in **2000BC**
+
+==== Contents ====
+	[[+Bronze|Bronze]]
+	[[+Beaker People|Beaker People]]
+	[[+Bronze Extraction|Bronze Extraction]]
+	[[+Tombs|Tombs]]
+	[[+Stone Circles|Stone Circles]]
+	[[+Torcs & Lunlaes|Torcs & Lunlaes]]
+	[[+Fullacht Fia|Fullacht Fia]]
+	[[+Food|Food]]
+
+[[History|Back To History]]

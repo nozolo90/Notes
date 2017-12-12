@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T17:37:49+01:00
+
+====== Blowholes ======
+
+Created Friday 18 August 2017
+
+
+**Erosional** Landform
+
+=== Statement ===
+	* A **Blowhole** is a passage from a [[Sea Caves|Cave]] to the surface
+
+=== Development ===
+	* **Strong waves** come into a **sea cave** and compress the air inside it.
+	* This **pressure creates cracks** and loosens the rock in the roof of the cave.
+	* Over time the **cracks get bigger and a Blowhole develops**.
+	* Sea water **spurts out of the opening** during stormy weather.
+
+* An example is The **Two Pistols Co.Donegal**
+
+[[Landforms|Back to landforms]]

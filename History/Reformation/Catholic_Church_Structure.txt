@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-29T20:13:20+00:00
+
+====== Catholic Church Structure ======
+
+
+Created Wednesday 29 November 2017
+
+* The **pope** **ruled the catholic church** and central italy
+* **Cardinals helped** the pope
+* **Dioceses** were like counties ruled by a bishop
+* **Parishes** were found in dioceses, each with one or more priests
+* People who lived in the parish payed the **tithe**
+* There were also **monastaries** and **convents**
+
+[[Reformation|Back To Reformation]]

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T19:17:49+01:00
+
+====== Essay ======
+
+
+Created Tuesday 22 August 2017
+
+=== Archaeologists ===
+	jobs of an archaeologist
+	**explain** 2 ways to find a digging site ( aerial photography , rescue archeology )
+	**explain** 3 tools they use and what they're used for
+	**explain** 3 different ways to date artifacts ( dendrochronology , stratigraphy , Carbon 14 )
+	Where are artifacts kept after they're found and dated ( museums )
+
+[[Archeology|Back To Archeology]]

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T16:05:39+01:00
+
+====== Plebians ======
+
+
+Created Tuesday 22 August 2017
+
+**Plebians** were ordinary **workers** and **farmers**
+
+Although Roman Citizens, most of them had no time for politics and did not vote for the **senate**
+
+=== Houses ===
+	[[+Insulaes|Insulaes]]
+
+
+=== Clothing ===
+	wore **tunics**
+
+=== Food ===
+	**plebians** ate **bread**, **porridge**, **beans**, **lentils** and a small bit of **meat**
+	most of them relied on **government** **bread** **handouts** called the **dole**.
+	
+[[Roman People|Back To Roman People]]
+

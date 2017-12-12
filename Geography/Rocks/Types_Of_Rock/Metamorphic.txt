@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:52:17+01:00
+
+====== Metamorphic ======
+
+
+Created Sunday 20 August 2017
+
+**Metamorphic** **Rocks** are formed when already existing rock is changed into new rock by **great heat** or **pressure**
+
+=== The Metamorphic Rocks Are ===
+	* [[+Marble|Marble]]
+	* [[+Quartzite|Quartzite]]
+
+[[Types Of Rock|Back To Types Of Rocks]]

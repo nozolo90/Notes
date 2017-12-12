@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T19:04:05+01:00
+
+====== Landforms ======
+
+
+Created Saturday 19 August 2017
+
+There are three types of **landforms**, ones caused by [[Erosion]], ones created by [[Deposition]] and **both**.
+
+=== the erosion landforms are: ===
+	* [[+Waterfalls|Waterfalls]]
+	* [[+V-shaped Valley|V-shaped Valley]]
+	* [[+Interlocking Spurs|Interlocking Spurs]]
+	* [[+Wide River Valleys|Wide River Valleys]]
+
+=== the deposition landforms are: ===
+	* [[+Deltas|Dealtas]]
+	* [[+Leves|Leves]]
+	* [[+FloodPlains|FloodPlains]]
+
+=== the both are: ===
+	* [[+Ox-Bow Lake|Ox-Bow Lake]]
+	* [[+Meanders|Meanders]]
+
+[[Rivers|Back To Contents]]

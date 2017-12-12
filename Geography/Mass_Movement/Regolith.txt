@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:35:13+01:00
+
+====== Regolith ======
+
+
+Created Saturday 19 August 2017
+
+loose weathered material is called **regolith**
+**regolith** moves downhill due to gravity. this is called **mass movement**
+
+[[Mass Movement|Back To Contents]]

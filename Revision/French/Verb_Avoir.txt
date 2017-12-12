@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T19:37:09+01:00
+
+====== Verb Avoir ======
+
+
+Created Tuesday 05 September 2017
+
+===== To Have =====
+
+**J'ai** - i have
+**tu as** - you have
+**il/elle a** - he/she has
+**nous avons** - we have
+**vous avez** - yous have
+**Ils/elles ont** - they(m/f) have
+
+[[French|Back To French]]

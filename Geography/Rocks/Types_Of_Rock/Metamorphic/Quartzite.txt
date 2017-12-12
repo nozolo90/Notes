@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:57:32+01:00
+
+====== Quartzite ======
+
+
+Created Sunday 20 August 2017
+
+**quartzite** is formed from [[Types Of Rock:Sedimentary:Sandstone|Sandstone]]
+
+=== Characteristics ===
+	* light colored
+	* Hard
+
+=== Found in ===
+	* Sugar loaf
+
+=== Uses ===
+	* Road Chippings
+	* Sandpaper
+	* Watches
+
+[[Metamorphic|Back To Metamorphic]]

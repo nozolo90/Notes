@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T16:52:37+01:00
+
+====== Cliffs ======
+
+Created Friday 18 August 2017
+
+**Erosional** Landform
+
+=== Statement ===
+* Overhanging thing near sea
+
+=== Development ===
+* **Destructive Waves** cut into the rock eroding a **notch**
+* Over time this causes an **overhang** to develop
+* When the notch is cut deeper into the rock, **the overhang collapses**(no support)
+* Process repeats - Cliff Retreats
+* As it retreats, a **wave cut Platform** is created
+* A wave cut platform is a surface of **rock pieces from the collapsed overhang**
+* An example is the **Cliffs of Moher Co.Clare**
+
+[[Landforms|Back to landforms]]

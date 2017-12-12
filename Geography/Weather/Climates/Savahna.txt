@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-06T17:46:56+00:00
+
+====== Savahna ======
+
+
+Created Wednesday 06 December 2017
+
+=== Temperature ===
+* Thery are hot all year with **two seasons** (**25 to 35 degrees celcius**).
+
+=== Precipitation ===
+* They have **wet summers** and **dry winters**.
+* **800ml** of precipitation annually.
+
+=== Biodeversity ===
+* **Lions**, **cheetahs**, **girraffes**.
+
+[[Climates|Back To Climates]]

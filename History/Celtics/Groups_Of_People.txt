@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T22:49:10+01:00
+
+====== Groups Of People ======
+
+
+Created Monday 21 August 2017
+
+=== There were 6 groups of people in Celtic society ===
+	The **ri** ( king )
+	The [[+Derbhfine|derbhfine]]
+	The [[+Warriors|Warriors]]
+	The [[+Aos Dana|Aos Dana]]
+	The **farmers**
+	The **slaves**
+
+[[Celtics|Back To Celtics]]

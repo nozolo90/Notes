@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T11:58:26+01:00
+
+====== Apprentice ======
+
+
+Created Wednesday 23 August 2017
+
+At **12** years old the boy will live with a **mastercraftsman** and learn the trade
+
+[[Journeyman|To Journeyman]]
+[[Mastercraftsman|To Mastercraftsman]]
+
+[[Craftsmen|Back To Craftsmen]]

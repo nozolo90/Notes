@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T20:06:40+01:00
+
+====== Verb etes ======
+
+
+Created Tuesday 05 September 2017
+
+===== To be =====
+
+**Je suis** - i am
+**Tu es** - You are
+**Il/elle est** - He/She is
+**nous sommes** - We are
+**Vous etes** - yous are
+**ils/elles sont** - they are
+
+[[French|Back To French]]

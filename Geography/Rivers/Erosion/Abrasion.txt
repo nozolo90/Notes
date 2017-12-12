@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T18:18:18+01:00
+
+====== Abrasion ======
+
+
+Created Saturday 19 August 2017
+
+**Abrasion **is a type of **erosion**
+**Abrasion** is caused by the force of the rocks carried in the water
+
+[[Hydraulic action|To Hydraulic action]]
+[[Attrition|To Attrition]]
+[[Solution|To Solution]]
+
+[[Erosion|Back To Erosion]]

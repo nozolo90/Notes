@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T22:22:38+01:00
+
+====== Weathering ======
+
+Created Friday 18 August 2017
+
+Weathering is the **breakdown of rocks that are exposed to weather**
+
+=== Chemical Weathering ===
+* **Chemical Weathering **dissolves rock
+* Its main agent is **rain**.
+__Types__
+	* [[+Carbonation|Carbonation]]
+
+=== Mechanical Weathering ===
+* **Mechanical Weathering **breaks rocks down into smaller pieces
+* agents are **frost**, **wind**, **plants** and **animals** and **sudden temperature change**
+__Types__
+	* [[+Freeze Thaw Action|Freeze Thaw Action]]
+
+[[The Forces Of Weathering|Back To Contents]]

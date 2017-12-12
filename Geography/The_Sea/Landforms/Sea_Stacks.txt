@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T18:46:33+01:00
+
+====== Sea Stacks ======
+
+Created Friday 18 August 2017
+
+**Erosional **landform.
+
+=== Statement ===
+	* **Sea Stacks** are pillars of rock separated from the coast
+
+=== Development ===
+	* When [[Sea Arches]] are eroded further they become **wider**
+	* Eventually the roof can no longer support itself and **collapses**
+	* This leaves a **pillar of rock** separated from the coast
+
+* An example is **Hook Head Co.Wicklow**
+
+[[:geography:The Sea:Landforms:Sea Stumps|To Sea Stumps]]
+
+[[Sea Caves|To Sea Caves]]
+[[Sea Arches|To Sea Arches]]
+
+[[Landforms|Back to landforms]]

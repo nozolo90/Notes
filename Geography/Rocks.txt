@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T23:00:02+01:00
+
+====== Rocks ======
+
+
+Created Saturday 19 August 2017
+
+Study for **Rocks**
+
+==== Contents ====
+	* [[+Characteristics|Characteristics]]
+	* [[+Types Of Rock|Types Of Rock]]
+	* [[+Goods Rocks Contain|Goods Rocks Contain]]
+	* [[+Rock Extraction|Rock Extraction]]
+
+[[Geography|Back To Chapters]]

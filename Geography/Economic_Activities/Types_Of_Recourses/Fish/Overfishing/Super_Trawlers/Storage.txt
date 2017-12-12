@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T16:09:06+01:00
+
+====== Storage ======
+
+
+Created Monday 21 August 2017
+
+**Super Trawlers** have massive storages called **holds** that can carry up to **6,000 tones** of fish
+
+[[Super Trawlers|Back To Super Trawlers]]

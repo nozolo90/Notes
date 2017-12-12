@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T20:44:37+00:00
+
+====== Climates ======
+
+
+Created Sunday 03 December 2017
+
+=== Hot Climates - 30 degrees north and south of the equator ===
+	* [[+Hot Desert|Hot Desert]] - **Most Important**
+	* [[+Equitorial|Equitorial]]
+	* [[+Savahna|Savahna]]
+	* [[+Desert|Desert]]
+
+=== Temperate Climates ===
+	* [[+Mediteranian|Mediteranian]] - **Most Important**
+	* [[+Cool Oceanic|Cool Oceanic]]
+
+=== Cold Climates ===
+	* [[+Boreal|Boreal]] - **Most Important**
+	* [[+Tundrah|Tundrah]]
+[[Weather|Back To Weather]]

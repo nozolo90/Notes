@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T18:18:24+01:00
+
+====== Solution ======
+
+
+Created Saturday 19 August 2017
+
+**Solution** is a type of **erosion**
+Its when **Acids **in the water erode rocks and dirt
+
+[[Hydraulic action|To Hydraulic action]]
+[[Attrition|To Attrition]]
+[[Abrasion|To Abrasion]]
+
+[[Erosion|Back To Erosion]]

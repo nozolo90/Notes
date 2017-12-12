@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T21:49:43+00:00
+
+====== Types Of Slope ======
+
+
+Created Monday 27 November 2017
+
+=== Even ===
+	These slopes have evenly spaced contours
+
+=== Convex ===
+	these slopes are steep at the start, then flater nearer to the end
+
+=== Concave ===
+	these maps are flater near the start, but steeper near the end
+
+=== Compound ===
+	These slopes are both concave and convex combined
+	
+[[Maps|Back To Maps]]

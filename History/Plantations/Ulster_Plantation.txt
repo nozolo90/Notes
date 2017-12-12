@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T11:15:19+00:00
+
+====== Ulster Plantation ======
+
+
+Created Sunday 03 December 2017
+
+| Year | Organiser    | Success |
+|:-----|:-------------|:--------|
+| 1609 | King James I | Yes     |
+
+
+=== Why it happened ===
+* Ulster was the last province of ireland not controlled **fully** by the english.
+* The english were trying to impose their culture(common law,arable farming,english language) onto ulster and **the people had had enough**.
+* They **rebelled** against the english in **1594**.
+* It was led by **Hugh O'Neil**, earl of tyrone.
+* This was the begining of the **nine years war**.
+
+=== Nine Years War ===
+* The irish lost the war
+__Some important battles__
+
+== Battle of yellow ford ==
+* he irish **won** this battle, inspiring them to fight harder
+
+== Battle of kinsale ==
+	* /The irish had asked king philip of Spain to help them fight for the Catholic faith in Ulster.
+	* In **1601**, The spaish army arrived in kinsale down south.
+	* The Irish forces had to march down to meet up with the spainards but met english forces first.
+	* The enlgish **destroyed** both armies.
+
+== War Lost ==
+* In **1603** the treaty of melifont was signed, ending the war.
+* In **1607** the flight of earls occured.
+
+=== Plantations ===
+* When the irish lords were gone, king james planted ulster.
+* He divided the earls land into 6 counties **Donegal, Derry, Tyrone, Fermanagh, Armagh, Cavan**.
+__DDTFAC__
+* He divided his estates into **1000**, **1500** and **2000 acres**.
+* The estates were given two three types of **planter**.
+	* **Undertaker.**
+	* **Servitor.**
+	* **Loyal Gaelic Irish.**
+* The english brought their language, arable farming and religion.
+
+=== County Derry ===
+* County derry was given over to guilds such as the **drapers, tailors, vinters and fishmobgers**.
+* This was so that they would build great towns with good buisesses.
+* They also had experience setting things up, setting standards and rules and building shops.
+
+[[Plantations|Back To Plantations]]

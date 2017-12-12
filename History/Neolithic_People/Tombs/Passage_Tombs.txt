@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T11:51:24+01:00
+
+====== Passage Tombs ======
+
+
+Created Monday 21 August 2017
+
+**passage** **tombs** were like [[Court Cairns]] but much larger
+
+passage tombs look like a large hill.
+inside there is a long passage leading to a **chamber** similar to **court cairns**
+
+An example is **newgrange Co.Meath**
+
+=== Newgrange ===
+	Newgrange is the largest passage tomb in Ireland
+	people began excavating it in **1960AD**
+	it was built in and around **2500BC**, making it older than **Stonehenge** and the **pyramids**
+	it has a corbeled roof
+	sunlight lights it up on the **21st of December** ( winter solice )
+	very few people buried in it, probably only for **very important people**
+
+[[Tombs|Back To Tombs]]

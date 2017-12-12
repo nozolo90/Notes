@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T18:49:34+01:00
+
+====== Age Of Exploration ======
+Created Monday 25 September 2017
+
+The age of exploration is when the europeans began discovering more land, most of it in the new world
+
+==== Age of exploration causes ====
+
+=== 1. DEMAND FOR SPICES ===
+	* Before the age of exploration, **christian europeans** passed through dangerous trade routes controlled by **muslims** who they were often at **war** with
+	* Muslims would give **high taxes** too
+	* These difficulties motivated the europeans to find a **new route to asia**
+__Spice Uses__
+	* **flavour**
+	* **preserving foods**
+
+=== SUPPORT FROM RULERS ===
+
+	* **rulers** wanted to gain control over **new land**
+	* the new land could contain **goods** like **gold**
+	* they also wanted to **spread christianity** and **build empires**
+
+=== RENNAISSANCE ===
+
+	* People wanted to **find out more** about the word
+
+=== 4. MYTHS ===
+	* some rulers were inspired by **myths**
+**5.** [[+Improvements In Shipbuilding|IMPROVEMENTS IN SHIPBUILDING]]
+
+=== Contents ===
+	* [[+Henry The Navigator|Henry The Navigator]]
+	* [[+The Explorers|The Explorers]]
+	* [[+Treaty Of Tordesillas|Treaty Of Tordesillas]]
+	* [[+The Conquisadores|The Conquisadores]]
+	* [[+Consequences Of The Age Of Exploration|Consequences Of The Age Of Exploration]]
+
+[[History|Back To History]]

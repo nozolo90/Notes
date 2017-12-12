@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T17:18:54+00:00
+
+====== Improved Technology ======
+
+
+Created Monday 27 November 2017
+
+=== Statement ===
+* Some technology helps people live longer so it asssists population growth
+
+=== Developmet ===
+* Farm machinery increases food production
+* Medical equipment saves lives, lowering death rates.
+* Pumps and water treatment equipment help provide safe and clean water.
+
+[[Factors That Influence Change|Back To Factors That Influence Change]]

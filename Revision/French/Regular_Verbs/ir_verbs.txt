@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T19:45:09+01:00
+
+====== ir verbs ======
+
+
+Created Tuesday 05 September 2017
+
+**Je/Tu** + is
+**il/elle** + it
+**nous** + issons
+**vous** + issez
+**ils/elles** + issent
+
+[[Regular Verbs|Back To Regular Verbs]]

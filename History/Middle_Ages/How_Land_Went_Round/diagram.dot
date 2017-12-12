@@ -1,0 +1,10 @@
+digraph B {
+	land [shape=box color=green style=filled]
+	Lord -> vassals
+	Lord -> knights
+	King -> Lord
+	freemen
+	Lord -> land
+	freemen -> land
+	serfs -> land
+}

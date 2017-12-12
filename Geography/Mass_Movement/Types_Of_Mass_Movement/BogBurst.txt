@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:51:53+01:00
+
+====== BogBurst ======
+
+
+Created Saturday 19 August 2017
+
+=== Statement ===
+* A bogburst is when a bog saturated with water flows downslope
+
+=== Development ===
+* **Bogbursts** occur when bogs absorb **large amounts of rainwater** and **have no way to drain it**
+* This causes the bog to become **heavy** and **saturated with water**
+* **Peat can then flow downslope** like runny porridge and **cause great damage** over a large area
+
+[[Soil Creep|To Soil Creep]]
+[[Mudflow|To Mudflow]]
+[[LandSlides|To LandSlides]]
+
+[[Types Of Mass Movement|Back Up]]

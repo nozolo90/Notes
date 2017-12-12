@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T19:31:19+01:00
+
+====== Time ======
+
+
+Created Tuesday 05 September 2017
+
+Half past - **et demie**
+a quarter = **le quart**
+
+**1:00** = une heure
+**1:15** = une heure et le quart
+**1:30** = une heure et demie
+**1:45** = deux heures moins le quart
+**2:00** = deux heures
+
+after half past you use **moins**
+
+**12:00PM** = midi
+**12:00AM **= minuit
+
+[[French|Back To French]]

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-18T16:25:37+00:00
+
+====== Questions ======
+Created Saturday 18 November 2017
+
+1. What is natural change how is it calculated
+2. What is birth rate and death rate
+3. What is natural increase and decrease + give examples
+4. What is the Demographic Transition Model
+5. What are the 5 stages of the DTG + give examples of countries
+6. What are the 6 factors that influence population + explain them
+
+[[Population|Back To Population]]

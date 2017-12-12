@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-10T19:11:43+01:00
+
+====== Pillars ======
+Created Sunday 10 September 2017
+
+{{../../../../Images/5_pillars_of_islam.jpeg?width=300}}
+
+===== The five pillars are the moral code for islam. =====
+
+=== Belief - Shahadah ===
+* There is no god but allah and mohamed is the prophet of allah
+
+=== Prayer - Salat ===
+* Mulims must pray to allah **5** **times** **a** **day**
+* on friday they play in the **mosque**
+
+=== Charity - Zakat ===
+* Give **2.5%** of their savings to help those in need
+
+=== Fasting - Sawm ===
+* Muslims must fast from **sunrise** to **sunset** during the month of **ramadah**
+* during **ramadan** muslims also **pray** **more** **often**,read more of the **qu'ran** and **give more to charity**
+* during ramadan, muslims also pray more and read more of the Qu'ran.
+
+=== Pilgramage - Hajj ===
+* Muslims must make atleast one journey to the ka'ba in their life time
+* The ka'ba is in mecca, the birthplace of muhamed and it is the most **sacred** **shrine** **of** **islam**
+	
+[[Islam|Back To Islam]]

@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T18:19:39+01:00
+
+====== River Transportation ======
+
+
+Created Saturday 19 August 2017
+
+Material [[Erosion|eroded]] by the river **Transported** downstream
+Material being carried in the river can be [[Deposition|Deposited]] in the [[Stages of The River:Old Stage|Old]] or [[Stages of The River:Mature Stage|Mature]] stage
+
+=== There are four ways material can be transported: ===
+
+== Rolling ==
+* **Large Rocks **are pushed along the river bed by the force of the water
+
+== Bouncing ==
+* **Smaller Rocks **bounce along the riverbed , pushed by the force of the water
+
+== Suspension ==
+* **Small and Light **rocks are suspended above the riverbed and float along with the river
+
+== Solution ==
+* **Disolved Materials **are dissolved... in the river and move with it
+
+[[Rivers|Back To Contents]]

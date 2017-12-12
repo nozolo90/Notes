@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T21:12:30+01:00
+
+====== Waterfalls ======
+
+
+Created Saturday 19 August 2017
+
+A **Waterfall **is when a river falls over a ledge
+
+=== How its formed ===
+	* A band of **hard** **rock** lies on an area of **soft** **rock**
+	* **The river **[[Rivers:Erosion|erodes]]** the soft rock faster than it erodes the hard rock** so that **a downwards drop develops** where hard and soft rock meet
+	* The river **falls over this drop** as a waterfall
+	* A [[+Plunge Pool|Plunge Pool]] develops **at the base of the waterfall**.
+	* As the plunge pool gets bigger and bigger, it undercuts the hard rock.
+	* the soft rock that was once supporting the weight of the hard rock is eroded and the unsupported **hard rock collapses into the plunge pool**
+	* This process continues and **the river erodes upstream**
+An example  is **Niagra Falls**
+
+[[+Diagrams|See Diagrams]]
+[[Landforms|Back To Landforms]]

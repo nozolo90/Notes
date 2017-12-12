@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-02T15:11:27+00:00
+
+====== Plantations ======
+Created Saturday 02 December 2017
+
+A plantation in irish history was when the english removed irish settlers from their land and moved their own people on to the land.
+
+=== Contents ===
+* [[+Reasons For Plantations|Reasons For Plantations]]
+* [[+Surrender and Regrant|Surrender and Regrant]]
+
+=== Plantations ===
+* [[+Laois Offaly Plantation|Laois Offaly Plantation]]
+* [[+Munster Plantation|Munster Plantation]]
+* [[+Ulster Plantation|Ulster Plantation]]
+* [[+Cromwell Plantation|Cromwell Plantation]]
+
+[[History|Back To History]]

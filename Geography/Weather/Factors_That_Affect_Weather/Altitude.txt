@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-06T17:07:58+00:00
+
+====== Altitude ======
+
+
+Created Wednesday 06 December 2017
+
+=== Statement ===
+* Altitude is how high something is above sea level.
+
+=== Development ===
+* The higher the altitude of a place, the colder it tends to be.
+* On average the temperature dops by about 7 degrees celcius for every killometer you go up, called the lapse rate.
+* This is because the air is thinner and can hold less heat.
+* An example is mount killamanjaro in tanzania.
+* It is near the equator(lattitude) and in africa, yet because it is so high.
+
+[[Factors That Affect Weather|Back To Factors That Affect Weather]]

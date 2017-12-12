@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T15:27:10+01:00
+
+====== Goods Rocks Contain ======
+
+
+Created Sunday 20 August 2017
+
+=== Gemstones ===
+	* Diamond
+	* Ruby
+	* Sapphire
+	* Jade
+
+=== Ores ===
+	* Iron
+	* Copper
+	* Lead
+
+=== Fossil Fuels ===
+	* [[Types Of Rock:Sedimentary:Coal|Coal]]
+	* Oil
+	* Natural gas
+
+[[Rocks|Back To Contents]]

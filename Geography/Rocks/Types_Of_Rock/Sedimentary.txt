@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:50:17+01:00
+
+====== Sedimentary ======
+
+
+Created Sunday 20 August 2017
+
+**Sedimentary Rocks** are formed when layers of **sediment** pile up on top of each other, **compressing the lower layers into rock**
+
+=== The Sedimentary Rocks are ===
+	* [[+Limestone|Limestone]]
+	* [[+Sandstone|Sandstone]]
+	* [[+Shale|Shale]]
+	* [[+Coal|Coal]]
+
+[[Types Of Rock|Back To Types Of Rocks]]

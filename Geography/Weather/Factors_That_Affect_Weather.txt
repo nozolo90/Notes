@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T11:42:48+00:00
+
+====== Factors That Affect Weather ======
+
+
+Created Sunday 03 December 2017
+
+=== Factors ===
+* [[+Latitude|Latitude]]
+* [[+Distance From Sea|Distance From Sea]]
+* [[+Prevailing Winds|Prevailing Winds]]
+
+=== Local Factors ===
+* [[+Altitude|Altitude]]
+* [[+Aspect|Aspect]]
+
+[[Weather|Back To Weather]]

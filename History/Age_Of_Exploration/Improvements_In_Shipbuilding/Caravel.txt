@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T19:43:07+01:00
+
+====== Caravel ======
+Created Monday 25 September 2017
+
+Caravel ships were a new type of ship
+
+=== Features ===
+	* **Small** and **easy to steer**
+	* Triangular lateen sails allowed ships to **sail into the wind**
+	* **Strong** clinker built design
+	* **Water-Tight** decks
+
+[[Improvements In Shipbuilding|Back To Improvements In Shipbuilding]]
+

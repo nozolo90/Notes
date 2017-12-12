@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T18:18:16+01:00
+
+====== Attrition ======
+
+
+Created Saturday 19 August 2017
+
+**Attrition **is a type of **erosion**.
+**Attrition **is when rocks carried in the water hit against each other and break each other up
+
+[[Hydraulic action|To Hydraulic action]]
+[[Abrasion|To Abrasion]]
+[[Solution|To Solution]]
+
+[[Erosion|Back To Erosion]]

@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T21:08:21+00:00
+
+====== Measuring Distances ======
+
+
+Created Monday 27 November 2017
+
+Measuring Distances between two points
+
+== Straight Line Distances ==
+	* Place the straight edge of a paper on the map so that it is passing through the two points
+	* Then using a pencil or a pen mark on the edge of the paper where the points are
+	* Put the piece of paper on the linear scale to measure thee distance between the two marks
+
+== Curved Line Distances ==
+	* Place the strip of paper on the starting or first point.
+	* Mark both the paper edge and the map on the starting point.
+	* Rotate the strip of paper so that the edge goes through the center of the road
+	* Make a mark on the sheet of paper and the map where the road begins to curve.
+	* Now repeat step 3 through 5 until you reach the ending point.
+	* Put the piece of paper on the linear scale to measure the distnce between two marks
+
+[[Maps|Back To Maps]]

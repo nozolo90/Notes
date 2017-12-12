@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-06T17:40:04+00:00
+
+====== Equitorial ======
+
+
+Created Wednesday 06 December 2017
+
+{{../../../../Images/equitorial_climate.jpeg?height=200}}
+
+=== Temperature ===
+* Hot all year (**32 degrees celcius**).
+
+=== Precipitaion ===
+* Rain every afternoon - mostly convectional.
+* High level of humidity.
+* **2000ml** of rain per year.
+
+=== Biodiversity ===
+* Exotic birds, monkeys, parrots
+
+[[Climates|Back To Climates]]

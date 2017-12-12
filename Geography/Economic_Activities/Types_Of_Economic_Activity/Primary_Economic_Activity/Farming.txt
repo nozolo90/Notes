@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T18:59:23+01:00
+
+====== Farming ======
+
+
+Created Monday 21 August 2017
+
+=== Inputs - Things that go into the farm to make it work ===
+**examples**
+	* fertilizers
+	* food
+	* machinery
+
+=== Processes - Tasks Farmers Perform ===
+**examples**
+	* feeding cows
+	* spreading silage
+	* sheering sheep
+	* milking cows
+
+=== Outputs - what comes out of the farm ===
+**examples**
+	* beef
+	* milk
+	* fruit
+	* wheat
+	* cattle
+
+=== Types of farming ===
+	* Dairy
+	* Cereal/Tillage (Wheat)
+	* Market Gardening
+	* Beef
+	* **Mixed**
+
+[[Primary Economic Activity|Back To Primary Economic Activities]]

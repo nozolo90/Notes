@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T20:20:00+01:00
+
+====== Negative Verbs ======
+
+
+Created Tuesday 05 September 2017
+
+To make a verb negative you add **ne <verb> pas**
+or if the verb is a vowel **n'<verb> pas**
+
+[[French|Back To French]]

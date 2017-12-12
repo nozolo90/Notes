@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T19:55:51+01:00
+
+====== Sand Dunes ======
+
+Created Friday 18 August 2017
+
+=== Statement ===
+	* **Sand Dunes **are hills of sand which form above the high tide level.
+
+=== Development ===
+	* Wind dries the sand on the beach making it **lighter**
+	* The **wind blows the sand inland** and it is trapped by **walls** or **vegetation**
+	* The sand builds up into **bigger hills** which are sand dunes
+	* **Marram grass** is used to **bind the sand together** and keep it from blowing everywhere
+
+=== Example ===
+	* An example is **Tramore Co.Waterford**
+
+[[Landforms|Back to landforms]]

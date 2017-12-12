@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-10T18:33:21+01:00
+
+====== Aois ======
+Created Sunday 10 September 2017
+
+Aon **bhlian** d'aois
+Dha **blian** d'aois
+Tri/Ceithre/cuig/se **bliana** d'aois
+Seacht/ocht/naoi/deich **mbliana** d'aois
+
+=== Examples ===
+	I am 3
+	**Ta me tri bliana d'aois**
+	
+	i am thirteen(13)
+	**Ta me thi bliana deag d'aois**
+
+=== Birthday ===
+	Ta mo bhreithla ar an <date>
+	Rugadh me i <place>
+
+[[Me Fein|Back To Me Fein]]
+

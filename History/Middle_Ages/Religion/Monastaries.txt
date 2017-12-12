@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T15:38:16+01:00
+
+====== Monastaries ======
+
+
+Created Wednesday 23 August 2017
+
+=== Buildings ===
+	[[+Clostier|Clostier]]
+	[[+Chapter House|Chapter House]]
+	[[+Infermery|Infermery]]
+	[[+Refectory|Refectory]]
+	[[+Dormitories|Dormitories]]
+	[[+Guest House|Guest house]]
+	[[+Library|Library]]
+	
+
+=== People ===
+	* **Abbot** - the leader of the monastary who was elected by the monks
+	* almoner - looked after the poor when they visited
+	* **hosteller** - looked after travelers
+	* **librarian** - looked after library
+	* **prior** - takes over for abbot when he is gone
+	* **friars** - traveling monks eg **dominicans** , **augustinians**
+	* **Benidictines** and **poor** **clares**
+	* [[History:Celtics:Religion:Monastaries:Monks|Monks]]
+	* [[History:Celtics:Religion:Monastaries:Scribes|Scribes]]
+
+[[Religion|Back To Religion]]

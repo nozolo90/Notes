@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T15:29:20+01:00
+
+====== Rock Extraction ======
+
+
+Created Sunday 20 August 2017
+
+=== There are three ways rocks can be extracted ===
+
+=== Offshore Rigs ===
+* **oil** and **natural gas** can be pumped to the surface from **offshore rigs**
+* An example is **corrib gas feild**
+
+=== Quarrying ===
+* [[Rocks:Types Of Rock:Sedimentary:Limestone|Limestone]] can be extracted through **quarrying**
+* Quarrying involves extracting rock **not far below the earths surface** with **explosives**.
+
+=== Shaft Mining ===
+* [[Rocks:Types Of Rock:Sedimentary:Coal|Coal]] and other rocks found in **strips** can be mined through shaft mining
+* shaft mining involves digging a **vertical tunnel down** into the earth, then building **horizontal tunnels** branching off that one to get rocks found in seams like coal
+
+[[Rocks|Back To Contents]]

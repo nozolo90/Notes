@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-24T14:37:52+01:00
+
+====== Denominations ======
+
+
+Created Thursday 24 August 2017
+
+=== Great Schism - 1054AD ===
+* Arguument over where the leader of the church should be based.
+
+=== The Reformation - 16th century ===
+* The church was reformed after people revolted against it because of its wrongdoings.
+{{./diagram.png?type=diagram}}
+
+=== Denominations ===
+	* [[+Catholic|Catholic]]
+	* [[+Prodastent|Prodastent]]
+	* [[+Orthodox|Orthodox]]
+
+[[Christianity|Back To Christianity]]

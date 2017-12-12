@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T11:10:11+01:00
+
+====== Karst area ======
+
+Created Saturday 19 August 2017
+
+An area where limestone is visible on the surface
+An example is **The Burren Co.Clare**
+
+[[Landforms|Back To Landforms]]

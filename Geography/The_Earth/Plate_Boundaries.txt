@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T16:59:37+01:00
+
+====== Plate Boundaries ======
+
+
+Created Sunday 20 August 2017
+
+**Plate Boundaries** are where plates meet
+
+=== Transform ===
+* At these **Plate Boundaries** two [[The Earth:Plates|Plates]] slide past each other
+* [[The Earth:EarthQuakes|Earthquakes]] may occur
+
+=== Constructive ===
+* At these **Plate Boundaries **plates **separate**
+* [[The Earth:Volcanoes|Volcanoes]] and [[The Earth:Mid Ocean Ridges|Mid ocean ridges]] can occur here
+
+=== Destructive ===
+* At these **Plate Boundaries** [[The Earth:Plates|Plates]] collide
+* [[The Earth:Fold Mountains|Fold Mountains]] and ocean trenches can occur here
+
+[[The Earth|Back To Contents]]

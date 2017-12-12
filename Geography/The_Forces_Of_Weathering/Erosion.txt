@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T09:20:59+01:00
+
+====== Erosion ======
+
+Created Saturday 19 August 2017
+
+**Erosion **is the **breakdown** and **removal** of rock
+
+=== Its main agents are: ===
+	* **Moving air**
+	* **Moving ice**
+	* **Moving water**
+
+[[The Forces Of Weathering|Back To Contents]]

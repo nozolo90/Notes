@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:57:31+01:00
+
+====== Marble ======
+
+
+Created Sunday 20 August 2017
+
+**Marble** is formed from [[Types Of Rock:Sedimentary:Limestone|Limestone]]
+
+=== Characteristics ===
+	* [[Metamorphic]] rock
+	* Hard rock
+	* varies in color depending on where it is mined
+		* **red ( Cork )**
+		* **black ( Killkeny )**
+
+=== Uses ===
+	* Mantle Pieces
+
+[[Metamorphic|Back To Metamorphic]]

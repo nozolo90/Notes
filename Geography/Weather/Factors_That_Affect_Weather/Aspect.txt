@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T19:06:14+00:00
+
+====== Aspect ======
+
+
+Created Sunday 03 December 2017
+
+=== Statement ===
+* Aspect is the direction a slope is facing.
+
+=== Development ===
+* In the northern hemishphere south facing slpes are warmer.
+* This is because the sun rays shine directly on to them.
+* They are also warmer because they are protected from cold northerly winds by the slope
+
+[[Factors That Affect Weather|Back To Factors That Affect Weather]]

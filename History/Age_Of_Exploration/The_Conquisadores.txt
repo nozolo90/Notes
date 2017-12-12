@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T20:21:53+01:00
+
+====== The Conquisadores ======
+Created Monday 25 September 2017
+
+=== Who Were They ===
+The conquisadores were spanish conquerors sent to take over land
+
+=== Dates ===
+| Name            | Year | Took over |
+|:----------------|:-----|:----------|
+| Hernando Cortes | 1519 | Aztecs    |
+| Pizarro         | 1531 | Incas     |
+
+
+=== Explorers ===
+[[+Cortez|Cortez]]
+[[+Pizarro|Pizarro]]
+
+[[Age Of Exploration|Back To Age Of Exploration]]

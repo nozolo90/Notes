@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T19:03:44+01:00
+
+====== Christopher Colombus ======
+Created Monday 25 September 2017
+
+
+== See essay ==
+[[Christopher Columbus Essay|Here]]
+
+[[The Explorers|Back To The Explorers]]

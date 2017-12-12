@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:57:34+01:00
+
+====== Limestone ======
+Created Sunday 20 August 2017
+
+=== How it's formed ===
+	* **Limestone** formed at the bottom of the sea.
+	* Layers of dead sea creatures, sediment and plants are deposited on the sea floor.
+	* Over time,  these layers build up and the lower ones begin to be compressed into solid rock.
+
+Layers of **limestone** are called **strata**
+The sections of these layers are called **bedding planes**
+The separation between bedding planes are called **joints**
+
+Areas where limestone is visible on the surface are called [[Geography:The Forces Of Weathering:Landforms:Karst area|Karst areas]]
+
+The **carbonation** dissolves **notches** into Karst Areas called **grykes**
+Rainwater seeps into the **grykes** and dosen't stay on the high non eroded points called **clints**
+The **grykes** get deeper but the **clints** stay high
+This gives **Karst areas** a unique landscape
+
+=== Characteristics ===
+	* Color - Grey
+	* [[Sedimentary]] Rock
+	* Permeable (water can pass through its cracks)
+	* can be dissolved through [[Geography:The Forces Of Weathering:Weathering:Chemical Weathering:Carbonation|Carbonation]]
+	* Can contain **fossils**
+
+=== Found in ===
+	* The Burren Co.Clare ( [[Geography:The Forces Of Weathering:Landforms:Karst area|Karst area]] )
+
+=== Uses ===
+	* fertilizer
+	* lake acid neutralization
+	* building monuments
+	* cement
+	* glass
+
+[[Types Of Rock|Back To Types Of Rocks]]

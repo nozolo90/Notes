@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T19:52:55+00:00
+
+====== Convection ======
+
+
+Created Sunday 03 December 2017
+
+The sun **heats the ground**.
+The **ground heats air**, and the **warmed air rises**.
+As the warm air **rises**, it **cools and condeses** forming **cumulos clouds**.
+Cumulous clouds are asccociated with **thunder** and **heavy showers**.
+
+[[Cloud and Rain types|Back To Cloud and Rain types]]

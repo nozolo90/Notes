@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T15:17:32+01:00
+
+====== Landforms ======
+
+Created Friday 18 August 2017
+
+There are two types of **landforms**, ones caused by erosion and ones created by deposition.
+
+=== the erosion landforms are: ===
+	* [[+Cliffs|Cliffs]]
+	* [[+Blowholes|Blowholes]]
+	* [[+Sea Caves|Sea Caves]]
+	* [[+Sea Arches|Sea Arches]]
+	* [[+Sea Stacks|Sea Stacks]]
+	* [[+Sea Stumps|Sea Stumps]]
+
+=== the deposition landforms are: ===
+	* [[+Lagoons|Lagoons]]
+	* [[+Sand Spit|Sand Spits]]
+	* [[+Tombolo|Tombolos]]
+	* [[+Sand Dunes|Sand Dunes]]
+	* [[+Beaches|Beaches]]
+
+[[The Sea|Back To Contents]]

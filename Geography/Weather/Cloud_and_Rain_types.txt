@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T19:45:25+00:00
+
+====== Cloud and Rain types ======
+
+
+Created Sunday 03 December 2017
+
+=== Rain Types ===
+* [[+Convection|Convection]]
+* [[+Frontal Rain|Frontal Rain]]
+* [[+Relief Rain|Relief Rain]]
+
+=== Cloud Types ===
+
+== Cirrus ==
+* High
+* Wispy
+* Fine Weather
+
+== Cumulous ==
+* Fluffy
+* Medium High
+* Bad weather if dark
+
+== Stratus ==
+* Layers/Blanket like
+* Low altitude
+* Constant light rain
+
+[[Weather|Back To Weather]]

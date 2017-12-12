@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T23:35:31+01:00
+
+====== Scriptorium ======
+
+
+Created Monday 21 August 2017
+
+[[Scribes]] wrote [[Manuscripts]] here
+
+[[Monastaries|Back to Monastaries]]

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T23:37:21+01:00
+
+====== Scribes ======
+
+
+Created Monday 21 August 2017
+
+A **Scribe **was a [[Monks|Monk]] who made [[Manuscripts]]
+
+[[Monastaries|Back To Monastaries]]

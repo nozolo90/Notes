@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T11:45:06+01:00
+
+====== Craftsmen ======
+
+
+Created Wednesday 23 August 2017
+
+**Craftsmen** were people who made things that other people needed
+for example, **bakers**,**smiths**,**fishers** and **butchers** are craftsmen
+
+=== Craftsmen go through three stages ===
+	[[+Apprentice|Apprentices]]
+	[[+Journeyman|Journeymen]]
+	[[+Mastercraftsman|Mastercraftsman]]
+	
+**Craftsmmen **are part of organisations called **guilds**
+[[+Guilds|To Guilds]]
+
+[[Middle Ages|Back To Middle Ages]]
+

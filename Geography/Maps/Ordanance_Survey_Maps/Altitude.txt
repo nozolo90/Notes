@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T21:40:03+00:00
+
+====== Altitude ======
+
+
+Created Monday 27 November 2017
+
+* __Triangulation Stations__ show the highths of some mountain peaks
+* __Contours__ are curved lines that show areas of equal height
+* On most maps __color__ is used to indicate altitude. lower areas are shown in green and higher areas are show in brown
+* __Spot heights__ show the heights of some areas between contours
+
+[[Ordanance Survey Maps|Back To Ordanance Survey Maps]]

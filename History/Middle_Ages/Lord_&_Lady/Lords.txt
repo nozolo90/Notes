@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T14:36:32+01:00
+
+====== Lords ======
+
+
+Created Wednesday 23 August 2017
+
+He did not read or write
+The lord fought in wars
+He owned manors
+
+=== Clothes ===
+	men wore **long** **tunics** and **pointed** **leather** **shoes**.
+
+[[Lord & Lady|Back]]

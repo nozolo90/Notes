@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-24T14:45:42+01:00
+
+====== Catholic ======
+
+
+Created Thursday 24 August 2017
+
+
+Catholics leader is the Pope in Rome
+
+== Hierarchy ==
+	**Lay people** - baptised catholics
+	**Priests** - leader of the parish - do mass and sarcraments
+	**Bishops** - leader of a diocese ( group of parishes )
+	**Arch Bishops** - senior bishop
+	**Cardinals** - give advice to the pope in important matters
+	**Pope** - leader of the catholic church
+
+[[Denominations|Back To Denominations]]

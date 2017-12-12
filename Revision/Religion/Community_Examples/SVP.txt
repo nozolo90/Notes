@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-24T13:18:48+01:00
+
+====== SVP ======
+
+
+Created Thursday 24 August 2017
+
+	{{../../../../Images/saint_vincent_de_paul_logo.jpeg?width=273}}
+
+
+**Saint Vincent de Paul** is a community of faith named after a famous french saint who helped the poor
+It was founded by **Frederic** **Ozanam** in **Paris**
+Frederic ozanam was inspired by jesus's teaching in the gospel to //"love god and love ones neighbour as yourself "//
+
+=== They help the poor through: ===
+	* Money management
+	* Hospital visits
+	* Homework clubs
+	* Creches
+	* Home  visits
+
+SVP works in over **100** **countries**
+
+[[Community Examples|Back To Community Examples]]

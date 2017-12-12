@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T23:36:01+01:00
+
+====== Monks ======
+
+
+Created Monday 21 August 2017
+
+A **monk** is a person who goes to live in a **monastary** to be closer to god
+
+=== When you become a monk ===
+	You cant marry
+	You must obey god
+	You must eat in silence
+	
+[[Monastaries|Back To Monastaries]]

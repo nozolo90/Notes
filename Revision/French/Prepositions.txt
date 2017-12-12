@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-03T15:00:59+01:00
+
+====== Prepositions ======
+
+
+Created Sunday 03 September 2017
+
+**Sur** - on
+**Sous** - under
+
+**Devant** - in front of
+**Derriere** - behind
+
+**En face de** - facing
+**Dans** - in
+**Avec** - with
+**Sans** - without
+**Entre** - in between
+
+**Loin de** - far from
+**Pres de** - close to
+
+[[French|Back To French]]

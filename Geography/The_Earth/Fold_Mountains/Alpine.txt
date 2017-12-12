@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T17:13:07+01:00
+
+====== Alpine ======
+
+
+Created Sunday 20 August 2017
+
+**Alpine Fold Mountains** formed less than 30 million years ago
+They are the tallest type of fold mountains because they are young and have not been [[Geography:The Forces Of Weathering:Erosion|Eroded]]/[[Geography:The Forces Of Weathering:Weathering|Weathered]]
+An example is **The Alps**
+
+[[Fold Mountains|Back To Fold Mountains]]

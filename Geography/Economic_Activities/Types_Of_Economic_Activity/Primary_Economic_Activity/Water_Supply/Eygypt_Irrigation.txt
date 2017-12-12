@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-24T19:56:06+01:00
+
+====== Eygypt Irrigation ======
+
+
+Created Thursday 24 August 2017
+
+People live in the floodplains of the river nile because the closer you are to the river the easier it is to get water
+
+crops could also grow there because annual flooding fertilized the soil
+
+In **1960**, the aswan high dam was proposed to control the flow of the nile
+in **1975** it finished construction, stopping the annual floods
+millions of liters of water would be stored in the reservoir, **lake nassar**
+
+=== Advantages of the dam ===
+	* Water could be controlled allowing the dam to release water into pipes leading to farmland
+	* This allows farmers to farm more food to feed the growing population
+
+=== Disadvantages of the dam ===
+	* The Nile floodplain no longer floods naturally so farmers have to buy expensive fertilizer
+	* The pipes are infected with a water snail that affects humans
+	* Lots of water is lost due to evapouration
+[[Water Supply|Back To Water Supply]]
+

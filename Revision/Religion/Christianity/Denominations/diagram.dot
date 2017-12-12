@@ -1,0 +1,10 @@
+digraph F {
+	Great_Schism [shape=box style=filled]
+	Christians ->Great_Schism
+	Great_Schism ->Orthodox 
+	Great_Schism -> Catholic
+	Reformation [style=filled shape=box]
+	Catholic -> Reformation
+	Reformation -> Protestant
+	Reformation -> catholic
+}

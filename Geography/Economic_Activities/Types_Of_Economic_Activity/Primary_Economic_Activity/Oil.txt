@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T16:40:17+01:00
+
+====== Oil ======
+
+
+Created Monday 21 August 2017
+
+Oil is a resource mined from the ground
+Countries that contain oil receive **great** **wealth** because large countries like the **USA** buy oil from them
+Oil is useful for **many** **things** ([[Economic Activities:Types Of Recourses:Oil|See Oil Resource]])
+
+Oil in [[+Ireland|Ireland]]
+Oil in [[+Saudi Arabia|Saudi Arabia]]
+
+[[Primary Economic Activity|Back To Primary Economic Activities]]

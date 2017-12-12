@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T21:43:51+01:00
+
+====== Plunge Pool ======
+
+
+Created Saturday 19 August 2017
+
+A pit that forms at the bottom of a waterfall due to [[Rivers:Erosion:Hydraulic action|Hydraulic action]] from the falling water and [[Rivers:Erosion:Abrasion|Abrasion]] from the load carried by the river
+
+[[Waterfalls|Back To Waterfalls]]

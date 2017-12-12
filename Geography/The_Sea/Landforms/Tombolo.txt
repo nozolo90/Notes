@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T19:49:07+01:00
+
+====== Tombolo ======
+
+Created Friday 18 August 2017
+
+=== Statement ===
+	* A **Tombolo **is a ridge of **sand **and **shingle **that connects an island to the mainland
+
+=== Development ===
+	* It forms when a [[Sand Spit]] grows outward from the mainland
+	* Material is **Deposited in the sheltered water** between the mainland and the island
+
+=== Example ===
+	* An example is **Howth Co.Dublin**
+
+[[Landforms|Back to landforms]]

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-24T12:08:32+01:00
+
+====== Community Examples ======
+
+
+Created Thursday 24 August 2017
+
+A **community** is a group of people with shared intrests
+
+=== Communities ===
+	* [[+SVP|SVP]]
+	* [[+L'Arche|L'Arche]]
+	* [[+Misionaries Of Charity|Misionaries Of Charity]]
+	* [[+Corrymeala|Corrymealaz]]
+	* [[+Taize|Taize]]
+	* [[+World Council Of Churches|World Council Of Churches]]
+
+=== Community Breakdown ===
+	* Community breakdown is when comunities stop working functionally.
+	* It can be caused by a lack of communication, co-operation or faliure to carry out roles.
+
+
+--------------------
+[[Religion|Back To Religion]]

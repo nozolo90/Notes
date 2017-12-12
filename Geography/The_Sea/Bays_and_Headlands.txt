@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T19:10:40+01:00
+
+====== Bays and Headlands ======
+
+Created Friday 18 August 2017
+
+a **bay** is a wide curved opening in the coastline
+a **headland** in a piece of land(hard rock) jutting out into the sea
+
+* They occur when there are **different types rock** (**soft** and **hard**) along the coastline
+* The **softer** **rock** is eroded **fast** forming a curved **bay**
+* The **harder** **rock** is eroded **slowly** so thy stick out into the sea forming a **headland**
+* If **headlands** are large enough, they shelter the bay from d[[Waves|estructive waves]] and a [[Landforms:Beaches|beach]] may form
+
+[[The Sea|Back To Contents]]

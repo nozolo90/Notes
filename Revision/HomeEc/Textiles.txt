@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-05T14:33:11+00:00
+
+====== Textiles ======
+
+
+Created Tuesday 05 December 2017
+
+=== Contents ===
+* [[+Charecteristics Of Textiles|Charecteristics Of Textiles]]
+* [[+Uses Of Textiles|Uses Of Textiles]]
+* [[+Desirable Quality Examples|Desirable Quality Examples]]
+[[HomeEc|Back To HomeEc]]

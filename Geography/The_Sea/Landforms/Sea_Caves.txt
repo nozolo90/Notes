@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T17:42:38+01:00
+
+====== Sea Caves ======
+
+Created Friday 18 August 2017
+
+**Erosional **Landform
+
+=== Statement ===
+	* A **Sea Cave **is a tunnel or passage at the base of a cliff or through a headland
+
+=== Development ===
+	* If the rock has a weak point Destructive Waves will erode it
+	* The crack gets **larger and larger** and develops into a cave
+
+* An example is **Hook Head Co.Wicklow**
+
+[[:geography:The Sea:Landforms:Sea Arches|To Sea Arch]]
+
+[[Sea Stacks|To Sea Stacks]]
+[[Sea Stumps|To Sea Stumps]]
+
+[[Landforms|Back to landforms]]

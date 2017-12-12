@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T22:34:51+01:00
+
+====== Ox-Bow Lake ======
+
+
+Created Saturday 19 August 2017
+
+**Ox-Bow Lakes** are lakes that were once a [[Meanders]]
+
+=== How they're formed ===
+	* They occur when continued [[Rivers:Erosion|erosion]] and [[Rivers:Deposition|deposition]] create very pronounced meanders
+	* Eventually the river cuts through the neck of the meander
+	* Deposition the occurs which leaves the meander disconnected from the river
+
+[[Meanders|To Meanders]]
+
+[[Landforms|Back To Landforms]]

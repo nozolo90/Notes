@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T18:09:52+01:00
+
+====== Bogs ======
+
+
+Created Monday 21 August 2017
+
+**Peat **found in Bogs
+
+=== There are two types of bogs ===
+	[[+Raised Bogs|Raised Bogs]]
+	[[+Blanket Bogs|Blanket Bogs]]
+
+
+=== Bog preservation ===
+	**bord na mona** is preserving some bogs
+
+
+=== After bogs have been used up ===
+	[[Types Of Recourses:Wind Energy|Wind Turbines]] are built on some
+		Bogs are **flat** and **remote** so they are perfect for wind turbines	
+	some bogs are returned to **wetlands**
+
+[[Peat|Back To Peat]]

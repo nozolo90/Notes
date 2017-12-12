@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-30T13:02:18+01:00
+
+====== Irish ======
+Created Wednesday 30 August 2017
+
+Study for **Irish**
+
+==== Contents ====
+	* [[+Me Fein|Me Fein]]
+	* [[+Verbs|Verbs]]
+
+[[Revision|Back Home]]

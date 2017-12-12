@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T22:04:31+01:00
+
+====== Interlocking Spurs ======
+
+
+Created Saturday 19 August 2017
+
+This landform is found in the [[Rivers:Stages of The River:Youthful Stage|Youthful Stage]]
+
+=== How they're formed ===
+	* **Interlocking Spurs** occur when a river meets hard or resilient rock it can not [[Rivers:Erosion|erode]]
+	* Instead of **eroding** it it goes around them and a zigzag pattern develops
+An example is **The Youthful Stage Of The Liffey**
+
+[[Landforms|Back To Landforms]]

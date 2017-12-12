@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T17:56:21+01:00
+
+====== Religion ======
+
+
+Created Wednesday 23 August 2017
+
+Study For **Religion**
+
+| Religion     | Founder                | Sacred Text  | Followers  | Place Of Worship | Age  |
+|:-------------|:-----------------------|:-------------|:-----------|:-----------------|:-----|
+| Christianity | Jesus                  | Bible        | Christians | Church           | 2000 |
+| Islam        | Mohhamed               | Qu'ran/Koran | Muslims    | Mosque           | 1500 |
+| Judaism      | Abraham+Moses          | Torah        | Jews       | Synagoge         | 4000 |
+| Buddism      | Buddah/Sidharta Gutama | Tipitaka     | Buddists   | Temple           | 2500 |
+| Hinduism     | Unknown                | Vedas        | Hindus     | Mandir           | 4500 |
+
+
+==== Contents ====
+	* [[+Communication Skills|Communication Skills]]
+	* [[+Maslows Hierarchy Of Needs|Maslows Hierarchy Of Needs]]
+	* [[+Community Examples|Communities]]
+	
+	* [[+Sectarianism|Sectarianism]]
+	* [[+Tolerance|Tolerance]] 
+	* [[+Inter Faith Dialogue|Inter Faith Dialogue]]
+
+=== World Religions ===
+	* [[+Christianity|Christianity]]
+	* [[+Islam|Islam]]
+
+--------------------
+[[Revision|Back Home]]

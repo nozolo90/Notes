@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T17:41:19+01:00
+
+====== Tidal Energy ======
+
+
+Created Monday 21 August 2017
+
+When the tide rises and falls it turns turbines which generate electricity
+
+[[Types Of Recourses|Back To Types Of Recourses]]

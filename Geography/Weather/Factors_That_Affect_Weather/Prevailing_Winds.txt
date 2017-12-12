@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T16:49:00+00:00
+
+====== Prevailing Winds ======
+
+
+Created Sunday 03 December 2017
+
+=== Statement ===
+* Prevailing winds are the winds that blow most often over an area.
+* In ireland, we have south westerly prevailing winds.
+* Prevailing winds can make an area **hotter, colder, wetter or drier**.
+
+=== Development ===
+{{../../../../Images/images.duckduckgo.com.gif?width=700}}
+
+[[Factors That Affect Weather|Back To Factors That Affect Weather]]

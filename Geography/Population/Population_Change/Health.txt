@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-07T19:50:49+00:00
+
+====== Health ======
+
+
+Created Thursday 07 December 2017
+
+=== Statement ===
+* Food, water and medical supplies have increased greatly over the years.
+* This has resulted in people living longer and healthier.
+
+=== Development ===
+* Deaths from curable diseses such as whopping couugh and gastroentritis have decreased greatly.
+* As death rates decline, populations tend to grow.
+* In brazil, some people have benifited from improved food, water and medical supplies.
+* This is part of the reason brazils population has more than trebled in the last 50 years
+
+[[Population Change|Back To Population Change]]

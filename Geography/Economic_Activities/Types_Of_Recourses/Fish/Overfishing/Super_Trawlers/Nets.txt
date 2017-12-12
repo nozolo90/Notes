@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T16:10:36+01:00
+
+====== Nets ======
+
+
+Created Monday 21 August 2017
+
+**Super Trawlers** have massive nets that can catch hundreds of tones of fish at a time
+
+=== Types of nets ===
+	**Long line** nets are long lines of rope with hooks attached to them
+	**Drift nets** are huge nets that are submerged underwater then brought back up like a spoon in cereal
+	**Trawler nets** are bag like nets that are dragged behind a super trawler to catch lots of fish
+
+[[Super Trawlers|Back To Super Trawlers]]

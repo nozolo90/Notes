@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T15:52:05+01:00
+
+====== Fishing ======
+
+
+Created Monday 21 August 2017
+
+Fishing is a **primary** **economic** **activity** that is important to **Ireland**
+
+Ireland is an island so it is surrounded shallow waters called **continental** **shelfs**
+fish can thrive in these **continental** **shelves** which makes Irish fishing **very** **profitable**
+
+Before Ireland joined the **EU**, other countries couldn't fish in our waters
+**Small** **fishing** ports with **small** **trawlers** caught **small** **amounts** of fish
+[[Economic Activities:Types Of Recourses:Fish:Overfishing|Overfishing]] was not an issue
+
+== Then ireland joined the EU ==
+
+**Brusseles** became in charge of ireland fishing
+**Other** **European** countries could fish in our waters
+
+The amount of fish being caught in Irish water **increased** **greatly**
+Most of the catches were from **countries** **other** **than** **ireland**
+
+To see the effects this had on the fish resource see [[Economic Activities:Types Of Recourses:Fish|Fish]]
+
+[[Primary Economic Activity|Back To Primary Economic Activities]]

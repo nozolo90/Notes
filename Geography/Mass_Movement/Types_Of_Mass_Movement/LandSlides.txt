@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:59:03+01:00
+
+====== LandSlides ======
+
+
+Created Saturday 19 August 2017
+
+=== Statement ===
+* **Landslides **are the quickest kind of **mass movement**
+* Occurs on very steep slopes and Mountainous areas of coastal cliffs
+
+=== Development ===
+* The sea could erode a notch at the bottom of the [[Geography:The Sea:Landforms:Cliffs|Cliff]]
+* rock and material over the notch collapse into the sea as a **landslide**
+__or__
+* If a mudflow or a bogburst occurs on very steep slope
+
+[[Soil Creep|To Soil Creep]]
+[[Mudflow|To Mudflow]]
+[[BogBurst|To BogBurst]]
+
+[[Types Of Mass Movement|Back Up]]

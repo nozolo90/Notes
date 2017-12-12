@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T15:02:45+01:00
+
+====== Entertainment ======
+
+
+Created Wednesday 23 August 2017
+
+=== Jousting ===
+	**Jousting** is a type of **entertainment** carried out by **knights**.
+	They would **charge** at **each** **other** on **horseback** with **blunt** **lances** , separated by a fence called a **tilt** . Who ever was knocked over lost
+	Knights would train on a **Quintain**
+
+=== Tournaments ===
+	**Tournaments** were a type of **entertainment** carried out by knights.
+	Knights would carry out **mock** **battles** with **blunt** **weapons**
+	They wore full **armor**
+	If a knight goes down to the ground, he is out
+
+[[Knights|Back To Knights]]

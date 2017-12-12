@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-04T19:29:40+00:00
+
+====== Measuring Weather ======
+
+
+Created Monday 04 December 2017
+
+See project
+
+[[Weather|Back To Weather]]

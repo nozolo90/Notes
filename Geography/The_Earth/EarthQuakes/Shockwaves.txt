@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T17:29:37+01:00
+
+====== Shockwaves ======
+
+
+Created Sunday 20 August 2017
+
+**Shockwaves **are released from the [[Focus]]
+They lose energy as they move further away
+
+[[EarthQuakes|Back To EarthQuakes]]

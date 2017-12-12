@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T17:17:47+01:00
+
+====== World Plates ======
+
+
+Created Sunday 20 August 2017
+
+=== The 7 major Plates are: ===
+	* The Pacific plate
+	* The Eurasian plate
+	* The Nazca Plate
+	* The African Plate
+	* The North American Plate
+	* The South American Plate
+	* The Australian/Oceanic Plate
+
+[[Plates|To Plates]]
+[[The Earth|Back To Contents]]

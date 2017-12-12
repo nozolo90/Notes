@@ -1,0 +1,59 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-06T17:52:10+00:00
+
+====== Hot Desert ======
+
+
+Created Wednesday 06 December 2017
+
+{{../../../../Images/image_of_sahara_desert.jpeg?height=200}}
+
+===== Temperature =====
+* In the day, temperatures range from **30 to 50 degrees celcius**.
+* In the night, temperatures can drop to **5 degrees celcius**.
+* The absence of cloud cover and vegetation allows for rapid heat loss at night.
+* The sun is very high in the sky and there are long hours of sunlight.
+
+===== Precipitation =====
+* **100ml** per year.
+* They have **long droughts** followed by **sudden downpours**.
+
+===== Winds =====
+* They are in the path of cooler **trade** **winds**, which **soak up water** as the approach hotter, lower lattitudes.
+
+* Some are in the path of winds that blow over **cold ocean currents**.
+* They are **coooled and lose their moisture** over the ocean.
+
+===== Plants =====
+__plants must be able to:__
+1. Find water underground
+2. Store water
+3. Survive the heat
+
+== Cactus Plant ==
+* The inside of the cactus is **spongy**, and **can hold water**.
+* Its **waxy skin** holds moisture.
+* It has **groves** which allow it to **expand** when it needs to absorb water.
+* Its **roots spread out** over long distances to **collect water**.
+* Its **needles** prrotect it from wild animals.
+
+== Other Plants ==
+* **Date palm** has deep taproots
+* **Mesquite bush** has deep taproots.
+* **Joshua tree** has juicy flesh.
+
+===== Animals =====
+
+== Camel ==
+* It has **long eye lashes**.
+* It has **humps** can store fat.
+* It has **hoves** can walk in sand.
+* It has **thick skin on its legs** so it can kneel on the sand.
+
+== Other Animals ==
+* The **Jack Rabit** has long ears to lose heat
+* The **Desert fox** digs burrows to stay in during the day and hunts in the night
+* The **Rattlesnake** Gets moisture from the animals it eats
+
+[[Climates|Back To Climates]]

@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T15:45:39+01:00
+
+====== Patritians ======
+
+
+Created Tuesday 22 August 2017
+
+**Patritians** were wealthy land owners
+
+=== Houses ===
+	[[+Villa|Villa]]
+	[[+Domus|Domus]]
+
+
+=== Food ===
+	for **breakfast** they would eat  **bread** dipped in **wine**, with **olives** ,**cheese** or **rasins**
+	
+	for **lunch** they would have **bread** , **salad** , **fruit** and **nuts**.
+	**wine** mixed with **water** was what they'd drink
+	
+	In the evening they'd have the [[+Cena|Cena]]
+
+
+=== Clothing ===
+	The **patritian** **men** wore **togas** or **knee**-**length** **linen** **tunics**
+	The **patritian** women wore **tunics**
+	If they were married they would wear a **stola** over their shoulder
+
+[[Roman People|Back To Roman People]]

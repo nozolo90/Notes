@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T23:29:51+01:00
+
+====== Monastaries ======
+
+
+Created Monday 21 August 2017
+
+**Monastaries** were settlements **enclosed in a wall**. 
+They had **many buildings inside them**.
+They were built in **remote places** so  monks wouldn't be distracted
+
+=== Buildings ===
+	[[+Round Tower|Round Tower]]
+	[[+Beehive huts|Beehive huts]]
+	[[+Refectories|Refectories]]
+	[[+Scriptorium|Scriptorium]]
+
+
+=== People ===
+	[[+Monks|Monks]]
+	[[+Scribes|Scribes]]
+
+[[+Manuscripts|Manuscripts]]
+[[+Chalices|Chalices]]
+[[+High Stone Crosses|High Stone Crosses]]
+
+**Monks** were **self**-**sufficient** and **farmed** their food
+
+**Celtic monks** **traveled through** Europe and built many **monastaries** to spread Christianity. Many people came to study at these **monastaries**
+
+Unfortunately, **vikings** heard of many **precious** **items** stored in them and after **795AD** and they were all raided
+
+[[Religion|Back To Religion]]

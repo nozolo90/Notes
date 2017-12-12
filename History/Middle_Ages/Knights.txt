@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T14:56:55+01:00
+
+====== Knights ======
+
+
+Created Wednesday 23 August 2017
+
+=== Jobs ===
+	* Maintaining **law** and **order**
+	* **protecting** **community** and land from attackers
+	* **fights** and **attacks** for the king
+	* [[+Entertainment|Entertainment]]
+
+Only the sons of **lords**/**nobles**
+
+Knights beginning their training would be sent to another knight/lord to be trained
+This was called **Fostarage**
+
+=== Stages in becoming a knight ===
+	[[+Page|Page]]
+	[[+Squire|Squire]]
+	[[+Knight|Knight]]
+	
+
+=== Code of chivalry ===
+	A code to protect the **women** and **children**
+
+[[Middle Ages|Back To Middle Ages]]

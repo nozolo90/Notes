@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T19:41:19+01:00
+
+====== Regular Verbs ======
+
+
+Created Tuesday 05 September 2017
+
+=== There are three types of verbs ===
+	[[+er verbs|er verbs]]
+	[[+ir verbs|ir verbs]]
+	[[+re verbs|re verbs]]
+	
+[[French|Back To French]]

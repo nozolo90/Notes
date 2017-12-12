@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-28T07:51:16+00:00
+
+====== North And South Italy ======
+Created Tuesday 28 November 2017
+
+=== North of Italy ===
+	Flat ground means that it is easy to build homes, roads, railway stations and factories
+	Fertile ground caused by alluvial mud makes it easy to farm
+
+
+=== South of Italy ===
+	Mountainous ground making it hard to build roads
+	
+[[Population Densities|Back To Population Densities]]

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T17:37:29+01:00
+
+====== HydroElectric Power ======
+
+
+Created Monday 21 August 2017
+
+Water flows Through a turbine in a dam
+The water spins the turbine and creates energy
+
+[[Types Of Recourses|Back To Types Of Recourses]]

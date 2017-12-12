@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:27:03+01:00
+
+====== Types Of Rock ======
+
+
+
+Created Sunday 20 August 2017
+
+=== There are three types of rock ===
+	* [[+Igneous|Igneous]]
+	* [[+Sedimentary|Sedimentary]]
+	* [[+Metamorphic|Metamorphic]]
+
+{{./diagram.png?type=diagram}}
+
+
+[[Rocks|Back To Contents]]

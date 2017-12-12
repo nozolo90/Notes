@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T16:46:37+01:00
+
+====== Layers Of The Earth ======
+
+
+Created Sunday 20 August 2017
+
+There are four layers of the earth
+
+=== Crust ===
+* **The Crust **is the outmost layer of the earth
+* It is composed of Solid [[Geography:Rocks|Rock]]
+* The crust is split into parts like an orange peel called [[Geography:The Earth:Plates|Plates]]
+
+=== Mantle ===
+* **The Mantle** is the second layer under the crust
+* It is composed of slowly flowing **semi-molten **Rock
+
+=== Outer Core ===
+* The **Outer Core **is the third layer down
+* It is located below the Mantle
+* It is //extremely //hot and molten
+
+=== Inner Core ===
+* This Layer is at the **Center **of the earth
+* The **Inner Core** is **EXTREMELY **hot, but unlike the outer core it is solid due to the immense pressure its under
+* Its composed of iron and nickel
+[[The Earth|Back To Contents]]

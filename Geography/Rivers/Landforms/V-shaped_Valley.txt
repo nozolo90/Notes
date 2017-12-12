@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T21:52:41+01:00
+
+====== V-shaped Valley ======
+
+
+Created Saturday 19 August 2017
+
+This landform is found in the [[Rivers:Stages of The River:Youthful Stage|Youthful Stage]]
+**A valley shaped like a V**
+
+=== How its formed ===
+	* [[Rivers:Erosion:Hydraulic action|Hydraulic action]] and [[Rivers:Erosion:Abrasion|Abrasion]] erode the riverbed, deepening it
+	* [[Geography:The Forces Of Weathering:Weathering|Weathering]] breaks up the Rocks and dirt on the valley sides
+	* They eventually collapse and the debris falls into the river
+	* Debris is [[Rivers:River Transportation|Transported]] by the river downstream
+An example is **The Youthful Stage Of The Liffey**
+
+[[Landforms|Back To Landforms]]

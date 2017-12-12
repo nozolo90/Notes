@@ -1,0 +1,11 @@
+digraph A {
+	SedimentaryRock -> Sediment
+	Sediment -> SedimentaryRock
+	SedimentaryRock -> MetamorphicRock
+	MetamorphicRock -> Sediment
+	MetamorphicRock -> Lava
+	Lava -> Igneus
+	Igneus -> Sediment
+	Igneus -> MetamorphicRock
+	Igneus -> Lava
+}

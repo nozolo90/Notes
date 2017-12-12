@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-10T19:04:29+01:00
+
+====== Islam ======
+Created Sunday 10 September 2017
+
+Islam is a religion founded by mohamed 1500 years ago
+
+{{../../../Images/islam_symbol.jpg?width=200}}
+
+==== Contents ====
+* [[+Creed|Creed]]
+* [[+Pillars|Pillars]]
+* [[+Prayer|Prayer]]
+* [[+Qu'ran|Qu'ran]]
+* [[+6 beliefs|6 beliefs]]
+* [[+Denominations|Denominations]]
+* [[+Mosques|Mosques]]
+* [[+Stages Of  The hajj|Stages Of  The hajj]]
+* [[+Muslim Rites Of Passage|Muslim Rites Of Passage]]
+* [[+Muslim Festivals|Muslim Festivals]]
+
+
+--------------------
+[[Religion|Back To Religion]]

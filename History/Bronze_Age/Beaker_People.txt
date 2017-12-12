@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T19:12:24+01:00
+
+====== Beaker People ======
+
+
+Created Monday 21 August 2017
+
+The **Beaker** **people** are thought to have brought the Bronze age to Ireland in **2000BC**.
+They got their name because the pots they made looked like **drinking beakers**
+
+[[Bronze Age|Back To Contents]]

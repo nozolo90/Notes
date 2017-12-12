@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T19:02:40+01:00
+
+====== Sea Stumps ======
+
+Created Friday 18 August 2017
+
+**Erosional** landform.
+
+=== Statement ===
+	* A **Sea Stump **is a stump of rock that sticks up from the seabed usually at low tide.
+
+=== Development ===
+	* if the base of a [[Sea Stacks|Sea Stack]] is eroded, it will collapse and leave a stump that is visible at low tide.
+
+* An example is **Hook Head Co.Wicklow**.
+
+[[Sea Stacks|To Sea Stacks]]
+[[Sea Arches|To Sea Arches]]
+[[Sea Caves|To Sea Caves]]
+
+[[Landforms|Back to landforms]]

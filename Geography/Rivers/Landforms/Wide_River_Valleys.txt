@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T22:14:31+01:00
+
+====== Wide River Valleys ======
+
+
+Created Saturday 19 August 2017
+
+This landform forms in the [[Rivers:Stages of The River:Mature Stage|Mature Stage]]
+**A Wide River Valley**
+
+=== How it formed ===
+	* In the mature stage rivers begin to erode more sideways than downwards
+	* The valley becomes more wide and flat
+	* [[Geography:The Forces Of Weathering:Weathering|Weathering]] and [[Geography:Mass Movement|Mass Movement]] continue to wear away at the sides of the river, but since its eroding less in a downward direction its less steep
+An example is **The Mature Stage Of The Boyne**
+ 
+[[Landforms|Back To Landforms]]

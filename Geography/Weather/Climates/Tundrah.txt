@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-07T18:31:59+00:00
+
+====== Tundrah ======
+
+
+Created Thursday 07 December 2017
+
+=== Temperature ===
+* They experience **short**, **cool summers** avereging around **5 degrees celcius**.
+* They experience **long and cold winters **averaging around **-35 degrees celcius**.
+* There is a large **temperature range**.
+
+=== Precipitation ===
+* 250 mil per year.
+
+=== Vegetation ===
+* Little vegetation can survive in the harsh conditions. mostly mosses and litchens.
+* Animals and birds are present during the summer but migrate in the winter.
+
+[[Climates|Back To Climates]]

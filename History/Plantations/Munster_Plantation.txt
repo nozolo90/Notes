@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-03T11:03:09+00:00
+
+====== Munster Plantation ======
+
+
+Created Sunday 03 December 2017
+
+| Year | Organiser       | Success  |
+|:-----|:----------------|:---------|
+| 1584 | Queen Elizabeth | Moderate |
+
+
+=== Why it happened ===
+English wanted munster land and wanted to make it more like england.
+Fitzgerads of desmond rebel against english
+After the english destroy them, the consficate their land.
+
+=== What Happened ===
+Queen Elizabeth split the land into **35 estates** ranging between **4000 to 12000 acres**.
+An **undertaker** was someone who recieved an estate.
+They agreed to:
+	* build a castle and pay for soilders.
+	* Folow protestant religion and english laws.
+	* Allow english settlers, but not irish.
+	* Build a town with a market.
+
+=== Moderate Success ===
+**Only 4000** people arrived
+**Undertakers broke their agreement** and employed irish as servants and teanants.
+Estates were **too large** and **hard to manage/defend**.
+
+__Some Success__
+	A few towns were succesfull eg.**killarney**
+	Some industried developed, like **fishing** and **timber**.
+
+[[Plantations|Back To Plantations]]

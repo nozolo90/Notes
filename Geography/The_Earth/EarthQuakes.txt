@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T17:21:57+01:00
+
+====== EarthQuakes ======
+
+
+Created Sunday 20 August 2017
+
+As [[Plates]] **slide past each other**, **Jagged rocks lock them in place.**
+Over time pressure builds up until the rocks can no longer take it
+The rocks snap releasing the pressure as [[+Shockwaves|Shockwaves]]
+
+The place where the pressure was released is called the [[+Focus|Focus]]
+The place right above the **Focus **is called the [[+Epicenter|Epicenter]]
+
+=== Effects ===
+	* Destroy buildings and property
+	* Kill people
+
+=== Ways to make damage less severe ===
+	* Earthquake proof buildings
+	* Wide roads
+	* Roads leading away from tall buildings
+
+[[The Earth|Back To Contents]]

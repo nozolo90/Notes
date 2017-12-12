@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:54:43+01:00
+
+====== Mudflow ======
+
+
+Created Saturday 19 August 2017
+
+=== Statement ===
+* **Mudflows** are like [[BogBurst|Bogbursts]], but instead of peat, **saturated **[[Mass Movement:Regolith|Regolith]]
+* They are common in Irish hill areas like the **wicklow glens**
+
+=== Examples ===
+* In **2005**, a mudflow in **guatamala** , **central america** killed **1,400 people**
+__and__
+* The volcano of **nevado del ruiz** erupted in **1984** and caused a mudflow that flattened **5,000 homes** and killed over **21,000 people**
+
+[[Soil Creep|To Soil Creep]]
+[[BogBurst|To BogBurst]]
+[[LandSlides|To LandSlides]]
+
+[[Types Of Mass Movement|Back Up]]

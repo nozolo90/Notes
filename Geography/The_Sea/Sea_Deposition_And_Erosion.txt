@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-23T21:47:50+00:00
+
+====== Sea Deposition And Erosion ======
+Created Thursday 23 November 2017
+
+===== Deposition =====
+**Sea** **Deposition** is when [[Waves|Constructive Waves]] add material to the seabed and shore
+
+===== Erosion =====
+**Sea Erosion** is when [[Waves|Destructive Waves]] remove material from the shore.
+
+===== Types of erosion =====
+
+== Hydraulic action ==
+	* **Hydraulic action** is when the force of the water erodes things
+
+== Abrasion ==
+	* **Abrasion** is when the rocks carried in the water hit agaist the riverbed and shore.
+
+== Attrition ==
+	* **Attrition **is when rocks carried in the water hit against each other and break each other up
+
+== Air compression ==
+	* The waves trap air in the cracks of the rocks.
+	* as the waves retreat , the trapped air expands and cracks the rock
+
+[[The Sea|Back To The Sea]]

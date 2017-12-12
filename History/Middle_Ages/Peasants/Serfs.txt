@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T20:35:50+01:00
+
+====== Serfs ======
+
+
+Created Tuesday 22 August 2017
+
+**Serfs** were peasant farmers who **belonged** to the **king**
+
+* They cold not leave the manor or get married without permision
+* They **paid** **taxes** to the **lord** and **priest**
+* The lord gave them a pice of land to farm, but they would **work** **for** **free**
+
+if they could run away for a year and a day they would become a [[Freemen|freeman]]
+
+Serfs with large peices of land (~30 acers) were called **viellens**
+
+[[Peasants|Back To Peasants]]

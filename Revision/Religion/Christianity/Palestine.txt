@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-24T13:55:41+01:00
+
+====== Palestine ======
+
+
+Created Thursday 24 August 2017
+
+==== Contents ====
+* [[+Map|Map]]
+* [[+Life in palestine|Life in palestine]]
+* [[+Groups of people|Groups of people]]
+
+=== Romans ===
+* Romans conquered palestine in **63BC**
+* This gave them a control over **trade** **routes** and a **stragegical** **advantage** in wars
+
+[[Christianity|Back To Christianity]]
+

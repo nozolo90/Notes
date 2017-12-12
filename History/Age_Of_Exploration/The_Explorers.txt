@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T18:53:55+01:00
+
+====== The Explorers ======
+Created Monday 25 September 2017
+
+=== Dates ===
+| Name                 | Year | Country  | Discovered | Achievements                                             |
+|:---------------------|:-----|:---------|:-----------|:---------------------------------------------------------|
+| Bartholomew Diaz     | 1487 | Portugal | -          | First european to the bottom of africa and back          |
+| Christopher Columbus | 1492 | Spain    | -          | First european to central america                        |
+| Ferdinand Magellan   | 1494 | Spain    | -          | First european to circumvent the globe                   |
+| Vasco De Gama        | 1497 | Portugal | -          | First european to sail aroind the tip of africa and back |
+
+
+=== Explorers ===
+* [[+Bartholomew Diaz|Bartholomew Diaz]]
+* [[+Christopher Colombus|Christopher Colombus]]
+* [[+Ferdinand Magellan|Ferdinand Magellan]]
+* [[+Vasco De Gama|Vasco De Gama]]
+
+[[Age Of Exploration|Back To Age Of Exploration]]

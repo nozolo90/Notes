@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T19:48:50+01:00
+
+====== Houses ======
+
+
+Created Sunday 20 August 2017
+
+**Mesolithic people** //DID NOT// use wattle and daub to build their homes.
+they placed sticks in a circle and bent them into a center point
+they then covered this dome shape with animal skins or sods of earth.
+
+=== It looks like this ===
+{{~/Pictures/MesolithicHome.png}}
+
+Archaeologists found [[+Post Holes|Post Holes]] at [[Mount Sandel]] which means that **Houses were built there**
+
+[[Mesolithic People|Back To Mesolithic People]]

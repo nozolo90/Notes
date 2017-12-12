@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T15:52:36+01:00
+
+====== Refectory ======
+
+
+Created Wednesday 23 August 2017
+
+Food was served here
+
+[[Monastaries|Back To Monastaries]]

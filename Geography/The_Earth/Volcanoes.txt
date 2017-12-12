@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T17:38:58+01:00
+
+====== Volcanoes ======
+
+
+Created Sunday 20 August 2017
+
+When two [[Plates]] move apart from each other, magma(semi molten rock) can seep out of openings called **vents**
+The magma comes up to the surface and cools forming mounds of [[Geography:Rocks:Types Of Rock:Igneous|Igneous]] rock
+This continues ans magma seeps to out of the **vent** and cools forming a **volcanic mountain**
+
+**Volcanoes **can erupt, releasing ash gas and hot rock into the atmosphere
+
+=== There are three stages of a volcano ===
+	**Active **- volcanoes that erupt regularly
+	**Dormant** - volcanoes that have not erupted recently but could erupt again
+	**Extinct **- volcanoes that have not erupted in recorded history
+
+
+=== Advantages ===
+	Provide Geothermal energy
+	Provide fertile soil when they erupt
+
+
+=== Disadvantages ===
+	When they erupt they release poisonous gas
+	ash can burry towns and destroy homes
+	ash can cause [[Geography:Mass Movement:Types Of Mass Movement:Mudflow|mudflows]]
+	hot rock can kill people
+	
+An example of a **Volcano** is **Mt.Etna**
+
+[[The Earth|Back To Contents]]

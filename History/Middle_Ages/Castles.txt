@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-23T12:11:06+01:00
+
+====== Castles ======
+
+
+Created Wednesday 23 August 2017
+
+**Lords** would build castles on their land they recived from the **king**.
+Castles had **good** **defence**
+
+=== There were two types of castles ===
+	[[+Motte and Bailey|Motte and Bailey]]
+	[[+Stone Castles|Stone Castles]]
+
+A **siege** was when the enemy surrounded a castle so no supplies could come in or out, forcing the occupants to **surrender**
+
+[[Middle Ages|Back To Middle Ages]]

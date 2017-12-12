@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-25T19:26:19+01:00
+
+====== Map ======
+
+
+Created Friday 25 August 2017
+
+{{~/Pictures/Palestime.png}}
+
+=== Galilee ===
+* **Naim**
+* **Cana** - preformed first miracle here	
+* **Capernaum** - Jesus healed the paralysed man
+* **Nazereth** - grew up here
+
+=== Samaria ===
+* Mountains
+
+=== Judea ===
+* **Jericho**
+* **Emmaus**
+* **Jerusalem** - Jesus crucified
+* **Bethanee**
+* **Bethlahem** - Jesus born
+
+=== Water ===
+* **Sea of Galilee** - where jesus recruited his first disciples
+* **River Jordan** - where jesus was baptised
+* **Dead Sea**
+
+[[Palestine|Back To Palestine]]

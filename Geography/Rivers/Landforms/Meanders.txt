@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T22:44:01+01:00
+
+====== Meanders ======
+
+
+Created Saturday 19 August 2017
+
+**Bends or curves along a river**
+
+=== How They're formed ===
+	* Water flows quicker on the outer side of each bend
+	* It erodes the outer side with [[Rivers:Erosion:Hydraulic action|Hydraulic action]] and [[Rivers:Erosion:Abrasion|Abrasion]]
+	* Water flows slower on the inner side of each bend
+	* The river [[Rivers:Deposition|Deposits]] material here
+	* This continues making the bends sharper
+An example is **Mature Stage of The Shanon**
+
+[[Ox-Bow Lake|To Ox-Bow Lake]]
+
+[[Landforms|Back To Landforms]]

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T13:25:23+01:00
+
+====== Characteristics ======
+
+
+Created Sunday 20 August 2017
+
+=== Characteristics(Things that help you identify rocks) of rocks are : ===
+	* **Color** - the color of the rock
+	* **Texture** - how the rock feels
+	* **Weight** - how heavy the rock is
+	* **Hardness** - how hard the rock is
+	* **Density** - how dense the rock is
+
+[[Rocks|Back To Contents]]

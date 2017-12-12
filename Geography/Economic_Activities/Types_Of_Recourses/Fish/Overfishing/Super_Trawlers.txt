@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T16:04:25+01:00
+
+====== Super Trawlers ======
+
+
+Created Monday 21 August 2017
+
+**Super Trawlers** are massive fish catching boats that can catch thousands of fish at a time
+
+=== How they do it ===
+	* They go out together so their impact is multiplied
+	* Large Cold [[+Storage|Storages]] - up to 6,000 tons of fish
+	* Modern Technology like [[+Sonars|Sonars]]
+	* Huge [[+Nets|Nets]]
+	
+[[Overfishing|Back Yo Overfishing]]
+

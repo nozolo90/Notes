@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-10T19:16:34+01:00
+
+====== Charity ======
+Created Sunday 10 September 2017
+
+Give **2.5%** of their savings to help those in need
+
+[[Pillars|Back To Pillars]]

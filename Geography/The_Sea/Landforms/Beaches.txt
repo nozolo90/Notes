@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T20:01:31+01:00
+
+====== Beaches ======
+
+Created Friday 18 August 2017
+
+=== Statement ===
+	* A **Beach **is made out of sand or shingle(small stones)
+
+=== Development ===
+	* The [[The Sea:Waves|Swash]] carries material up the beach.
+	* The **heavier material stays high on the beach** because the [[The Sea:Waves|backwash]] isn't strong enough to pull it back into the Sea
+	* The **backwash only carries lighter material** down towards the beach
+	* For this reason we can say that the beach is organized with the **heavier materials on top and the lighter material near the bottom**
+	* During a storm the Swash is very powerful, it can force heavy stones very high onto the beach where they remain
+	* we call these heavy rocks a **storm beach**
+
+=== Example ===
+	* An example of a Storm Beach and Beach in **Tramore Co.Waterford**
+
+[[Landforms|Back to landforms]]

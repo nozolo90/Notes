@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T20:18:20+01:00
+
+====== Plurals ======
+
+
+Created Tuesday 05 September 2017
+
+normal nouns add **s** (unless they already have one)
+nouns ending in **al** change to **aux**
+nouns ending in **eau** change to **eaux**
+
+[[French|Back To French]]

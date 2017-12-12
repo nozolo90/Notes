@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T20:39:42+01:00
+
+====== Neolithic People ======
+
+
+Created Sunday 20 August 2017
+
+The Neolithic people were Ireland's first **farmers**
+They arrived from Britain in **4000BC**
+
+they learned how to weave **cloth** with **wool** from **sheep**
+
+==== Contents ====
+	[[+Farming|Farming]]
+	[[+Food|Food]]
+	[[+Houses|Houses]]
+	[[+Tools|Tools]]
+	[[+Tombs|Tombs]]
+	
+	[[+Essay|Essay]]
+
+[[History|Back To Contents]]

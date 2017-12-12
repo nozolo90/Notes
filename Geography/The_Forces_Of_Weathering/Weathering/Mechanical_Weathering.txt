@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-18T22:25:08+01:00
+
+====== Mechanical Weathering ======
+
+Created Friday 18 August 2017
+
+**Mechanical Weathering **breaks rocks down into smaller pieces
+
+=== Its main agents are: ===
+	* **Frost**
+	* **Wind**
+	* **Plants and Animals**
+	* **Temperature change**
+
+=== Some  Types are: ===
+	* [[+Freeze Thaw Action|Freeze Thaw Action]]
+
+[[Weathering|Back To Weathering]]
+

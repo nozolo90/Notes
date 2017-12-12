@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-20T19:04:29+01:00
+
+====== Secondary Economic Activity ======
+
+
+Created Sunday 20 August 2017
+
+**Secondary Economic Activity **is when raw materials are processed into products
+
+=== Some Examples ===
+	Intel
+	Food processing factories
+	HP
+
+[[Types Of Economic Activity|Back To Types Of Economic Activity]]

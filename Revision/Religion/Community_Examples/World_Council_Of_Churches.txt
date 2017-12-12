@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-11T21:29:30+00:00
+
+====== World Council Of Churches ======
+
+
+Created Monday 11 December 2017
+
+{{../../../../Images/world_council_of_churches_logo.jpeg?width=200}}
+
+__Oikoumene__ - ecumenism
+__Boat with cross__ - all of christianity together
+__Waves__ - high points and low points
+
+[[Community Examples|Back To Community Examples]]

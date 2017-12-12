@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T17:42:44+01:00
+
+====== Stages of The River ======
+
+
+Created Saturday 19 August 2017
+
+=== There are Three Stages of a River: ===
+	* The [[+Youthful Stage|Youthful Stage]]
+	* The [[+Mature Stage|Mature Stage]]
+	* The [[+Old Stage|Old Stage]]
+
+[[Rivers|Back To Contents]]

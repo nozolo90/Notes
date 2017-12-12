@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T16:40:39+01:00
+
+====== Roman Army ======
+
+
+Created Tuesday 22 August 2017
+
+=== There were two types of roman Solders ===
+	[[+Legionaries|Legionaries]]
+	[[+Auxillia|Auxillia]]
+
+=== Army Structure ===
+	the army was divided into **legions**, which were groups of **5000** solders.
+	The whole roman empire had around 30 of them
+
+=== Solders equipment ===
+	**Helmet**
+	**Body armour**
+	**Belt** showing position in army
+	**shield** with legions design
+	**Dagger** for hand to hand combat
+	**Javelin**
+	**Short sword**
+	**Sandals**
+
+[[Rome|Back To Rome]]

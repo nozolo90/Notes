@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-19T16:31:53+01:00
+
+====== Mass Movement ======
+Created Saturday 19 August 2017
+
+Study for **Mass Movement**
+
+
+**Mass Movement **is the movement of **regolith **downslope under the influence of gravity
+
+=== Mass Movement Factors: ===
+	* **Gradient** ( steepness of the slope )
+	* **Water** **content** - the amount of water in **regolith** - increases weight
+	* **Human** **Activity** - people dig into hillsides and other land, increasing the **gradient**
+	* **Vegetation** - **plants** hold soil together and removes water, slowing down **mass movement**
+
+==== Contents ====
+	* [[+Regolith|Regolith]]
+	* [[+Types Of Mass Movement|Types Of Mass Movement]]
+
+[[Geography|Back To Chapters]]
