@@ -8,8 +8,8 @@ Creation-Date: 2017-12-05T14:33:33+00:00
 Created Tuesday 05 December 2017
 
 ===== What Are They? =====
-Charecteristics of textiles are **properties** of textiles.
-**Desireable characteristics/properties** are properties that are most important for a particular use.
+* Charecteristics of textiles are **properties** of textiles.
+* **Desireable characteristics/properties** are properties that are most important for a particular use.
 
 === Fabric ===
 * Stretchy
