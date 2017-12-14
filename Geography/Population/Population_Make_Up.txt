@@ -17,7 +17,7 @@ Created Thursday 07 December 2017
 * For example,the bottom bar on the men side will tell us how many people or the percentage of the population that are 0-4 years old men.
 
 === Uses ===
-Goverments can use them to tell
+__Goverments can use them to tell__
 * How much they need to put into pensions, nursing homes, health care, education.
 * How much they need to set the taxes (depending on the ammount of 24-59 year olds because they pay the most tax)
 
