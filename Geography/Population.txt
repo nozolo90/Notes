@@ -15,4 +15,5 @@ Revision for population chapter
 ==== Study ====
 	* [[+Questions|Questions]]
 
+--------------------
 [[Geography|Back to Geography]]

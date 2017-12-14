@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-14T16:51:08+00:00
+
+====== Mali ======
+
+
+Created Thursday 14 December 2017
+
+=== Statement ===
+Mali is a country with a very low population density.
+
+=== Development ===

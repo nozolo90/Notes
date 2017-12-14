@@ -8,7 +8,7 @@ Creation-Date: 2017-12-07T20:06:09+00:00
 Created Thursday 07 December 2017
 
 === Population Pyramids ===
-* Population pyramids tell us the age and sex sructure of a country.
+* Population pyramids tell us the **age and sex sructure** of a country.
 * They are made up on a series of bars, stacked on top of each other.
 * The bars on the bottom usually represent 0-4 year olds, and each bar above that is 5 years more eg the second bar would reperesent be 5-9 years old.
 * The length of each bar shows the ammount of people in that group.
