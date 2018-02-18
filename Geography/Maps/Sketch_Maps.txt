@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-20T15:43:29+00:00
+
+====== Sketch Maps ======
+Created Saturday 20 January 2018
+
+===== OS Maps should... =====
+* Have a frame that is the correct size and drawn with a ruler
+* Have a title
+* Have a statement of scale
+* Have a coastline
+* Look nice and presentable
+**Roads should be:**
+	* Even width all the way through
+	* drawn with two lines
+
+===== Aerial Maps... =====
+* 3D buildings should be drawn as **shaded areas**
+* Have the horizon or coastline
+
+[[Maps|Back To Maps]]

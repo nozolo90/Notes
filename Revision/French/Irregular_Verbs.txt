@@ -6,3 +6,13 @@ Creation-Date: 2017-12-01T20:00:12+00:00
 Created Friday 01 December 2017
 
 [[+Aller|Aller]]
+
+==== Aller - to go ====
+* je **vais**
+* tu **vas**
+* il/elle **va**
+* nous **allons** 
+* vous **allez**
+* ils/elles **vont**
+
+==== Sortir - to go out ====

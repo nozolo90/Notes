@@ -9,9 +9,13 @@ Created Monday 27 November 2017
 
 TODO: not done
 
+A map is a **scaled down drawing** of an area or the whole world.
+Scale is the relationship between distaces on the map and the distance on the ground
+
 ===== Contents =====
-	* [[+Measuring Distances|Measuring Distances]]
-	* [[+Ordanance Survey Maps|Ordanance Survey Maps]]
-	* [[+Types Of Slope|Types Of Slope]]
+* [[+Measuring Distances|Measuring Distances]]
+* [[+Ordanance Survey Maps|Ordanance Survey Maps]]
+* [[+Types Of Slope|Types Of Slope]]
+* [[+Sketch Maps|Sketch Maps]]
 
 [[Geography|Back To oGeography]]

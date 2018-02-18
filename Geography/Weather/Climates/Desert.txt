@@ -14,7 +14,7 @@ Created Wednesday 06 December 2017
 ===== Desertification =====
 * Desertification is when land that was once **fertile** is **turned into barren desert**.
 * The areas most affected are those at the edge of existing deserts like the **sahel region**.
-* It happens when soil is left **bare and exposed**. The exposed soil can be **blown away by the wind**. The eroded soil becomes **barren** and can be blown away by the wind.
+* It happens when soil is left **bare and exposed**. The exposed soil can be **blown away by the wind**. The eroded soil becomes **barren** and **infertile**.
 
 === Causes of desertification ===
 * Climate change
@@ -28,24 +28,22 @@ Created Wednesday 06 December 2017
 == Human Factors ==
 * High birth rates have led to an **increased demand for food**.
 * The people keep large herds of cattle and goats. The animals eat too much leading to **overgrazing of the land**.
-
 * When farmers change their way of farming. When they change from grazing to crop growing, the soil loses its nutrients and the crops fail.
-
 * Trees and shrubs are cut down speeding up erosion.
 
 === Results Of Desertification ===
-* Thousands have died as a result of famine. This has had a big impact on **sudan and etheopia**.
-* Millons of people were forced to migrate in search for food or aid. Many of them are Still in refugee camps.
-* Many people have moved into urban areas, resulting in the growth of slums.
-* Many animals have died.
-* Vast areas are now infertile.
-* Livelyhoods of people are threatened.
+* **Thousands have died** as a result of famine. This has had a big impact on **sudan and etheopia**.
+* Millons of **people were forced to migrate** in search for food or aid. Many of them are Still in refugee camps.
+* Many people have moved into urban areas, resulting in the **growth of slums**.
+* Many **animals have died**.
+* Vast **areas are now infertile**.
+* Livelyhoods of people are threatened, especially in countries like mali.
 
 === Solutions ===
 * Plant **drought resistant trees** to create **shelter belts**
 * Plant **dorught resistant grasses** to **bind soil**
 * Use **irrigation schemes** to keep land fertile.
-* New breeds of animal that prodice more things with less herds.
+* **New breeds of animal** that prodice more things with less herds.
 
 see [[Economic Activities:Types Of Economic Activity:Primary Economic Activity:Water Supply:Eygypt Irrigation|Eygypt Irrigation]]
 

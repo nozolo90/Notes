@@ -8,12 +8,11 @@ Creation-Date: 2017-11-27T21:22:32+00:00
 Created Monday 27 November 2017
 
 === National Grid ===
-	The national grid is used to locate regoins in ireland.
-	The grid has a 1:50,000 scale
-	Each sub-zone of 25 zones has a letter
-
+* The national grid is used to locate regoins in ireland.
+* The grid has a 1:50,000 scale
+* Each sub-zone of 25 zones has a letter
 
 === Map Features ===
-	[[+Altitude|Altitude]]
+* [[+Altitude|Altitude]]
 
 [[Maps|Back To Maps]]

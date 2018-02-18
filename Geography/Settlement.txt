@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T18:58:33+00:00
+
+====== Settlement ======
+Created Monday 12 February 2018
+
+[[+Functions Of Towns|Functions Of Towns]]

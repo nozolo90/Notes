@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-18T20:54:25+00:00
+
+====== 2nd Year Summer Exam ======
+Created Sunday 18 February 2018
+
+==== Geography ====
+* New functions of towns
+	* Defence, Recourse, Ecclisiastical, Market, Port, Residential, 

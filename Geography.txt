@@ -20,6 +20,7 @@ Study for **geography**
 	* [[+Maps|Maps]]
 	* [[+Weather|Weather]]
 	* [[+Population|Population]]
+	* [[+Settlement|Settlement]]
 
 
 --------------------

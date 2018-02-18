@@ -8,15 +8,15 @@ Creation-Date: 2017-11-27T21:49:43+00:00
 Created Monday 27 November 2017
 
 === Even ===
-	These slopes have evenly spaced contours
+* These slopes have evenly spaced contours
 
 === Convex ===
-	these slopes are steep at the start, then flater nearer to the end
+* these slopes are steep at the start, then flater nearer to the end
 
 === Concave ===
-	these maps are flater near the start, but steeper near the end
+* these maps are flater near the start, but steeper near the end
 
 === Compound ===
-	These slopes are both concave and convex combined
-	
+* These slopes are both concave and convex combined
+
 [[Maps|Back To Maps]]

@@ -13,13 +13,13 @@ People then found out that by adding **tin** to **Copper** they could make a str
 The [[+Beaker People|Beaker People]] brought the bronze age to Ireland in **2000BC**
 
 ==== Contents ====
-	[[+Bronze|Bronze]]
-	[[+Beaker People|Beaker People]]
-	[[+Bronze Extraction|Bronze Extraction]]
-	[[+Tombs|Tombs]]
-	[[+Stone Circles|Stone Circles]]
-	[[+Torcs & Lunlaes|Torcs & Lunlaes]]
-	[[+Fullacht Fia|Fullacht Fia]]
-	[[+Food|Food]]
+* [[+Bronze|Bronze]]
+* [[+Beaker People|Beaker People]]
+* [[+Bronze Extraction|Bronze Extraction]]
+* [[+Tombs|Tombs]]
+* [[+Stone Circles|Stone Circles]]
+* [[+Torcs & Lunlaes|Torcs & Lunlaes]]
+* [[+Fullacht Fia|Fullacht Fia]]
+* [[+Food|Food]]
 
 [[History|Back To History]]

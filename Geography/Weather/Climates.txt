@@ -20,4 +20,5 @@ Created Sunday 03 December 2017
 === Cold Climates ===
 	* [[+Boreal|Boreal]] - **Most Important**
 	* [[+Tundrah|Tundrah]]
+
 [[Weather|Back To Weather]]

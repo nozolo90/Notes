@@ -6,7 +6,7 @@ Creation-Date: 2017-09-25T19:40:47+01:00
 Created Monday 25 September 2017
 
 === Here are some improvements that occured during the age of exploration ===
-	* new [[+Caravel|Caravel]] ships
-	* new [[+Navigation|Navigation]] systems
+* new [[+Caravel|Caravel]] ships
+* new [[+Navigation|Navigation]] systems
 
 [[Age Of Exploration|Back To Age Of Exploration]]

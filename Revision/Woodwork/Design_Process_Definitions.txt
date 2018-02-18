@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-18T15:16:51+00:00
+
+====== Design Process Definitions ======
+
+
+Created Monday 18 December 2017
+
+=== Analysis of brief ===
+* The **analysis of the given brief** to identify the stated requirements.
+* **Listing the problems** needed to be overcome in order to create the project.
+* **explaining key words** contained in the brief.
+
+=== Investigation/Research ===
+* The process wherin you **look at the problem**, **identify key reqirements** for the design solution and **gather information** that will allow you to arrive at possible design solutions.
+* Looking at google, visiting stores, watching ads, reading magasines, looking at similar artefacts .ect
+
+=== Design Ideas/Solutions ===
+* **Proposed sketches** based on the analysis of the brief carried out that should meet all the requirements.
+* One design idea or element from several ideas can be brought together into the selected solution.
+
+=== Sketches and Working Drawings ===
+* **Dimensioned drawings** to include **plan, elevation and end elevation and/or pictorial view** of the proposed artefact and sketches relating to its manufacture.
+* Appropriate detailing and a material list should be included.
+
+=== Evaluation ===
+A review of the process of **designing** and **making** the artefact where:
+	* fitness for purpose.
+	* appearance
+	* use of materials
+	* modifications
+	* time management
+	* safety
+	* and stability
+are considered.
+
+[[Woodwork|Back To Woodwork]]

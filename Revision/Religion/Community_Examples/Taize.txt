@@ -7,9 +7,13 @@ Creation-Date: 2017-08-24T14:17:51+01:00
 
 Created Thursday 24 August 2017
 {{../../../../Images/taize_logo.jpg}}
-Taize is an **ecuminical** **community** in **france**
-Founded by brother **rodger** **scultz**
-Christians from different denominations come to **communicate** and **learn** from each other
+
+=== Founder ===
+	* Founded by brother **rodger** **scultz**
+
+=== Purpose ===
+	* Taize is an **ecuminical** **community** in **france**
+	* Christians from different denominations come to **communicate** and **learn** from each other
 
 === At Taize ===
 	* They **pray** and **go** **to** **mass** 3 times every day

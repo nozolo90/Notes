@@ -5,49 +5,53 @@ Creation-Date: 2017-11-28T18:54:10+00:00
 ====== Martin Luther Essay ======
 Created Tuesday 28 November 2017
 
-== Who was he ==
+{{../../Images/martin_luther_reformation_img.jpg?width=200}}
+
+== 1. Who was he ==
 * Martin luther was a **german monk**.
 * He was born in eisbien, saxony, germany in **1483**.
 * He was born to a rich family and his father wanted him to study law.
 
-== Becoming a monk ==
+== 2. Becoming a monk ==
 * One day in **1505**, luther was caught in a terrible thunderstorm.
 * He believed that God had saved him and became an agustinian monk.
 * He studied theology at university.
 
-== Coming up with the idea ==
+== 3. Coming up with the idea ==
 * Luther was a very unhappy monk - He belived he was a terrible sinner.
 * He searched the bible for ways that sinners could get to heaven.
 * He came to the conclusion of **JUSTIFICATION BY FAITH ALONE**
 
-== What was the idea ==
+== 4. What was the idea ==
 * **JUSTIFICATION BY FAITH ALONE** means that you can get to heaven by only believing in God.
 * The Catholic Church believed that to get to heaven, a mixture of faith and good work was required.
 * Luther now disagreed with this, and this wasn't the only thing he and the Catholic church disagreed with.
 
-== What did Luther think of the church's doings ==
+== 5. What did Luther think of the church's doings ==
 At the time, the catholic church did bad things.
 * They sold **indulgences**. Indulgences were large sums of money that youd pay to the catholic church to "bring your loved ones to heaven". (They were really just collecting money for st peters balisca, a large church in rome).
-* The church also carried out abuses, things that the clergy were doing wrong (neoptism, simony, pluralism, absenteism).
+* The church also commited wrongdoings called abuses (neoptism, simony, pluralism, absenteism).
+* The church also collected the tithe. This was 10% of your earnings that the parish collected off of you.
+* This all **made the chruch very** **wealthy**.
 
-== 95 theses ==
+== 6. 95 theses ==
 * One day **John Tetzel **comes into luther's town to sell indulgences, making Luther **furious**.
-* He nailed 95 theses to a door of a church in wittenbourg.
+* He nailed 95 theses to a door of a church in **wittenbourg**.
 * The 95 theses were 95 things Luther belived that the Catholic Church was doing wrong.
 
-== Effects Of The Theses ==
+== 7. Effects Of The Theses ==
 * This shocked the pope, so he sent **Cardinal Cateejan **to have a meeting with Luther to disccuss the protest and for Luther to retract his statements
 * Martin Luther refused.
 * Next, he sent a papal bull(letter) with a threat of exocommunication (when you are kicked out of the church).
 * Luther burned the papal bull which infuriated the pope.
 
-== International - diet of worms ==
+== 8. International - diet of worms ==
 * The church and other religious leaders took action.
 * **Charles V**, the holy roman emperor set up the **diet of worms**, which was a parlament in worms, germany.
 * They discussed Luthers protest and asked him to retract his statements but again, he would not budge.
 * The diet agreed that Luther should be outlawed, but allowed a safe journey home. called the **edict of worms**
 
-== Outlaw - Frederic O' Saxony ==
+== 9. Outlaw - Frederic O' Saxony ==
 * If you are an outlaw, anybody can kill you and recieve no punishment.
 * Luther met **Frederic of Saxony**. He was a person with similar beliefs to luther on the catholic church.
 * Fred let luther hide in his castle in **wartbourg**.
@@ -55,21 +59,24 @@ At the time, the catholic church did bad things.
 * The vernacular of a country is its **most spoken language**.
 * Having the bible in the vernacular is good because it **allows everybody to read it** and come to their own conclusions about the church. before, the bible was written in **latin**, which only rich clergy could read.
 
-== Vernacular Bible ==
+== 10. Vernacular Bible ==
 * Luthers Vernacular Bible was **printed** as many copies.
 * This was important because it greatly increased the ammount of people that were able to read the bible.
 
-== Bible Spread ==
+== 11. Bible Spread ==
 * When Luther came out of hiding, his **ideas began to spread**.
 * He established a **new church** called the **lutherean church**.
 * The lutherean church's rules differed from those of the Catholic church.
 
-== New Rules ==
+== 12. New Rules ==
 * See in copy - marry, source of teaching, head of church.ect
 
-== War And Peace ==
+== 13. War And Peace ==
 * The Catholic and Lutherian beliefs conflicted, causing **civil war** that lasted from **1546 **to **1555.**
-* In **1555** a peace treaty was signed called the **peace of ausborg** which allowed the priince of each state to chose which religion he wanted his people to follow.
+* In **1555** a peace treaty was signed called the **peace of ausborg** which allowed the prince of each state to chose which religion he wanted his people to follow.
 * If you didnt like it, you could move out.
 
+
+--------------------
+[[Reformation|To Reformation]]
 [[History|Back To History]]
