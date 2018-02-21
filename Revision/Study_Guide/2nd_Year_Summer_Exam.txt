@@ -6,5 +6,14 @@ Creation-Date: 2018-02-18T20:54:25+00:00
 Created Sunday 18 February 2018
 
 ==== Geography ====
+
+=== * Settlement ===
+* Locations of viking towns
+* Difference between a town and a village
 * New functions of towns
-	* Defence, Recourse, Ecclisiastical, Market, Port, Residential, 
+	* Defence, Recourse, Ecclisiastical, Market, Port, Residential, Recreational
+* River Rhine case study
+* Rotterdam case study
+* Limerik city case study
+
+=== * Maps ===

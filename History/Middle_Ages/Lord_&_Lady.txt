@@ -8,19 +8,19 @@ Creation-Date: 2017-08-23T11:38:20+01:00
 Created Wednesday 23 August 2017
 
 === Food ===
-	Rich people ate alot of **meat** ( **duck** , **rabbit** , **hare** , **lamb** , **pork** , **boar** , **birds** )
-	The most important people sat at the **top** **tables**
-	food was served on plates or slices of bread called **trenchers**
-	They drank **ale**
+	* Rich people ate alot of **meat** ( **duck** , **rabbit** , **hare** , **lamb** , **pork** , **boar** , **birds** )
+	* The most important people sat at the **top** **tables**
+	* food was served on plates or slices of bread called **trenchers**
+	* They drank **ale**
 
 [[+Lords|To Lords]]
 [[+Lady|To Lady]]
 
 === Entertainment ===
-	**Hawking** - hunting with trained birds
-	**Tournaments** - knights fought mock battles with each other
-	**Jousting** - Knights charge at each other with blunt swords called lances
-	**minstrels** - singers
-	**jesters** - clowns
+	* **Hawking** - hunting with trained birds
+	* **Tournaments** - knights fought mock battles with each other
+	* **Jousting** - Knights charge at each other with blunt swords called lances
+	* **minstrels** - singers
+	* **jesters** - clowns
 
 [[Middle Ages|Back To Middle Ages]]

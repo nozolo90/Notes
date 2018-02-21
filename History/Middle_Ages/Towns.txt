@@ -7,31 +7,30 @@ Creation-Date: 2017-08-23T15:06:15+01:00
 
 Created Wednesday 23 August 2017
 
-**Medival** towns had **high walls**
-This prevented **unwanted** **criminals** from coming in and allowed the town to **regulate** people coming in
-The only way to get into a town was through a **gate**
-Sellers like **craftsmen** had to pay a **toll** when entering the town
-
-gates closed at **sunset** and opened at **dawn**
-
-**curfew** was a time all fires had to be put out by. It reduced the chances of fires
+=== Protection inside a town ===
+* **Medieval** towns had **high walls**
+* This prevented **unwanted** **criminals** from coming in and allowed the town to **regulate** people coming in
+* The only way to get into a town was through a **gate**
+* Sellers like **craftsmen** had to pay a **toll** when entering the town
+* Gates closed at **sunset** and opened at **dawn**
+* **Curfew** was a time all fires had to be put out by. It reduced the chances of fires
 
 === Inside a town ===
-	* paved **main** **street** ( others were narrow lanes )
-	* **parish** **church** - tallest building
-	* **fair** **green** - [[+Fairs|Fairs]] would go on here
-	* market square - markets were here
-	* **wooden** **houses**
-	* rich people had three story houses on **main**/**high** street - got wider as they got taller
-		* They had long **gardens** with animals and vegetables
-	* **craftsman** shops that belonged to a [[Craftsmen:Mastercraftsman|mastercraftsman]] or a [[Craftsmen:Journeyman|journeyman]]
+* paved **main** **street** ( others were narrow lanes )
+* **parish** **church** - tallest building
+* **fair** **green** - [[+Fairs|Fairs]] would go on here
+* market square - markets were here
+* **wooden** **houses**
+* rich people had three story houses on **main**/**high** street - got wider as they got taller
+	* They had long **gardens** with animals and vegetables
+* **craftsman** shops that belonged to a [[Craftsmen|mastercraftsman]] or a [[Craftsmen|journeyman]] 
 
 === Health Risks ===
-	Towns were very **dirty**
-	There were **no** **sewers**
-	people threw everything into it the **open** **drains** - even the contents of their toilets
-	because of this dirt, **disease** spread easily by **rats** and **fleas**
-	a skin disease called **leprosy** was common
+* Towns were very **dirty**
+* There were **no** **sewers**
+* people threw everything into it the **open** **drains** - even the contents of their toilets
+* because of this dirt, **disease** spread easily by **rats** and **fleas**
+* a skin disease called **leprosy** was common
 
 [[Middle Ages|Back To Middle Ages]]
 

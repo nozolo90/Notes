@@ -8,7 +8,7 @@ Creation-Date: 2017-08-23T11:50:36+01:00
 Created Wednesday 23 August 2017
 
 **Guilds** were organisations that ran each **trade**
-trades are the craftsmans areas of work examples are **bakers** **trade**, **fishermans** **trade**
+trades are the craftsman's areas of work examples are **bakers** **trade**, **fishermans** **trade**
 
 === Here are some of its jobs : ===
 	* Taking care of **ill** **members**
