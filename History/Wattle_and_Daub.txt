@@ -8,7 +8,7 @@ Creation-Date: 2017-08-21T12:01:14+01:00
 Created Monday 21 August 2017
 
 === Wattle and daub was a technique used to make houses ===
-	**wattle** - sticks woven together to make the house frame
-	**daub** - a mixture of **poop**, **straw** and **mud** that was put into the woven frame for insulation
+* **wattle** - sticks woven together to make the house frame
+* **daub** - a mixture of **poop**, **straw** and **mud** that was put into the woven frame for insulation
 
 [[History|Back To Contents]]

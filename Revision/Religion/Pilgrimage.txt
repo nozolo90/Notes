@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-21T20:09:09+00:00
+
+====== Pilgrimage ======
+Created Wednesday 21 March 2018
+
+A pilgrimage is a journey made by a pilgrim to a sacred place
+
+=== Places of pilgrimages ===
+* Pilgrimage sites arise in **sacred** places.
+* A sacred place in religion is a place where somebody has encountered God in a special way. For Christians, this is a place where people have encountered Jesus, Mary or one of the saints.
+* Because of this, Christians believe that god is present in a mysterious way in **sacred places**.
+
+=== Reasons people go on pilgrimages ===
+* To pray for each other
+* To ask God for help (Petition)
+* To ask for forgiveness.
+
+=== Examples ===
+* There are 3 types of Pilgrimage
+__Jesus__
+* Holy Land
+* Nazereth
+* Bethlehem
+__Mary__
+* Knock
+__Saints__
+* Glendalough St  Kevin
+* Croagh Patrick
+
+[[Religion|Back To Religion]]

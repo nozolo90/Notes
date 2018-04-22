@@ -7,23 +7,23 @@ Creation-Date: 2017-08-21T13:56:30+01:00
 
 Created Monday 21 August 2017
 
-Archaeologists don't just dig randomly.
-The use techniques to find digging spots with higher chances of containing **artifacts**
+Archaeologists don't just dig randomly bro.
+The use **techniques** to find digging spots with higher chances of containing **artifacts**
 
-==== There are four main ways archaeologists look for Excavation site ====
+==== -There are four main ways archaeologists look for Excavation site- ====
 
 === Aerial photography ===
-Archaeologists look for bumps/hills that could be artifacts buried underground **from the air**
+* Archaeologists look for bumps/hills that could be artifacts buried underground **from the air**
 
 === Rescue/salvage Archeology ===
-Before something is built over an area, archaeologists are called **excavate** underneath the area
-This is to make sure there isn't any important artifacts underneath that would be covered by the building
+* Before something is built over an area, archaeologists are called **excavate** underneath the area
+* This is to make sure there isn't any important artifacts underneath that would be covered by the building
 
 === Metal Detectors ===
-**Archaeologists** use **metal detectors** that beep when something metal is under them
+* **Archaeologists** use **metal detectors** that beep when something metal is under them
 
 === Local information ===
-**Archaeologists** would ask **locals** of an area if they know anything about the history of an area.
-these people are [[History:Sources And Historians:Secondary Source|secondary sources]]
+* **Archaeologists** would ask **locals** of an area if they know anything about the history of an area.
+* these people are [[History:Sources And Historians:Secondary Source|secondary sources]]
 
 [[Archeology|Back To Contents]]

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-04-18T19:57:53+01:00
+
+====== Intel ======
+Created Wednesday 18 April 2018
+
+Intel is a **Multinational Company** that has a high tech plant in lexlip.
+
+=== Inputs ===
+* Silicon wafers.
+* Electricity for lasers
+* Chemicals and Gases like phosphorous and carbon.
+* Highly skilled workers.
+* Extremely pure water.
+* Specialised cleanroom equipment.

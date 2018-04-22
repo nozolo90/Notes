@@ -5,7 +5,7 @@ Creation-Date: 2017-09-25T20:14:18+01:00
 ====== Ferdinand Magellan ======
 Created Monday 25 September 2017
 
-Ships __VCSTS__
+Ships __VSSCT__
 
 === Journey 1494 ===
 * Magellan recieved 5 ships(**San Antonio,Trinidad,Conception,Victoria,Santiago**) and **270** crew

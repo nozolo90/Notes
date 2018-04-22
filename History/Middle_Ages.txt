@@ -15,19 +15,20 @@ There was no **government**, or laws and **dangerous** **people** ran through th
 
 People relied on local **lords** to protect them. They became very powerful and set up the **feudal** **system**
 
-==== Contents ====
-	* [[+How Land Went Round|How Land Went Round]]
-	* [[+Peasants|Peasants]]
-		* [[+Open Field System|Open Field System]]
-	* [[+Manors|Manors]]
-	* [[+Towns|Towns]]
-	* [[+Castles|Castles]]
-	* [[+Baillif|Baillif]]
-	* [[+Lord & Lady|Lords and Ladies]]
-	* [[+Craftsmen|Craftsmen]]
-	* [[+Knights|Knights]]
-		* [[+Weapons|Weapons]]
-	* [[+Black Death|Black Death]]
-	* [[+Religion|Religion]]
+==== People ====
+* [[+Knights|Knights]]
+* [[+Peasants|Peasants]]
+	* [[+Open Field System|Open Field System]]
+* [[+How Land Went Round|How Land Went Round]]
+* [[+Lord & Lady|Lords and Ladies]]
+* [[+Craftsmen|Craftsmen]]
+* [[+Religion|Religion]]
+* [[+Black Death|Black Death]]
+
+==== Places ====
+* [[+Manors|Manors]]
+* [[+Towns|Towns]]
+* [[+Castles|Castles]]
+* [[+Baillif|Baillif]]
 
 [[History|Back To History]]

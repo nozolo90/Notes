@@ -8,27 +8,27 @@ Creation-Date: 2017-11-27T17:41:45+00:00
 Created Monday 27 November 2017
 
 ===== Past Tense =====
-	Add a h for constanats
-	Add a d' for vowels
-	Add a d' fh for f
-	Add amar for we caol
-	Add eamar for we leathan
+	* Add a h for constanats
+	* Add a d' for vowels
+	* Add a d' fh for f
+	* Add amar for we caol
+	* Add eamar for we leathan
 
 
 ===== Present Tense =====
 
 === Caol ===
-	Add ann for 1s
-	Add aionn for 2s
-	Add aimid for 1s we
-	Add aimid for 2s we
+	* Add ann for 1s
+	* Add aionn for 2s
+	* Add aimid for 1s we
+	* Add aimid for 2s we
 
 
 === Leathan ===
-	Add eann for 1s
-	Add ionn for 2s
-	Add imid for 1s we
-	Ad imid for 2s we
+	* Add eann for 1s
+	* Add ionn for 2s
+	* Add imid for 1s we
+	* Ad imid for 2s we
 
 
 ===== Future Tense =====

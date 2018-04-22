@@ -8,11 +8,13 @@ Creation-Date: 2017-08-22T16:14:59+01:00
 Created Tuesday 22 August 2017
 
 === If you were a roman citizen ===
-	You could vote
-	Tou werent forced to fight in gladiatior battles or race charriots
-	You had rights
+* You could vote
+* You wern't forced to fight in gladiatior battles or race charriots
+* You had rights
 	
+
 === To be a roman citizen ===
-	You couldnt me a slave
+* You couldn't be a slave
+* You couldn't be a woman
 	
 [[Rome|Back To Rome]]

@@ -5,8 +5,29 @@ Creation-Date: 2017-09-25T19:40:47+01:00
 ====== Improvements In Shipbuilding ======
 Created Monday 25 September 2017
 
-=== Here are some improvements that occured during the age of exploration ===
-* new [[+Caravel|Caravel]] ships
-* new [[+Navigation|Navigation]] systems
+=== Here are some improvements ===
+
+===== New Caravel Ships =====
+
+=== Features ===
+* **Small** and **easy to steer**
+* Triangular lateen sails allowed ships to **sail into the wind**
+* **Armoured** clinker built hull.
+* **Water tight** decks.
+
+===== New navigation stystems =====
+
+=== Astrolabe ===
+* These used the sun or noth star to find the ships lattitude
+
+=== Compass ===
+* compasses were used to tell direction
+
+=== Speed - knot and line ===
+* a log attatched to a rope would be thrown int the sea; it would remain stationary.
+* The boat would move away from the log and the log would pull rope off the deck
+* by seeing how much length of the rope fell off the boat over a certain period of time, you could tell the speed of the boat
+* Time was measured by an hourglass
+
 
 [[Age Of Exploration|Back To Age Of Exploration]]
