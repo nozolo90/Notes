@@ -11,12 +11,6 @@ study for **Economic Activities**
 
 ==== Contents ====
 * [[+Types Of Economic Activity|Types Of Economic Activity]]
-	* [[+Types Of Economic Activity:Primary Economic Activity|Primary Economic Activity]]
-	* [[+Types Of Economic Activity:Secondary Economic Activity|Secondary Economic Activity]]
-	* [[+Types Of Economic Activity:Tertiary Economic Activity|Tertiary Economic Activity]]
 * [[+Types Of Recourses|Types Of Recourses]]
-	* [[+Types Of Recourses:Water|Water]]
-	* [[+Types Of Recourses:Fish|Fish]]
-	* [[+Types Of Recourses:Peat|Peat]]
 
 [[Geography|Back To Chapters]]

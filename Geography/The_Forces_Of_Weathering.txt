@@ -9,9 +9,9 @@ Created Friday 18 August 2017
 Study for **The Forces of Weathering**
 
 ==== Contents ====
-	* [[+Weathering|Weathering]]
-	* [[+Erosion|Erosion]]
-	* [[+Landforms|Landforms]]
-	* [[+The Burren|The Burren]]
+* [[+Weathering|Weathering]]
+* [[+Erosion|Erosion]]
+* [[+Landforms|Landforms]]
+* [[+The Burren|The Burren]]
 
 [[Geography|Back To Chapters]]

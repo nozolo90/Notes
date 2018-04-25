@@ -10,15 +10,18 @@ Created Sunday 20 August 2017
 Study for the **earth**
 
 ==== Contents ====
-	* [[+Layers Of The Earth|Layers Of The Earth]]
-	* [[+Plates|Plates]]
-	* [[+World Plates|World Plates]]
-	* [[+Plate Boundaries|Plate Boundaries]]
-		* [[+Plate Boundaries:Ring Of Fire|Pacific Ring Of Fire]]
-	* [[+Fold Mountains|Fold Mountains]]
-	* [[+EarthQuakes|EarthQuakes]]
-	* [[+Volcanoes|Volcanoes]]
-	* [[+Mid Ocean Ridges|Mid Ocean Ridges]]
-	* [[+Tsunamis|Tsunamis]]
+* [[+Layers Of The Earth|Layers Of The Earth]]
+* [[+Plates|Plates]]
+* [[+World Plates|World Plates]]
+* [[+Plate Boundaries|Plate Boundaries]]
+	* [[+Plate Boundaries:Ring Of Fire|Pacific Ring Of Fire]]
+* [[+Fold Mountains|Fold Mountains]]
+* [[+EarthQuakes|EarthQuakes]]
+* [[+Volcanoes|Volcanoes]]
+* [[+Mid Ocean Ridges|Mid Ocean Ridges]]
+* [[+Tsunamis|Tsunamis]]
 
+
+
+--------------------
 [[Geography|Back To Chapters]]

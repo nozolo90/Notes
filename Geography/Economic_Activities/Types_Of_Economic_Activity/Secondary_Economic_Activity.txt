@@ -9,8 +9,28 @@ Created Sunday 20 August 2017
 
 **Secondary Economic Activites** are manufacturing industries. Raw materials are processed into finished or semi-finished products, or semi-finished products are used to make finished ones.
 
-=== Some Examples ===
+=== Industrial Estates ===
+* **Industrial Estates **are areas set aside especially for industry. They provide top quality infarstructure, electricits, water and waste management.
+* They are usuallt near good **transport links** like major roads, airports and railway.
+* They are separated into **plots** which can be bought or rented.
+
+=== Light industry ===
+* **Light industries **use small ammounts of raw materials to make small products.
+* For example, intel, and textile industries.
+
+=== Heavy industry ===
+* **Heavy industries** use large ammounts of raw materials to make heavy, bulky products.
+* For example: steel making.
+
+=== Footloose industry ===
+* Footloose industries are industries that can be succesful in a variety of different locations.
+* Most modern industries are footloose.
+
+[[+Location Of Factories|Location Of Factories]]
+
+=== Examples ===
 * [[+Intel|Intel]]
+* [[+Irish Cement Ltd|Irish Cement Ltd]]
 * Food processing factories
 * HP
 

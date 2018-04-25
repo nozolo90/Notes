@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-04-22T23:09:58+01:00
+
+====== Irish Cement Ltd ======
+Created Sunday 22 April 2018
+
+Irish Cement Limeted is part of a large **MNC **called CRH,
+They are **heavy industry**.
+
+=== Inputs ===
+* Limestone quarry nearby
+* Silica - found above the limestone
+
+=== Processes ===
+* Making cement.
+* Cement quality control.
+* Cement packaging.
+
+=== Outputs ===
+* Cement
+* Waste water
+* Heat
+
+[[Secondary Economic Activity|Back To Secondary Economic Activity]]

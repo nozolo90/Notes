@@ -18,4 +18,6 @@ Scale is the relationship between distaces on the map and the distance on the gr
 * [[+Types Of Slope|Types Of Slope]]
 * [[+Sketch Maps|Sketch Maps]]
 
+
+--------------------
 [[Geography|Back To oGeography]]

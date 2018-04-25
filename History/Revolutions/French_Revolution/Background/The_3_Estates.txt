@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-04-24T23:07:10+01:00
+
+====== The 3 Estates ======
+Created Tuesday 24 April 2018
+
+=== First Estate ===
+* This group consisted of the **clergy**.
+* They were very rich and owned around 10% of all the land.
+* They didn't pay any taxes, but recieved the **tithe**.
+
+=== Second Estate ===
+* This estate consisted of the **nobles**.
+* Many were wealthy land owners, some were advisors to the king and some were judjes or generals in the army.
+* They had great power over the peasants who worked on their land.
+
+=== Third Estate ===
+* This estate consisted of the **commoners**.
+* The educated were called the **bourgeoise**. They were buisnessmen, lawyers and doctors.
+* They wanted more say in how the country was governed.
+
+
+--------------------
+[[Background|Back To Background]]

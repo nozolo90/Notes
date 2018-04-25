@@ -9,6 +9,7 @@ Created Friday 18 August 2017
 a **bay** is a wide curved opening in the coastline
 a **headland** in a piece of land(hard rock) jutting out into the sea
 
+=== How they happen ===
 * They occur when there are **different types rock** (**soft** and **hard**) along the coastline
 * The **softer** **rock** is eroded **fast** forming a curved **bay**
 * The **harder** **rock** is eroded **slowly** so thy stick out into the sea forming a **headland**

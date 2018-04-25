@@ -1,18 +1,9 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2017-12-03T19:45:25+00:00
+Creation-Date: 2018-04-23T07:31:23+01:00
 
-====== Cloud and Rain types ======
-
-
-Created Sunday 03 December 2017
-
-=== Rain Types ===
-* [[+Convection|Convection]]
-* [[+Frontal Rain|Frontal Rain]]
-* [[+Relief Rain|Relief Rain]]
-
-=== Cloud Types ===
+====== Cloud types ======
+Created Monday 23 April 2018
 
 == Cirrus ==
 * High
@@ -29,4 +20,6 @@ Created Sunday 03 December 2017
 * Low altitude
 * Constant light rain
 
+
+--------------------
 [[Weather|Back To Weather]]

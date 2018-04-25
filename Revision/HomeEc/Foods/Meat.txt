@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-04-25T19:11:29+01:00
+
+====== Meat ======
+Created Wednesday 25 April 2018
+
+=== Types of meat ===
+* **Carcase Meat -** beef, lamb and pork.
+* **Poultry -** chicken, turkey, duck and goose.
+* **Offal -** kidney, liver and heart.
+* **Game -** pheasant, rabbit and deer.
+
+=== Nutritive Value of meat ===
+* **Protien - **good source of HBC protien for growth and repair.
+* **Fat -** source of saturated fat. the ammount depends on the animal and the cut. there is invisible fat and visible fat.
+* **Carbs -** meat contains no carbohydrates.
+* **Vitamins -** good source of vitamin B, A and D.
+* **Minerals -** Iron for the blood, Phosphorous and calcium for the bones.
+* **Water -** meat is around 60% water.
+
+=== Dietetic value ===

@@ -11,12 +11,14 @@ Study for **The Sea Chapter**
 {{../../Images/image_of_the_sea.jpg?height=200}}
 
 ==== Contents ====
-	* [[+Waves|Waves]]
-	* [[+Sea Deposition And Erosion|Sea Deposition And Erosion]]
-	* [[+Bays and Headlands|Bays and Headlands]]
-	* [[+Longshore Drift|Longshore Drift]]
-	* [[+Landforms|Landforms]]
-	* [[+Uses of the Sea|Uses of the Sea]]
-	* [[+Costal Protection|Costal Protection]]
+* [[+Waves|Waves]]
+* [[+Sea Deposition And Erosion|Sea Deposition And Erosion]]
+* [[+Bays and Headlands|Bays and Headlands]]
+* [[+Longshore Drift|Longshore Drift]]
+* [[+Landforms|Landforms]]
+* [[+Uses of the Sea|Uses of the Sea]]
+* [[+Costal Protection|Costal Protection]]
 
+
+--------------------
 [[Geography|Back To Chapters]]

@@ -8,9 +8,12 @@ Created Wednesday 08 November 2017
 This is the revision for weather
 
 ==== Contents ====
-	* [[+Cloud and Rain types|Cloud and Rain types]]
-	* [[+Measuring Weather|Measuring Weather]]
-	* [[+Factors That Affect Weather|Factors That Affect Weather]]
-	* [[+Climates|Climates]]
+* [[+Cloud types|Cloud types]]
+* [[+Rain types|Rain types]]
+* [[+Measuring Weather|Measuring Weather]]
+* [[+Factors That Affect Weather|Factors That Affect Weather]]
+* [[+Climates|Climates]]
 
+
+--------------------
 [[Geography|Back To Geography]]

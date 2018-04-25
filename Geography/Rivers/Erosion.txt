@@ -10,9 +10,9 @@ Created Saturday 19 August 2017
 Material **eroded **by the river is [[River Transportation|Transported]] downstream
 
 === There are four types of river erosion. ===
-	1. [[+Hydraulic action|Hydraulic action]] 
-	2. [[+Abrasion|Abrasion]]
-	3. [[+Attrition|Attrition]]
-	4. [[+Solution|Solution]]
+* [[+Hydraulic action|Hydraulic action]] 
+* [[+Abrasion|Abrasion]]
+* [[+Attrition|Attrition]]
+* [[+Solution|Solution]]
 
 [[Rivers|Back To Rivers]]

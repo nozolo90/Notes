@@ -9,5 +9,9 @@ Created Saturday 16 December 2017
 
 ===== Contents =====
 * [[+Design Process Definitions|Design Process Definitions]]
+* [[+Diseases and Defects|Diseases and Defects]]
+* [[+Manufactured Boards|Manufactured Boards]]
 
+
+--------------------
 [[Revision|To Revision]]

@@ -10,5 +10,7 @@ Revision for the Settlement chapter
 === Contents ===
 * [[+Functions Of Towns|Functions Of Towns]]
 
+
+--------------------
 [[Revision|Back To Revision]]
 

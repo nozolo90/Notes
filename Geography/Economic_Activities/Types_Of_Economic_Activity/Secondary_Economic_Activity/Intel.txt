@@ -6,11 +6,24 @@ Creation-Date: 2018-04-18T19:57:53+01:00
 Created Wednesday 18 April 2018
 
 Intel is a **Multinational Company** that has a high tech plant in lexlip.
+They are **Light Industry**.
 
 === Inputs ===
-* Silicon wafers.
-* Electricity for lasers
-* Chemicals and Gases like phosphorous and carbon.
-* Highly skilled workers.
-* Extremely pure water.
-* Specialised cleanroom equipment.
+* **Silicon Wafers - **thin disks of silicon 1 foot in diameter. act as a baseplate for micropreccesors.
+* **Electricity** for lasers. Lasers are used to etch the microprocessors.
+* **Chemicals and Gases** like phosphorous and carbon.
+* Highly **skilled workers**. 4,500 scientists, engineers.
+* Extremely **pure water**.
+* Specialised **cleanroom equipment**.
+
+=== Processes ===
+* **Creating microprocessors - **lasers are used to build transistors on the wafers. The wafers are cut into rectangular microprocessors. Bond pads are added.
+* **Packaging Micropreccesors**
+* **Quality Controling** microprocessors.
+
+=== Outputs ===
+* **Waste water**
+* **Steam**
+* **Completed microprocessors - **these are sent to assembly plants in the USA and china.
+
+[[Secondary Economic Activity|Back To Secondary Economic Activity]]

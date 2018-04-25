@@ -7,11 +7,11 @@ Creation-Date: 2017-08-20T13:25:23+01:00
 
 Created Sunday 20 August 2017
 
-=== Characteristics(Things that help you identify rocks) of rocks are : ===
-	* **Color** - the color of the rock
-	* **Texture** - how the rock feels
-	* **Weight** - how heavy the rock is
-	* **Hardness** - how hard the rock is
-	* **Density** - how dense the rock is
+=== Characteristics of rocks are : ===
+* The **Color** - the color of the rock
+* The **Texture** - how the rock feels
+* The **Weight** - how heavy the rock is
+* The **Hardness** - how hard the rock is
+* The **Density** - how dense the rock is
 
 [[Rocks|Back To Contents]]

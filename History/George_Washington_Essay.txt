@@ -5,6 +5,8 @@ Creation-Date: 2018-01-28T17:57:44+00:00
 ====== George Washington Essay ======
 Created Sunday 28 January 2018
 
+[[Revolutions:American Revolution|To American Revolution]]
+
 == Who was he? ==
 George Washington was an American revolutionary leader. He was a wealthy land owner born in 1732.
 He was a member of the **Continential Congress**, a group of representitives from the 13 different colonies on the east coast of America.
@@ -21,9 +23,15 @@ America's **Continential Army** was split into groups called militias. Each colo
 //However Americans had some advantages//
 **They were on home turf and knew the area... !GUERILLA WARFARE!**
 
-=== Battle Of Boston ===
+=== Battle Of Boston in 1775 ===
+* This was the first battle of the war.
+* George washington organised a camp in boston.
+* He then took artillery from new york and used them to bombard the british.
+* American win
 
 === Long Island Battle ===
+* The british attack GW in new york state.
+* The Americans lost and were forced to retreat.
 
 === Trenton Battle ===
 
@@ -35,4 +43,7 @@ America's **Continential Army** was split into groups called militias. Each colo
 
 === Treaty of Paris ===
 
+
+--------------------
+[[Revolutions:American Revolution|To American Revolution]]
 [[History|Back To History]]

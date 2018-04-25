@@ -16,9 +16,9 @@ Created Saturday 19 August 2017
 
 
 === Types ===
-	* [[+Soil Creep|Soil Creep]]
-	* [[+BogBurst|BogBurst]]
-	* [[+Mudflow|Mudflow]]
-	* [[+LandSlides|LandSlides]]
+* [[+Soil Creep|Soil Creep]]
+* [[+BogBurst|BogBurst]]
+* [[+Mudflow|Mudflow]]
+* [[+LandSlides|LandSlides]]
 
 [[Mass Movement|Back To Contents]]

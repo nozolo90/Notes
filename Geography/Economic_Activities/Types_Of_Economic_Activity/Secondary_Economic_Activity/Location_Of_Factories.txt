@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-04-23T22:47:44+01:00
+
+====== Location Of Factories ======
+Created Monday 23 April 2018
+
+=== Resource / Raw Materials ===
+* These are the basic inputs of any factory.
+* Costs are reduced if a factory is located near its raw/resource materials.
+* **Intel - **doesn't need to be near its resource materials as it is a light industry. Materials can be easilly exported through dublin airport and the M4 motorway.
+* **Irish Cement Ltd -** Irish Cement Ltd is situated beside a Limestone Quarry from which 80% of its materials come from. Silica is also obtained from the Quarry.
+
+=== Labour ===
+* Most industries are situated near large towns or cities which provide many workiers.
+* Industries which require a skilled workforce are located near to third level colleges and universities.
+* **Intel - **Universities like Maynooth and Dublin provide highly skilled graduates.
+* **Irish Cement Ltd -** Workers live in the nearby Drogheada town.
+
+=== Transport Links ===
+* Re
+
+=== Market ===
+| Intel | Irish Cement | RUHR |
+|:------|:-------------|:-----|
+|       |              |      |
+
+
+=== Infarstructure ===
+| Intel | Irish Cement | RUHR |
+|:------|:-------------|:-----|
+|       |              |      |
+
+
+=== Capital ===
+| Intel | Irish Cement | RUHR |
+|:------|:-------------|:-----|
+|       |              |      |
+
+
+=== Gov/Eu Policies ===
+| Intel | Irish Cement | RUHR |
+|:------|:-------------|:-----|
+|       |              |      |
+
+
+=== Local Attitudes ===
+
+| Intel | Irish Cement | RUHR |
+|:------|:-------------|:-----|
+|       |              |      |
+
+
+
+--------------------
+[[Secondary Economic Activity|Back To Secondary Economic Activity]]
