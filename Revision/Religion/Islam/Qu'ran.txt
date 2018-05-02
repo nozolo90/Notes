@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-09-10T19:21:33+01:00
 
-
+ 
 
 ====== Qu'ran ======
 Created Sunday 10 September 2017
