@@ -5,17 +5,17 @@ Creation-Date: 2018-04-23T07:31:23+01:00
 ====== Cloud types ======
 Created Monday 23 April 2018
 
-== Cirrus ==
+== Cirrus ~~~ ==
 * High
 * Wispy
 * Fine Weather
 
-== Cumulous ==
+== Cumulous oOooOOoO ==
 * Fluffy
 * Medium High
 * Bad weather if dark
 
-== Stratus ==
+== Stratus === ==
 * Layers/Blanket like
 * Low altitude
 * Constant light rain

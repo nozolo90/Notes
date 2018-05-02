@@ -14,11 +14,15 @@ Created Monday 23 April 2018
 === Frontal ===
 * A warm air mass meets a cold air mass.
 * The war air mass rises over the cold air mass.
-* As the warm air mass rises, it cools and condenses forming stratus clouds.
+* As the warm air mass rises, it cools and condenses forming **stratus clouds**.
 * Further condenstation causes precipitation.
 
 === Relief Rain ===
-
+* Occurs in hilly, coastal areas like in donegal.
+* Moisture laden winds come in from the sea.
+* They are warm and pushed up mountains.
+* As they rise they cool and precipitate on the windward side.
+* Other side recieves little rain - leeward side/rain shadow.
 
 --------------------
 [[Weather|Back To Weather]]

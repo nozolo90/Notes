@@ -8,13 +8,15 @@ Creation-Date: 2017-12-06T17:07:58+00:00
 Created Wednesday 06 December 2017
 
 === Statement ===
-* Altitude is how high something is above sea level.
+* Altitude is height above sea level.
 
 === Development ===
 * The higher the altitude of a place, the colder it tends to be.
-* On average the temperature dops by about 7 degrees celcius for every killometer you go up, called the lapse rate.
+* On average the temperature dops by about 7 degrees celcius for every killometer you go up, called the **lapse rate**.
 * This is because the air is thinner and can hold less heat.
+
+=== Example ===
 * An example is mount killamanjaro in tanzania.
-* It is near the equator(lattitude) and in africa, yet because it is so high.
+* It is near the equator([[Latitude|lattitude]]) and in africa, yet because it is so high it snows at the peak.
 
 [[Factors That Affect Weather|Back To Factors That Affect Weather]]

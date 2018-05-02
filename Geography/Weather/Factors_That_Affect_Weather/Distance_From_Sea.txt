@@ -8,20 +8,22 @@ Creation-Date: 2017-12-03T16:40:10+00:00
 Created Sunday 03 December 2017
 
 === Statement ===
-* Places closer to the sea tend to have **mild winters** and **warm summers**.
+* Places closer to the sea tend to have **warm summers** and **mild winters**.
 * Places further from the sea tend to have **hot summers** and **cold winters**.
 
 === Development ===
+__Close to sea__
 * This is because in the summer the **sea slowly absorbs heat**, giving places nearer to the sea warm summers.
 * In the winter, the sea slowly releases/loses heat giving places closer to the sea mild winters.
 * They have a smaller temperature range.
 
+__Far from sea__
 * The **land absorbs heat quickly**, giving places further away from the sea hotter summers.
 * The **land also releases/loses heat quickly** during the winter giving places futrther away from the sea colder winters.
 * They have a larger temperature range.
 
 === Example ===
-* An example is Berlin, Germant and Shannon, Ireland , both on the similar lattitudes.
+* An example is **Berlin**, **Germany** and **Shannon**, **Ireland** , both on the similar lattitudes.
 * The temperature range of berlin is much larger than that of shannon because it is further inland.
 
 [[Factors That Affect Weather|Back To Factors That Affect Weather]]

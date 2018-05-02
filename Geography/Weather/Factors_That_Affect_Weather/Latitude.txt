@@ -10,12 +10,12 @@ Created Sunday 03 December 2017
 === Satement ===
 * The closer a place is to the equator, the hotter it tends to be.
 
-=== Close to equator ===
-* If a place is closer to the equator sun rays dont have to travel through alot of atmosphere to get to the ground,so **less heat is lost**.
-* The sunlight is also focused on a smaller area, so the **heat is concentrated**
+=== If close to equator ===
+* The Sun rays dont have to travel through alot of atmosphere to get to the ground,so **less heat is lost**.
+* The Sunlight is focused on a smaller area, so the **heat is concentrated**
+ 
 
-=== Far from equator ===
-* If a place is further away from the equator the opposite is true.
+=== Far from equator, the opposite is true ===
 * The sun rays have to travel through more atmospher to get to the ground, and **heat is lost**.
 * The sun rays are focused on a larger area due to the curvature of the earth, so the **heat is more spread out**.
 
