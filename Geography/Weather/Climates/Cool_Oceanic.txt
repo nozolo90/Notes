@@ -7,9 +7,11 @@ Creation-Date: 2017-12-07T17:48:11+00:00
 
 Created Thursday 07 December 2017
 
+Like ireland!
+
 === Temperature ===
-* They have **warm summers** that are around **16 degrees celcius**
-* They have **mild winters** that are around **5 degrees celcius**
+* They have **warm summers** that averege around **16 degrees celcius**
+* They have **mild winters** that are like, around **5 degrees celcius**
 
 === Precipitation ===
 * Rain all year

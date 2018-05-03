@@ -37,7 +37,7 @@ __Examples__
 * Most of the mediteranian's **woodland has been cleared for agriculture.**
 * **Overgrazing** has made the soil **exposed to erosion from sudden downpours**.
 * Irrigation schemes have been introduced to combat droughts.
-* Citrus fruits, Tomatoes, Maize and Wheat are commonly grew.
+* **Citrus** **fruits**, **Tomatoes**, **Maize** and **Wheat** are commonly grew.
 * **Sheep** and **goats** are commonly kept as livestock.
 
 === Tourism ===

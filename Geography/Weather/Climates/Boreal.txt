@@ -10,8 +10,8 @@ Created Thursday 07 December 2017
 {{../../../../Images/boreal_regoin_image.jpeg?height=200}}
 
 === Temperature ===
-* **Short summers** with **long days** averaging around **16 degrees celcius (July mean)**.
-* **Long winters** with **long nights** averaging around **-29 degrees** **celcius (January mean)**.
+* **Short summers** with **long days** averaging around **15 degrees celcius (July mean)**.
+* **Long winters** with **long nights** averaging around **-30 degrees** **celcius (January mean)**.
 * They are at a high [[Factors That Affect Weather:Latitude|latitude]], so they are much colder.
 
 === Precipitation ===
@@ -31,6 +31,6 @@ Created Thursday 07 December 2017
 * Fur keeps the body of an animal warm by insulation.
 
 === People ===
-* **50, 000** sami people live in the boreal.
+* **50,000** sami people live in the boreal.
 
 [[Climates|Back To Climates]]

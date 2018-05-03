@@ -17,6 +17,6 @@ Created Thursday 07 December 2017
 
 === Vegetation ===
 * Little vegetation can survive in the harsh conditions. mostly mosses and litchens.
-* Animals and birds are present during the summer but migrate in the winter.
+* Animals and birds are present during the summer but they migrate in the winter.
 
 [[Climates|Back To Climates]]
