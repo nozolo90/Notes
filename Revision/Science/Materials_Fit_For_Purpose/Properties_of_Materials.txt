@@ -10,26 +10,31 @@ Created Thursday 03 May 2018
 * Strength is how good a material is at **resisting** **force**.
 * Strong materials require alot of energy to permanently change their strength.
 __Tensile Strength__
-* How a material can resist a **pulling** **force**.
-__Compressive Strength__
-* How a material can resist a pushing/**compressing** **force**.
+* How a material can resist a **pulling** **force**. -> elastic bands need this.
+__Compressive Strength __
+* How a material can resist a pushing/**compressing** **force**. -> bricks need this.
 
 === Stiffness ===
 * This is how the material will **warp** or **bend** when force is applied.
 * Some materials, like rubber are easy to bend. Others, like diamond are not.
+* Steel beams in construction need to be stiff
 
 === Elasticity ===
 * This is where a solid can be **stretched** and return to its original form.
 * Solids are elastic because they are held together by stretchy bonds.
+* Rubber bands need to be elastic
 
 === Hardness ===
 * This is how hard it is to **cut** into a material.
 * Diamond is the hardest material, so it is cut with a lazer.
+* Diamond is used at the tips of powertools.
 
 === Density ===
 * This is how much matter is packed into a material.
 
 === Melting Point ===
 * This is the point where the material will turn form a **solid** **to** **a liquid**.
+* some plastics will melt when heated.
+* Some plastics will not.
 
 [[Materials Fit For Purpose|Back To Materials Fit For Purpose]]

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-03T23:59:32+01:00
+
+====== Developing new Materials ======
+Created Thursday 03 May 2018
+
+=== Alloys ===
+* mixtures of two or more different metals
+
+=== Plastics ===
+* polymers made from crude oil extraction
+
+=== Composites ===
+
+=== Ceramics ===
+
+[[Materials Fit For Purpose|Back To Materials Fit For Purpose]]

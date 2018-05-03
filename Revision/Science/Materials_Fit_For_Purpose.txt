@@ -9,6 +9,7 @@ Materials are substances that things are made from.
 
 === Contents ===
 * [[+Properties of Materials|Properties of Materials]]
+* [[+Developing new Materials|Developing new Materials]]
 
 
 --------------------
