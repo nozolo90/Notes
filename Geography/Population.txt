@@ -11,6 +11,7 @@ Revision for population chapter
 	* [[+Population Change|Population Change]]
 	* [[+Population Densities|Population Densities]]
 	* [[+Population Make Up|Population Make Up]]
+	* [[+Migration|Migration]]
 
 ==== Study ====
 	* [[+Questions|Questions]]

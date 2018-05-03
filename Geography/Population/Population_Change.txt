@@ -8,11 +8,11 @@ Created Saturday 18 November 2017
 World Population Change is called **natural change**.
 It can be calculated by measuring **birth rates** against **death rates**.
 
-=== Birth rates ===
+=== Birth rates - Natural Increase ===
 	* Number of **live births** per thousand of the population.
 	* When the **birth rates** are **higher** than the **death rates**, **natural increase** occurs.
 
-=== Death rates ===
+=== Death rates - Natural Decrease ===
 	* Number of deaths per thousand of the population.
 	* When the **death rates** are **higher** than the **birth rates**, **natural decrease** occurs.
 
@@ -23,4 +23,6 @@ Geographers have conjured up a diagram to show these changes called the **Demogr
 * [[+Demographic Transition Model|To Demographic Transition Model]]
 * [[+Factors That Influence Change|To Factors That Influence Change]]
 
+
+--------------------
 [[Population|Back to Population]]

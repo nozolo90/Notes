@@ -7,32 +7,34 @@ Created Saturday 18 November 2017
 
 The Demographic Transition Model is a diagram that shows the phases of natural change that countries go through as they develop.
 
-=== Stage 1 - no example ===
+=== Stage 1 - no example - High Fluctuating stage ===
 	* Place is **poor**.
 	* Birth rates are **high**.
 	* **Death rates are also high** because of disease, famine and war.
 	* Population **fluctuates** or **grows slowly**.
 
-=== Stage 2 - eg Mali ===
+=== Stage 2 - eg Mali - High expanding stage ===
 	* Countries **economy begins to develop**
 	* Birth rates remain **high**.
 	* **Death rates plummet** due to better water, food and medical supplies.
 	* Population **"explodes"** and grows rapidly.
 
-=== Stage 3 - eg Brazil ===
+=== Stage 3 - eg Brazil - Low expanding stage ===
 	* Economy continues to **improve**.
 	* **Birth rates begin to fall** because people begin to plan their families.
 	* Population **growth slows down**.
 
-=== Stage 4 - eg Ireland ===
+=== Stage 4 - eg Ireland - Low fluctuating stage ===
 	* **Country is economically developed**.
 	* **People live long** but **have few children**.
 	* **Birth rates** and **death rates** are **low**.
 	* Population increases **very slowly**.
 
-=== Stage 5 - eg Germany ===
+=== Stage 5 - eg Germany - Senile ===
 	* People have very **few children**.
 	* People are more concerned with **material comforts**.
 	* Population/Natural **decrease**.
 
+
+--------------------
 [[Population Change|Back To Population Change]]

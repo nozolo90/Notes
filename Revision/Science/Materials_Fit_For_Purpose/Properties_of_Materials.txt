@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-03T23:44:45+01:00
+
+====== Properties of Materials ======
+Created Thursday 03 May 2018
+
+
+=== Strength ===
+* Strength is how good a material is at **resisting** **force**.
+* Strong materials require alot of energy to permanently change their strength.
+__Tensile Strength__
+* How a material can resist a **pulling** **force**.
+__Compressive Strength__
+* How a material can resist a pushing/**compressing** **force**.
+
+=== Stiffness ===
+* This is how the material will **warp** or **bend** when force is applied.
+* Some materials, like rubber are easy to bend. Others, like diamond are not.
+
+=== Elasticity ===
+* This is where a solid can be **stretched** and return to its original form.
+* Solids are elastic because they are held together by stretchy bonds.
+
+=== Hardness ===
+* This is how hard it is to **cut** into a material.
+* Diamond is the hardest material, so it is cut with a lazer.
+
+=== Density ===
+* This is how much matter is packed into a material.
+
+=== Melting Point ===
+* This is the point where the material will turn form a **solid** **to** **a liquid**.
+
+[[Materials Fit For Purpose|Back To Materials Fit For Purpose]]

@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-03T23:10:36+01:00
+
+====== Migration ======
+Created Thursday 03 May 2018
+
+Migration is when people move from one place to another.
+
+**Internal migration **is migration within a country.
+**Emmigration** is when people move out of a country.
+**Immigration** is when people move into a country.
+**Push factors** are things that make you want to emmigrate - pushes you away.
+* Like persecution, bad weather, no jobs, dull social life, no schools
+**Pull factors** are things that make you want to emmigrate into a certain country - attractive features.
+* Good weather, good jobs, good education, good shcool system.
+**Barriers to migration **are things that prevent migration.
+* Leaving familly, no VISA
+
+//See //[[History:Plantations:Ulster Plantation|ulster plantation]]// for organised migration example.//
+
+[[Population|Back To Population]]
