@@ -19,72 +19,8 @@ It can be calculated by measuring **birth rates** against **death rates**.
 Countries go through **different phases** of natural increase and decrease.
 Geographers have conjured up a diagram to show these changes called the **Demographic Transition Model**.
 
-[[+Demographic Transition Model|To Demographic Transition Model]]
-
-=== Factors that influence population change ===
-	* War
-	* Food Supply
-	* Education
-	* Improved Technology
-	* [[+Health|Health]]
-	* [[+Women In Society|Women In Society]]
-War
-
-=== Point ===
-	* Wars can reduce populations. The cause the death of soilders and civillians.
-
-=== Example ===
-	* Germany lost **7 million people** in world war 1 and 2. Thousands of Irish died in the war aswell
-
-Food
-
-=== Point ===
-	* As a countries **economy** **develops**, its **food supplies **usually** improve**.
-	* Better food supplies lead to people **living longer** and **healthier** which leads to population growth.
-
-=== Example ===
-	* **Germany lost** **7 million people** during **ww1** and **2**. Thousands of Irish also died in that war.
-
-Tech
-
-=== Statement ===
-* Some technology helps people live longer so it asssists population growth
-
-=== Developmet ===
-* Farm machinery increases food production
-* Medical equipment saves lives, lowering death rates.
-* Pumps and water treatment equipment help provide safe and clean water.
-
-Edu
-
-=== Statement ===
-	* People who are well educated and literate are more likely to understand and take part in familly planning scheemes aimed at reducing birth rates.
-
-=== Development ===
-	* Therefore countries with good education tend to have fewer birth rates which can slow population growth.
-	* An example is Germany. Germany is a country with a very high standard of education. Along with many other factors education has contributed to its low birth rate.
-
-Hlth
-
-=== Statement ===
-* Food, water and medical supplies have increased greatly over the years.
-* This has resulted in people living longer and healthier.
-
-=== Development ===
-* Deaths from curable diseses such as whopping couugh and gastroentritis have decreased greatly.
-* As death rates decline, populations tend to grow.
-* In brazil, some people have benifited from improved food, water and medical supplies.
-* This is part of the reason brazil's population has more than trebled in the last 50 years
-
-Womans
-
-=== Statement ===
-* When women enjoy equality with men, they are empowered to make more decisions relating to their lives/
-* As the decision making power of women increases, birth rates generally decline.
-
-=== Development ===
-* In germany, a country with great equality, women and men recieve the same ammount of education and have an option to work outside the home.
-* In brazil, where women usually have little or no formal education, they seldom have the chance to have a carreer outside the home.
-* They tend to stay at home and care for larger famillies.
+=== Next... ===
+* [[+Demographic Transition Model|To Demographic Transition Model]]
+* [[+Factors That Influence Change|To Factors That Influence Change]]
 
 [[Population|Back to Population]]
