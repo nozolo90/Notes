@@ -7,22 +7,25 @@ Creation-Date: 2017-12-06T22:03:42+00:00
 
 Created Wednesday 06 December 2017
 
+{{../../../../Images/image_of_sahara_desert.jpeg?height=200}}
+
 ===== Desert Wear =====
 * People in the desert wear light fitting clothes to allow air to **circulate**.
 * They are white so that they can **reflect sunlight**.
 
 ===== Desertification =====
 * Desertification is when land that was once **fertile** is **turned into barren desert**.
-* The areas most affected are those at the edge of existing deserts like the **sahel region**.
-* It happens when soil is left **bare and exposed**. The exposed soil can be **blown away by the wind**. The eroded soil becomes **barren** and **infertile**.
+* The areas most affected are those that are at the edge of existing deserts, like the **sahel region**.
+__Process__
+* the soil is left **bare and exposed** -> the soil gets **blown away by the wind** -> the soil becomes **barren and infertile**.
 
 === Causes of desertification ===
-* Climate change
-* Overgrazing
+* **Climate change**
+ and **Overgrazing**.
 
 == Climate Change ==
-* Rainfall has become **unreliable**.
-* **Higher temperatures** have led to more evapouration and less condensation.
+* Rainfalls have become **unreliable**.
+* The **higher emperatures** have led to more evapouration and less condensation.
 * This has led to **many droughts** and **rivers and water holes** have **dried up**.
 
 == Human Factors ==
@@ -33,9 +36,9 @@ Created Wednesday 06 December 2017
 
 === Results Of Desertification ===
 * **Thousands have died** as a result of famine. This has had a big impact on **sudan and etheopia**.
+* Many **animals have died** aswell.
 * Millons of **people were forced to migrate** in search for food or aid. Many of them are Still in refugee camps.
 * Many people have moved into urban areas, resulting in the **growth of slums**.
-* Many **animals have died**.
 * Vast **areas are now infertile**.
 * Livelyhoods of people are threatened, especially in countries like mali.
 

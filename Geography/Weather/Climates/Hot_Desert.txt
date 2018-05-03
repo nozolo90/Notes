@@ -9,13 +9,13 @@ Created Wednesday 06 December 2017
 
 {{../../../../Images/image_of_sahara_desert.jpeg?height=200}}
 
-===== Temperature =====
+===== Temperature - Hot all year =====
 * In the day, temperatures range from **30 to 50 degrees celcius**.
-* In the night, temperatures can drop to **5 degrees celcius**.
-* The absence of cloud cover and vegetation allows for rapid heat loss at night.
 * The sun is very high in the sky and there are long hours of sunlight.
+* In the night, temperatures can drop to **5 degrees celcius**.
+* This is due to the absence of cloud cover and vegetation.
 
-===== Precipitation =====
+===== Precipitation - Dry =====
 * **100ml** per year.
 * They have **long droughts** followed by **sudden downpours**.
 
@@ -27,33 +27,32 @@ Created Wednesday 06 December 2017
 
 ===== Plants =====
 __plants must be able to:__
-1. Find water underground
-2. Store water
-3. Survive the heat
+1. **Find** water underground
+2. **Store** water
+3. **Survive** dessert **heat**
 
 == Cactus Plant ==
-* The inside of the cactus is **spongy**, and **can hold water**.
-* Its **waxy skin** holds moisture.
-* It has **groves** which allow it to **expand** when it needs to absorb water.
-* Its **roots spread out** over long distances to **collect water**.
-* Its **needles** prrotect it from wild animals.
+* //Stores// - The inside of the cactus is **spongy**, and **can hold water**.
+* //Stores// - Its **waxy skin** holds moisture.
+* //Stores -// It has **groves** which allow it to **expand** when it needs to absorb water.
+* //Find -// Its **roots spread out** over long distances to **collect water**.
+* //Protec -// Its **needles** prrotect it from wild animals.
 
 == Other Plants ==
-* **Date palm** has deep taproots
-* **Mesquite bush** has deep taproots.
-* **Joshua tree** has juicy flesh.
+* The **Date palm** and the **Mesquite bush** have deep taproots.
+* The **Joshua tree** has juicy flesh.
 
 ===== Animals =====
 
 == Camel ==
 * It has **long eye lashes**.
-* It has **humps** can store fat.
-* It has **hoves** can walk in sand.
-* It has **thick skin on its legs** so it can kneel on the sand.
+* It has **humps** so that it can store fat.
+* It has **hoves** so that it can walk in sand.
+* It has **thick skin on its legs** so that it can kneel on the sand.
 
 == Other Animals ==
 * The **Jack Rabit** has long ears to lose heat
 * The **Desert fox** digs burrows to stay in during the day and hunts in the night
-* The **Rattlesnake** Gets moisture from the animals it eats
+* The **Rattlesnake** gets moisture from the animals it eats
 
 [[Climates|Back To Climates]]

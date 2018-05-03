@@ -8,39 +8,43 @@ Creation-Date: 2017-12-07T17:47:53+00:00
 Created Thursday 07 December 2017
 
 === Temperature ===
-* In the summer they experience **hot and dry weather** averaging around **30 degrees celcius**.
-* They are **close to the equator** so the sun is high in the sky.
+* In the summer it is **hot and dry** averaging around **30 degrees celcius**.
+__Reasons__
+* They are **close to the equator(**[[Factors That Affect Weather:Latitude|Latitude]]**)**, so the sun is high in the sky.
 * The **cloudless skies** allow for long hours of sunlight.
-* They are dry because of **high pressure belts** and **trade winds**.
+* //They are dry because of **high pressure belts** and **trade winds**.
 
 * In the winter, they experience **mild weather** averaging about **5 degrees celcius**.
 * The sun is still high enough in the sky to give warm conditions.
 
 === Precipitaion ===
-* **400 to 700ml of rain**.
+* They get **400 to 700 millimeters of rain**.
 * South Westerly Atlantic winds bring moisture.
 * **Depresions** from the mediteranian sea bring heavy showers.
 
 === Vegetation ===
+__How Vegetation Has Adapted__
+* **Small waxy leefs** or **thorns** do not lose much moisture through **transpiration**.
+* Trees have **thick** **barks** to prevent moisture loss.
+* Trees have **tap** **roots** to get water from deep underground.
+* The vegetation stores water for for summers.
+__Examples__
 * **Evergreen trees** (cork and pine).
 * **Shrubs** (myrtle and laurel).
 * Low lying vegetation like **herbs** and **tough grasses**.
-__How Vegetation Has Adapted__
-* **Small waxy leefs** or **thorns** do not lose much moisture through **transpiration**.
-* Trees have thick barks to prevent moisture loss.
-* Trees have tap roots to obtain water from deep underground.
-* The vegetation stores water for for summers.
 
 === Farming ===
 * Most of the mediteranian's **woodland has been cleared for agriculture.**
-* **Sheep** and **goats** are commonly kept as livestock.
 * **Overgrazing** has made the soil **exposed to erosion from sudden downpours**.
+* Irrigation schemes have been introduced to combat droughts.
 * Citrus fruits, Tomatoes, Maize and Wheat are commonly grew.
-* Irrigation schemes have been introduced to combat droughts
+* **Sheep** and **goats** are commonly kept as livestock.
 
 === Tourism ===
 * Costal areas recieve the most attention (Costa blanca, Costa del sol, Riviera, Costa Brava).
 * Many people are employed **directly** (resturaunts, tourist companies) and **indirectly** (factory workers, builders of appartments) by the industry.
+__Disadvantages__
 * Tourism can cause **unplanned development**, **pollution** and **water shortages**.
 
 [[Climates|Back To Climates]]
+

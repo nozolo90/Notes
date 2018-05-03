@@ -13,7 +13,6 @@ Created Sunday 03 December 2017
 === If close to equator ===
 * The Sun rays dont have to travel through alot of atmosphere to get to the ground,so **less heat is lost**.
 * The Sunlight is focused on a smaller area, so the **heat is concentrated**
- 
 
 === Far from equator, the opposite is true ===
 * The sun rays have to travel through more atmospher to get to the ground, and **heat is lost**.
