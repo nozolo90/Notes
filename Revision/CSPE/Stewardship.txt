@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-08T22:30:34+01:00
+
+====== Stewardship ======
+Created Tuesday 08 May 2018
+
+A steward is a person who looks after property or things that do not personally belong to them.
+Everybody is a **steward** of planet earth.
+
+=== Topics concerning stewardship ===
+* Climate change
+* Animal welfare
+* Littering
+
+===== Contents =====
+* [[+Earth Damage Reports|Earth Damage Reports]]
+
+[[CSPE|Back To CSPE]]

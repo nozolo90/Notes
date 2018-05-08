@@ -5,12 +5,16 @@ Creation-Date: 2017-11-28T07:51:16+00:00
 ====== North And South Italy ======
 Created Tuesday 28 November 2017
 
-=== North of Italy ===
-* Flat ground means that it is easy to build homes, roads, railway stations and factories
-* Fertile ground caused by alluvial mud makes it easy to farm
-* Easy to build good transport links on its flat ground.
+=== North of Italy (Milan, Genoa) ===
+* **Land** - There's flat ground so it's easy to build homes, roads, railway lines and factories
+* **Agriculture** - There is fertile soil mud so it is easy to farm. yeoilds per hectaire are high.
+* **Transport** - It is easy to build good transport links on its flat ground.
+* **Industry** - This is the chief industrial regoin. 
 
-=== South of Italy ===
-* Mountainous ground making it hard to build roads
-	
+=== South of Italy (Sicily, Sardinia) ===
+* **Land** - There is Appenine Mountainous ground making it hard to build roads
+* **Agriculture** - The Mountainous land, poor soil and long dry summers make farming unproductive.
+* **Transport** - It is difficult and expensive to build roads and transport services on hilly land.
+* **Industry** - The lack of money or transport discourages industry.
+
 [[Population Densities|Back To Population Densities]]

@@ -5,6 +5,12 @@ Creation-Date: 2017-12-02T15:12:18+00:00
 ====== Democracy ======
 Created Saturday 02 December 2017
 
-Type og hohohhooho
+Democracy is a system of law where people elect professionals to represent them.
+It literally translate to **people power**.
 
-[[CSPE|Back To CSPE]]
+=== Topics concerning democracy ===
+* voting and elections
+* Political parties
+* Student Councils
+
+[[CSPE|B]][[CSPE|ack To CSPE]]
