@@ -7,16 +7,33 @@ Created Thursday 03 May 2018
 
 Migration is when people move from one place to another.
 
-**Internal migration **is migration within a country.
-**Emmigration** is when people move out of a country.
-**Immigration** is when people move into a country.
-**Push factors** are things that make you want to emmigrate - pushes you away.
-* Like persecution, bad weather, no jobs, dull social life, no schools
-**Pull factors** are things that make you want to emmigrate into a certain country - attractive features.
-* Good weather, good jobs, good education, good shcool system.
-**Barriers to migration **are things that prevent migration.
-* Leaving familly, no VISA
+=== Types of migrant ===
+* **Immagrant -** somebody who moves into a country.
+* **Emmigrant -** somebody who moves out of a country.
+
+=== Types of migration ===
+* **Emmigration** is when people move out of a country.
+* **Immigration** is when people move into a country.
+* **Internal migration **is migration within a country.
+* **International migration -** migration whithin a country.
+* **Individual migration**
+* **Organised migration**
+
+=== Factory affecting migration ===
+* **Push factors** are things that make you want to emmigrate - pushes you away. Like persecution, bad weather, no jobs, dull social life, no schools
+* **Pull factors** are things that make you want to emmigrate into a certain country - attractive features. Like good weather, good jobs, good education, good shcool system.
+* **Barriers to migration **are things that prevent migration. Like not wanting to leave familly, having no VISA
 
 //See //[[History:Plantations:Ulster Plantation|ulster plantation]]// for organised migration example.//
+
+=== Anne O'Hallaran from Galway mooved to dublin for college ===
+__Dublin factors__
+* Pull - good education and social life
+* push - quiet rural areas
+* barrier - high cost of living in dublin.
+__London factory__
+* Push - Prolonged job search, no permenant positions available.
+* Pull - long term positions, steady wage, good social life.
+* Barrier - expensive cost of living, dear of the unknows
 
 [[Population|Back To Population]]
