@@ -12,7 +12,7 @@ Created Monday 25 September 2017
 === Features ===
 * **Small** and **easy to steer**
 * Triangular lateen sails allowed ships to **sail into the wind**
-* **Armoured** clinker built hull.
+* **Stronger** clinker built hull.
 * **Water tight** decks.
 
 ===== New navigation stystems =====
