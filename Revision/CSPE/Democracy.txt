@@ -6,13 +6,16 @@ Creation-Date: 2017-12-02T15:12:18+00:00
 Created Saturday 02 December 2017
 
 Democracy is a system of law where people elect professionals to represent them.
-It literally translate to **people power**.
+It literally translate to **rule by the people**.
 
 === Topics concerning democracy ===
 * voting and elections
 * Political parties
 * Student Councils
 
+===== Contents =====
+* [[+Our Constitution|Our Constitution]]
+* [[+Our Government|Our Government]]
 
 --------------------
 [[CSPE|B]][[CSPE|ack To CSPE]]

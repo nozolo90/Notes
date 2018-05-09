@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-09T22:52:28+01:00
+
+====== The President ======
+Created Wednesday 09 May 2018
+
+lives in **ARAS AN UACHTARAN **in phoenix park
+Serves 7 year terms.
+The president can only be elected twice.
+
+=== Jobs ===
+* Signing bills into law
+* Representing Ireland Abroad.
+* Commanding Defense Forces.
+* Sending bills to the supreme court if they think that it is unconstitutional.

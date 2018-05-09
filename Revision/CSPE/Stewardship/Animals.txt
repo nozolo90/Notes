@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-09T22:24:15+01:00
+
+====== Animals ======
+Created Wednesday 09 May 2018
+
+Animal welfare - looking after the living conditions of animals
+Animal rights - issues such as experimenting on animals, hurting animals and breeding animals forcefully.
+
+=== How animals are threatened ===
+* People destroy their habitat to build on.
+* People hunt or poach them.
+* People hunt them for their husks.
+* They are killed by disease.
+
+=== Endangered animals ===
+* Dodo bird
+* Panda
+* South African Elephant.
+* Blue Whale
+* Polar Bear.
+
+
+[[Stewardship|Back To Stewardship]]
