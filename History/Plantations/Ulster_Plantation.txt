@@ -11,33 +11,38 @@ Created Sunday 03 December 2017
 |:-----|:-------------|:--------|
 | 1609 | King James I | Yes     |
 
+| Year | Rebellion      | Teams                   | Winner  |
+|:-----|:---------------|:------------------------|:--------|
+| 1594 | Nine Years War | English vs Gaelic Irish | English |
 
-=== Why it happened ===
-* Ulster was the last province of ireland not controlled **fully** by the english.
-* The english were trying to impose their culture(common law,arable farming,english language) onto ulster and **the people had had enough**.
-* They **rebelled** against the english in **1594**.
-* It was led by **Hugh O'Neil**, earl of tyrone.
-* This was the begining of the **nine years war**.
+
+Ulster was the last province of Ireland not controlled **fully** by the English.
+The English were trying to impose their [[Reasons For Plantations|culture]] onto ulster and **the people did not like it**.
+
+==== Why it happened ====
+* The Irish **rebelled** against the English in **1594**.
+* It was led by **Hugh O'Neil**, earl of Tyrone.
+* This was the Beginning of the **Nine Years War**.
 
 === Nine Years War ===
-* The irish lost the war
+* The Irish lost the war
 __Some important battles__
 
-== Battle of yellow ford ==
-* The irish **won** this battle, inspiring them to fight harder
+=== Battle of yellow ford ===
+* The Irish **won** this battle, inspiring them to fight harder
 
-== Battle of kinsale ==
-	* The irish had asked king philip of Spain to help them fight for the Catholic faith in Ulster.
-	* In **1601**, The spaish army arrived in kinsale down south.
-	* The Irish forces had to march down to meet up with the spainards but met english forces first.
-	* The enlgish **destroyed** both armies.
+=== Battle of Kinsale ===
+* The Irish asked King Philip of Spain to help them fight for the Catholic faith in Ulster.
+* In **1601**, The Spanish army arrived in Kinsale down south.
+* The Irish forces had to march down to meet up with the Spaniards but met English forces first.
+* The English **destroyed** both armies.
 
 == War Lost ==
-* In **1603** the treaty of melifont was signed, ending the war.
-* In **1607** the flight of earls occured.
+* In **1603** the treaty of Melifont was signed, ending the war.
+* In **1607** the flight of earls occurred.
 
-=== Plantations ===
-* When the irish lords were gone, king james planted ulster.
+===== What happened =====
+* When the Irish lords were gone, King James planted ulster.
 * He divided the earls land into 6 counties **Donegal, Derry, Tyrone, Fermanagh, Armagh, Cavan**.
 __DDTFAC__
 * He divided his estates into **1000**, **1500** and **2000 acres**.
@@ -45,11 +50,13 @@ __DDTFAC__
 	* **Undertaker.**
 	* **Servitor.**
 	* **Loyal Gaelic Irish.**
-* The english brought their language, arable farming and religion.
+* The English brought their language, arable farming and religion.
 
 === County Derry ===
-* County derry was given over to guilds such as the **drapers, tailors, vinters and fishmobgers**.
-* This was so that they would build great towns with good buisesses.
+* County Derry was given over to guilds such as the **drapers, tailors, vintners and fishmongers**.
+* This was so that they would build great towns with good businesses.
 * They also had experience setting things up, setting standards and rules and building shops.
+
+=== Success. ===
 
 [[Plantations|Back To Plantations]]

@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-09T20:45:14+01:00
+
+====== 3 Rs ======
+Created Wednesday 09 May 2018
+
+{{../../../../Images/CSPE/5_pillars_of_islam.jpeg?width=240}}
+
+This is a way of tackling the waste we produce.
+
+=== Reduce ===
+//Reduce the amount of waste you produce.//
+* **Have a shower instead of a bath.**
+* **Turn off battery powered devices that you arn't going to be using.**
+* **Use energy efficient light bulbs.**
+* **Use fewer disposable goods, like plastic bags.**
+* **Buy loose fruit and vegetables instead of pre-packed.**
+
+=== Reuse/Repair ===
+//Reuse things that can be use several times.//
+* **Use plastic bags again.**
+* **Repair broken appliances instead of replacing them.**
+* **Collect rainwater for use in the garden.**
+* **Use rechargeable batteries.**
+
+=== Recycle ===
+//Recycle things - making recycled goods costs less than making new ones.//
+* **Recycle glass and cans at recycling stations.**
+* **Give old clothes to a charity shop.**
+* **Recycle newspapers and junk mail.**
+
+[[Stewardship|Back To Stewardship]]

@@ -5,35 +5,37 @@ Creation-Date: 2018-02-12T18:58:50+00:00
 ====== Functions Of Towns ======
 Created Monday 12 February 2018
 
-A **multi functional  town** provides more than one function.
+A **multi functional town** provides more than one function.
 
-==== Market ====
+=== Market ===
 * All towns have a market function.
-* It means that the town provides services for people like shops and banks.
-* Also sells produce for the nearby fertile land.
+* It means that the town provides **services** for people like shops and banks.
+* The town also may have sold produce for the nearby fertile land.
 
-==== Religious/Ecclesiastical ====
-* Most towns have a religious function
+=== Religious/Ecclesiastical ===
+* Most towns have a **religious** function.
 * Look for monasteries, abbeys, friaries and convents.
 * Towns developed near these for protection and education.
 
-==== Defense ====
-* Towns with castles(or defensive antiquities) have a defensive function.
-* It makes them easier to defend and develop.
+=== Defense ===
+* Towns with castles (or defensive antiquities) have a defensive function.
+* The defensive features make them easier to defend.
 
-==== Recreational ====
+=== Recreational ===
 * Towns with recreational services that can be seen on a map.
 * Same as tourism.
 
-==== Port ====
+=== Port ===
 * Towns with marinas, sheltered bays and navigable rivers.
 
-==== Residential ====
+=== Residential ===
 * All towns provide residential functions, especially dormitory towns.
 * Look for hotels, suburbs.
 
-==== Recourse ====
+=== Recourse ===
 * Towns that develop near a natural recourse like oil, gas or peat.
 * Look for power stations, industrial rail and power lines.
 
+
+--------------------
 [[Settlement|Back To Settlement]]

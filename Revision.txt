@@ -5,7 +5,7 @@ Creation-Date: 2017-08-18T20:53:09+01:00
 ====== Revision ======
 Created Friday 18 August 2017
 
-[[+Study Guide|Stu dy Guide]]
+[[+Study Guide|Study Guide]]
 
 ==== Contents ====
 * [[Geography]]

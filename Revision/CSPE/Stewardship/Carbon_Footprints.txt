@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-09T20:31:44+01:00
+
+====== Carbon Footprints ======
+Created Wednesday 09 May 2018
+
+**Carbon footprints** are a measure of how much greenhouse gases our actions produce.
+
+=== To reduce primary footprints... ===
+//Primary footprints are the greenhouse gases that we produce directly//
+* **You should use public transport**
+* **Try to walk or use a bike.**
+* **Do not use gas cookers.**
+
+=== To reduce secondary footprints... ===
+//Secondary footprints are the greenhouse gases that our actions indirectly produce//
+* **Buy locally produced food.**
+* **Buy locally woven clothes.**
+* **Buy locally sourced water.**
+
+=== How to see if you are doing a good job. ===
+* **Do I use energy efficient light bulbs?**
+* **Do I reuse bags?**
+* **Do I use recycled paper?**
+* **Do I use too much packaging?**
+* **Do I divide my waste into their respective bins?**
+
+[[Stewardship|Back To Stewardship]]
