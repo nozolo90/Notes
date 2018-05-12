@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T15:40:33+01:00
+
+====== Limerick City ======
+Created Saturday 12 May 2018
+
+Limerick City is a multi functional settlement
+
+=== Functions ===
+**Defensive**
+* Limerick began as a defensive settlement for the vikings and later, the Normans.
+* The Normans built King John's castle and defensive walls.
+**Market**
+* Limerick then turned into an agricultural market town.
+* It now offers many department stores and shopping centers.
+**Recreational**
+* Limerick has many cultural attractions like...
+* King John's castle and the Bell Theater.
+* And sports like...
+* The Gaelicc Grounds.
+**Educational + Residential**
+* It has 3 3_{rd} level colleges and many suburbs.
+
+
+--------------------
+[[Settlement|Back To Settlement]]

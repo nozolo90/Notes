@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T15:57:27+01:00
+
+====== Settlement on the Shannon ======
+Created Saturday 12 May 2018
+
+===== The Shannon river basin =====
+
+== Limerick ==
+* [[Geography:Settlement:Limerick City|See Limerick City]]
+
+== Athlone ==
+* Athlone is a major crossing point of the river Shannon. It is a route focus.
+* Important educational center, with a third level college.
+
+== Shannon Bridge ==
+* Resource based settlement with a power station.
+
+[[Settlement in river basins|Back To Settlement in river basins]]

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T16:26:55+01:00
+
+====== Multi functional settlement ======
+Created Saturday 12 May 2018
+
+=== Villages - basic ===
+* Villages are usually small settlements that provide basic funcions to their residensts.
+* They have churches, small shops, and houses.
+
+=== Towns - more range ===
+* Towns are usually larger settlements that provide large ranges of services to their residents.
+* They may have cinemas, shopping centers and third level colleges.
+
+[[Settlement|Back To Settlement]]
