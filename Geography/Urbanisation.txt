@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T21:49:41+01:00
+
+====== Urbanisation ======
+Created Saturday 12 May 2018
+
+Urbanisation is the growth in the size and number of cities.
+
+=== Contents ===
+
+[[Geography|Back To Geography]]

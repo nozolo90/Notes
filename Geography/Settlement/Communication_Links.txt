@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T21:11:57+01:00
+
+====== Communication Links ======
+Created Saturday 12 May 2018
+
+The availibility of communication links affect where settlement occurs.
+
+=== Contents ===
+* [[+Transport on the Rhine|Transport on the Rhine]]
+* [[+Irish Roads|Irish Roads]]
+* [[+Airports|Airports]]
+
+
+--------------------
+[[Settlement|Back To Settlement]]

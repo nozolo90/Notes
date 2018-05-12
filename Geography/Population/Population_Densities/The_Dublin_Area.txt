@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T21:55:44+01:00
+
+====== The Dublin Area ======
+Created Saturday 12 May 2018
+
+=== Normal ===
+* North Dublin county council discourages settlement  northwards because of the precence of Dublin airport, and fertile agricultaral land.
+* There are some patches of sattlelite settlement like Swords and Balbriggan.
+
+=== Epicenter ===
+* The center of dublin city is very densely populated because of jobs and services availiabel.
+* People live in high density housing.
+* See the reasons for the primacy of dublin.
+__Dublin is a primate City__
+	* It is Ireland's chief port.
+
+=== Small ===
+* The Dublin Mountains stop the city from spreading south.
+* There is barley any settlement because tje land is steep and they are preserved as an amenity.
+
+=== Whack ===
+* The terrain in the west is flat, and easy to buld on.
+* Important roadways also serve this area like the Dublin-Galway road.
+* Large sattelite towns situate close to Dublin.
+
+
+--------------------
+[[Population Densities|Back To Population Densities]]
