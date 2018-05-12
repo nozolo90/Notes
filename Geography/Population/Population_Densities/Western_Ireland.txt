@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T22:22:40+01:00
+
+====== Western Ireland ======
+Created Saturday 12 May 2018
+
+Western Ireland is very unpolulated
+
+=== History ===
+* In the 19th century, people lived off potatoes. They provided high yeild for small plots.
+* In the late 1850s, the Great Famine occured. A disease called blight destroyed the potato crop.
+* The population fell rapppidly - 1 in 4 people died or emmigrated the country.
+* After the fammine, emmigration remained high, as the area provided little employment or oppurtunity so the population of the West stayed on the decrease.
+* The economy improved in 1960 and the population began to stabilize, as emmigration fell due to people having more wealth.
+* In the late 90s there was an economic boom and people had even more wealth. Immigration replaced emmigration and the population of the west increased.
+* An economic crash in 2008 - population increase good enough to maintain population.
+
+=== How does this relate to the west tho??? ===
+* **Rural to urban migration** has caused the decline of some country areas and population growth to other towns
+__West Push Factors__
+	* Hilly terrain and poor soil make farming unprofitable.
+	* Few industries and poor employment.
+	* Dull social life.
+__West Pull Factors__
+	* Good educatiom.
+	* Better Jobs.
+	* More recreation.
+
+[[Population Densities|Back To Population Densities]]

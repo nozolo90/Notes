@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T22:51:34+01:00
+
+====== Variations in Brazil ======
+Created Saturday 12 May 2018
+
+In Brazil, Coastal areas are more populated than the Amazon Basin.
+
+=== Coastal Areas ===
+* In the 16th century, the portuguese colonised the east coast of Brazil.
+* Some towns grew into cities, like Rio de Janerio and Seo Paulo.
+* The portuguese set up huge coffee and cotton plantations on the coast.
+* They imported slaves to do the work.
+
+=== Amazon Basin ===
+* European settlers found it hard to settle in the Amazon Basin.
+* They did not like the hot, wet climate or the dense rainforrets (nicknamed 'Green Hell').
+* When they cleared some parts of the  forests for agriculture, the land became leached and infertile without its tree cover.
+* Local tribes also died of European diseases which they had no immunity to.
+
+[[Population Densities|Back To Population Densitie]][[Population Densities|s]]
