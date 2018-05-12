@@ -5,7 +5,9 @@ Creation-Date: 2018-05-09T22:50:10+01:00
 ====== Our Government ======
 Created Wednesday 09 May 2018
 
-=== 3 branches ===
-* [[+The President|President]]
-* The seanad - SENATORS
-* The dail - TD
+=== Split into 3 branches ===
+* The [[+The President|President]]
+* The [[+The Seanad|Seanad]] - SENATORS
+* The [[The Dail|Dail]] - TD
+
+[[CSPE|Back To CSPE]]

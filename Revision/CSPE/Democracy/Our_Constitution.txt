@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-10T22:54:59+01:00
+
+====== Our Constitution ======
+Created Thursday 10 May 2018
+
+Our constitution is called Bunreacht na hEireann (Constitution of Ireland).
+It was created in 1937.
+
+=== Articles ===
+The Constitution is split into 50 articles which all describe the many aspects of our country,
+//For example//
+* Article 12 to Article 14 describe the role of the president.
+* Article 15 to Article 28A describe how the government is organized and what role each part of it has.
+* Article 40 to Article 44 describe the rights that people have.
+* Article 46 to Article 50 describe how the constitution can be amended through a referendum.
+
+
+--------------------
+[[Democracy|Back To Democracy]]

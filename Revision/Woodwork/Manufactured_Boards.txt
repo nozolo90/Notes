@@ -5,10 +5,12 @@ Creation-Date: 2018-04-23T07:38:00+01:00
 ====== Manufactured Boards ======
 Created Monday 23 April 2018
 
-=== OSB ===
+=== OSB - Oriented Strand Board ===
 
-=== PLYWOOD ===
+=== Plywood ===
+* Layers of 'veneers' placed on each other that are connected by adhesive.
 
-=== MDF ===
+=== MDF - Medium Density Fiberboard ===
+
 
 [[Woodwork|To Woodwork]]

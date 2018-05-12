@@ -5,23 +5,23 @@ Creation-Date: 2017-08-18T22:01:58+01:00
 ====== Costal Protection ======
 Created Friday 18 August 2017
 
+==== Groynes ====
+* These are **low walls** built of wood
+* they reduce long shore drift by trapping sand.
+* an example is on the **Rosslare coast**.
+
+==== Gabions ====
+* These are wire cages filled with small stones placed in front of beaches or small sand dunes.
+* they reduce the power of the waves.
+
 ==== Sea Walls ====
-* **concrete** **walls** **with a curve** at the top of them.
-* they help **deflect** waves.
+* These are **concrete** **walls** **with a curve** at the top of them.
+* They help to **deflect** waves.
 * They can be destroyed in **severe storms**.
 
 ==== Boulders ====
-* large boulders placed along the coast to weaken the strength of the waves before they hit the town
+* In this method, large boulders placed along the coast to weaken the strength of the waves before they hit the town.
 
-==== Groynes ====
-* **low walls** built of wood
-* they reduce longshore drift by trapping sand.
-* an example is **Rosslare**
-
-==== Gabions ====
-* Wire cages filled with small stones placed in front of beaches or small sand dunes
-* they reduce the power of the waves.
-
-All of these exept the **groynes** can be found at **Tramore**
+All of these except the **groynes** can be found at **Tramore**
 
 [[The Sea|Back To Contents]]

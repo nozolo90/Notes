@@ -10,23 +10,24 @@ A pilgrimage is a journey made by a pilgrim to a sacred place
 === Places of pilgrimages ===
 * Pilgrimage sites arise in **sacred** places.
 * A sacred place in religion is a place where somebody has encountered God in a special way. For Christians, this is a place where people have encountered Jesus, Mary or one of the saints.
-* Because of this, Christians believe that god is present in a mysterious way in **sacred places**.
+* Because of this, Christians believe that God is present in a mysterious way at **sacred places**.
 
 === Reasons people go on pilgrimages ===
-* To pray for each other
-* To ask God for help (Petition)
+* To pray for each other.
+* To ask God for help (Petition).
 * To ask for forgiveness.
+* To find meaning in life.
 
 === Examples ===
-* There are 3 types of Pilgrimage
-__Jesus__
-* Holy Land
-* Nazereth
-* Bethlehem
-__Mary__
-* Knock
-__Saints__
-* Glendalough St  Kevin
-* Croagh Patrick
+There are 3 types of Christian Pilgrimages.
+__Jesus related__
+* **Holy Land**, The whole of Palestine - see map.
+* **Nazareth**, Where Jesus grew up.
+* **Bethlehem**, Jesus's birth place.
+__Mary related__
+* **Knock**
+__Saint related__
+* **Glendalough**, related to St  Kevin.
+* **Croagh Patrick**, related to St Patrick.
 
 [[Religion|Back To Religion]]

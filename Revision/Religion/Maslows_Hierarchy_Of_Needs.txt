@@ -9,10 +9,12 @@ Created Thursday 24 August 2017
 
 {{../../../Images/maslows_hierarchy_of_needs_image.png?height=300}}
 
-**Physical needs** - eg food , water , clothing , shelter
-**Safety needs** - to feel protected
-**Social needs** - to feel loved and wanted
-**Self-Esteem needs** - to feel self-respected and confident
-**Self actualisation needs** - to feel that you are developing your full potential
+=== What are they? ===
+ Somebody, sometime came up with a hierarchy of the most necessary to less, but still important needs.
+* **Physical needs** - eg food , water , clothing , shelter.
+* **Safety needs** - to feel protected.
+* **Social needs** - to feel loved and wanted.
+* **Self-Esteem needs** - to feel self-respected and confident.
+* **Self actualisation needs** - to feel that you are developing your full potential.
 
 [[Religion|Back To Religion]]

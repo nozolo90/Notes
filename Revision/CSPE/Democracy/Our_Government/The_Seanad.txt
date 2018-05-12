@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-10T23:04:57+01:00
+
+====== The Seanad ======
+Created Thursday 10 May 2018
+
+The Seanad/Senate is a group of 60 senators which debate over bills and issues.
+The Seanad works with the Dail to introduce new bills.
+They usually sit on tuesdays and wednesdays.
+
+=== Senators ===
+* If a senator is a member of a political party they may attend meetings with ministers and TDs to agree with their agendas.
+* Like TDs, they may do constituency work.
+
+
+--------------------
+[[Our Government|Back To Our Government]]

@@ -7,12 +7,12 @@ Creation-Date: 2017-08-18T19:40:50+01:00
 Created Friday 18 August 2017
 
 === Statement ===
-	* **Longshore drift** is the movement of material across the coast due to [[Waves]]
+* **Long shore drift** is the movement of material across the coast due to [[Waves]]
 
-=== Development ===
-	* Waves approach at an **angle**
-	* The Swash moves material **up and along** the shore
-	* The Backwash moves material **down**
-	* This process is repeated and the material in moved along in a **zigzag pattern**
+=== How they happen ===
+* Waves approach at an **angle**
+* The Swash moves material **up and along** the shore
+* The Backwash moves material **down**
+* This process is repeated and the material in moved along in a **zigzag pattern**
 
 [[The Sea|Back To Contents]]

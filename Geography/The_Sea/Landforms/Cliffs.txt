@@ -6,18 +6,20 @@ Creation-Date: 2017-08-18T16:52:37+01:00
 
 Created Friday 18 August 2017
 
-**Erosional** Landform
+Cliffs are an **erosional** land form.
 
 === Statement ===
-* Overhanging thing near sea
+* Cliffs are overhanging things near the sea.
 
 === Development ===
-* **Destructive Waves** cut into the rock eroding a **notch**
-* Over time this causes an **overhang** to develop
-* When the notch is cut deeper into the rock, **the overhang collapses**(no support)
-* Process repeats - Cliff Retreats
-* As it retreats, a **wave cut Platform** is created
-* A wave cut platform is a surface of **rock pieces from the collapsed overhang**
-* An example is the **Cliffs of Moher Co.Clare**
+* **Destructive Waves** cut into a rock face, which erodes a **notch** over time.
+* this causes an **overhang** to develop.
+* When the waves cut deeper into the rock, **the overhang collapses** because the rock that once supported it has been destroyed.
+* This process repeats, and the cliff retreats.
+* As it retreats, a **wave cut platform** is created.
+* A wave cut platform is a surface of **rock pieces from the collapsed overhang**.
+* An example is the **Cliffs of Moher Co.Clare** 
 
+
+--------------------
 [[Landforms|Back to landforms]]

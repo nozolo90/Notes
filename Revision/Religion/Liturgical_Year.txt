@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-21T21:15:55+00:00
+
+====== Liturgical Year ======
+Created Wednesday 21 March 2018
+
+The Liturgical year is like the church's seasons.
+
+=== Colors used ===
+//During each season on the liturgical year, clergy's vestments and church curtains are decorated with a certain color.//
+* **Purple** is used for Advent and Lent**:** The color represents penance and fasting
+* **Red** during Pentecost**:** the color stands for goodness and strength
+* **Green** is used for Ordinary Time**:** the color stands for growth and hope
+* **White/Gold** is used for Christmas + Easter**:** the colors represent light and joy
+
+{{../../../Images/Religion/Liturgical_year?width=240}}
+
+
+=== Advent ===
+* Advent is the waiting time for the coming of baby Jesus.
+* The season begins 4 Sundays before Christmas, and ends on Christmas eve.
+* **During Lent**, **Christians prepare for the coming of Jesus** at Christmas by:
+	* Thinking about their lives
+	* Praying and attending mass.
+	* Doing confession.
+	* Preforming good deeds.
+
+=== Advent wreath ===
+The advent wreath is a religious symbol.
+* The circle represents God's never ending love which both have no beginning and no end.
+* The candles all represent Jesus, the light of the world.
+**Colors of the Candles on the wreath**
+* //Purple Candles - //these candles represent the need to prepare for Jesus' coming, and are the first three candles to be lit.
+* //Pink Candle// - these candles represent the joy of being close to Christmas, and are lit one week before the white candle.
+* //White Candle// - this candle represents the birth of Jesus, and is lit on Christmas eve at the easter vigil.
+
+
+=== Details - Christmas ===
+* Christmas comes from "the mass of Christ's birth", later shortened to "Christ's mass" and now "Christmas"
+__The Incarnation__
+* The Incarnation is the belief that God became human in Jesus Christ.
+* Christians believe that this is a sign of God's great love for the world, that he sent down his only son for us.
+__The Epiphany__
+* The epiphany is the celebration of the arrival of the 3 wise men aka **the magi**.
+* It is celebrated on the 6th of January
+* It made Christians aware that Jesus is the God for all.
+
+Ends on Sunday after epiphany.
+
+=== Lent ===
+* During the original "Lent" Jesus spent 40 days and 40 nights in the desert
+* Christians try to focus on Jesus and his message.
+* Lent is a time to develop a closer relationship with God.
+* During Lent, Christians fast, pray and do good deeds.
+* Lent begins on the day after **Shrove/Pancake Tuesday**, Ash Wednesday.
+* On ash Wednesday, Christians go to mass to get ashes placed on their forehead. This is sign that they are sorry and will try change.
+
+=== Holy Week ===
+Holy week is the last week of Lent. Here are the special days.
+* On **Palm Sunday: **Jesus entered Jerusalem. He was welcomed with people placing palms on the ground for his donkey. It is the **beginning of the Easter triduum**.
+* On **Holy Thursday: **Jesus had the last supper with his squad.
+* On **Good Friday: **Jesus is carried the cross up Calvary/Golgotha and was crucified on Golgotha
+* On **Holy Saturday: **Jesus lied in the tomb. The Easter vigil takes place.
+* On **Easter Sunday: **Jesus rises from the dead, appearing first to Mary.
+
+
+--------------------
+[[Religion]]
+[[Christianity|To Christianity]]

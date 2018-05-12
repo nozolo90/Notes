@@ -9,14 +9,14 @@ Created Friday 18 August 2017
 **Erosional **landform.
 
 === Statement ===
-	* **Sea Stacks** are pillars of rock separated from the coast
+* **Sea Stacks** are pillars of rock separated from the coast
 
 === Development ===
-	* When [[Sea Arches]] are eroded further they become **wider**
-	* Eventually the roof can no longer support itself and **collapses**
-	* This leaves a **pillar of rock** separated from the coast
+* Further erosion of [[Sea Arches]] cause the arch to widen.
+* Eventually the arch roof can no longer support itself and it **collapses**.
+* This leaves a **pillar of rock** separated from the coast.
 
-* An example is **Hook Head Co.Wicklow**
+* An example is **Hook Head in County Wicklow**.
 
 [[:geography:The Sea:Landforms:Sea Stumps|To Sea Stumps]]
 

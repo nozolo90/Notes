@@ -13,26 +13,26 @@ Created Monday 18 December 2017
 * **explaining key words** contained in the brief.
 
 === Investigation/Research ===
-* The process wherin you **look at the problem**, **identify key reqirements** for the design solution and **gather information** that will allow you to arrive at possible design solutions.
-* Looking at google, visiting stores, watching ads, reading magasines, looking at similar artefacts .ect
+* The process wherein you **look at the problem**, **identify key reqirements** for the design solution and **gather information** that will allow you to arrive at possible design solutions.
+* Looking at Google, visiting stores, watching ads, reading magazines, looking at similar artifacts .ect
 
 === Design Ideas/Solutions ===
 * **Proposed sketches** based on the analysis of the brief carried out that should meet all the requirements.
 * One design idea or element from several ideas can be brought together into the selected solution.
 
 === Sketches and Working Drawings ===
-* **Dimensioned drawings** to include **plan, elevation and end elevation and/or pictorial view** of the proposed artefact and sketches relating to its manufacture.
+* **Dimensioned drawings** to include **plan, elevation and end elevation and/or pictorial view** of the proposed artifact and sketches relating to its manufacture.
 * Appropriate detailing and a material list should be included.
 
 === Evaluation ===
-A review of the process of **designing** and **making** the artefact where:
-	* fitness for purpose.
-	* appearance
-	* use of materials
-	* modifications
-	* time management
-	* safety
-	* and stability
+A review of the process of **designing** and **making** the artifact where:
+* Fitness for purpose.
+* Appearance
+* Use of materials
+* Modifications
+* Time management
+* Safety
+* Stability
 are considered.
 
 

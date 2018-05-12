@@ -9,20 +9,19 @@ Created Friday 18 August 2017
 Study for **geography**
 
 ===== Contents =====
-	* [[+The Sea|The Sea]]
-	* [[+The Forces Of Weathering|The Forces Of Weathering]]
-	* [[+Mass Movement|Mass Movement]]
-	* [[+Rivers|Rivers]]
-	* [[+Rocks|Rocks]]
-	* [[+The Earth|The Earth]]
-	* [[+Economic Activities|Economic Activities]]
-	
-	* [[+Maps|Maps]]
-	* [[+Weather|Weather]]
-	* [[+Population|Population]]
-	* [[+Settlement|Settlement]]
+* [[+The Sea|The Sea]]
+* [[+The Forces Of Weathering|The Forces Of Weathering]]
+* [[+Mass Movement|Mass Movement]]
+* [[+Rivers|Rivers]]
+* [[+Rocks|Rocks]]
+* [[+The Earth|The Earth]]
+* [[+Economic Activities|Economic Activities]]
+
+* [[+Maps|Maps]]
+* [[+Weather|Weather]]
+* [[+Population|Population]]
+* [[+Settlement|Settlement]]
 
 
 --------------------
-
 [[Revision|Back Home]]

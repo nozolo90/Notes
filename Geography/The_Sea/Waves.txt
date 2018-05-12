@@ -12,19 +12,18 @@ Created Friday 18 August 2017
 * the **fetch**
 * the **wind power**
 
-the **fetch** is the maximum length of open water wind can blow before hitting land.
-
-Waves are able to affect the coastline.
+The **fetch** is the maximum length of open water wind can blow before hitting land.
 
 === two types of swash ===
-* **Swash** is the white foamy water that **flows up** on the beach - it [[The Sea:Deposition|deposits]].
-* **Backwash** is the water that flows **back into the sea** when the wave loses power - it erodes.
+//Waves affect the coastline//
+* **Swash** is the white foamy water that **flows up** on the beach - it [[Sea Deposition And Erosion|deposits]].
+* **Backwash** is the water that flows **back into the sea** when the wave loses power - it [[Sea Deposition And Erosion|erodes]].
 
 ===== there are two types of waves =====
 
 === Constructive Waves ===
 * **Constructive waves** are waves with a strong swash but weak backwash.
-* they **add** material to the coast and [[Sea Deposition And Erosion|deposit]].
+* They **add** material to the coast and [[Sea Deposition And Erosion|deposit]].
 
 === Destructive Waves ===
 * **Destructive waves** are waves with a weak **swash** but strong **backwash**.

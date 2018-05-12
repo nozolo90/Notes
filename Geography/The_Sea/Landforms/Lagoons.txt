@@ -7,14 +7,14 @@ Creation-Date: 2017-08-18T19:19:26+01:00
 Created Friday 18 August 2017
 
 === Statement ===
-	* A **Lagoon** is a Bay that has been cut off from the sea by a [[Sand Spit]]
+* A **Lagoon** is a Bay that has been cut off from the sea by a [[Sand Spit]]
 
 === Development ===
-	* When a [[Sand Spit]] is formed it stretches across the [[The Sea:Bays and Headlands|bay]]. Eventually it reaches the other side of the bay and **closes off the water behind it**
-	* This creates a Saltwater **lagoon**
-	* The **Lagoon** might **fill up with silt and mud** due to rivers flowing into it
+* When a [[Sand Spit]] is formed it stretches across the [[The Sea:Bays and Headlands|bay]]. Eventually it reaches the other side of the bay and **closes off the water behind it**
+* This creates a Saltwater **lagoon**
+* The **Lagoon** might **fill up with silt and mud** due to rivers flowing into it
 
 === Example ===
-	* An example is **Lough Gill Co.Kerry**
+* An example is **Lough Gill Co.Kerry**
 
 [[Landforms|Back to landforms]]

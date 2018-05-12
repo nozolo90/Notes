@@ -9,12 +9,12 @@ Created Friday 18 August 2017
 **Erosional** landform.
 
 === Statement ===
-	* A **Sea Stump **is a stump of rock that sticks up from the seabed usually at low tide.
+* A **Sea Stump **is a stump of rock that sticks up from the seabed usually at low tide.
 
 === Development ===
-	* if the base of a [[Sea Stacks|Sea Stack]] is eroded, it will collapse and leave a stump that is visible at low tide.
+* When the base of a [[Sea Stacks|Sea Stack]] is eroded further, it will collapse and leave a stump that is visible at low tide.
 
-* An example is **Hook Head Co.Wicklow**.
+* An example is **Hook Head in County Wicklow**.
 
 [[Sea Stacks|To Sea Stacks]]
 [[Sea Arches|To Sea Arches]]
