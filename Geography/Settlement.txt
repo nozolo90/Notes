@@ -7,9 +7,13 @@ Created Monday 12 February 2018
 
 Revision for the Settlement chapter
 
-=== Contents ===
+===== Contents =====
+* [[+History of settlement in Ireland|History of settlement in Ireland]]
 * [[+Functions Of Towns|Functions Of Towns]]
+* [[+Factors affecting town's location|Factors affecting town's location]]
 
+=== Case Studies ===
+* [[+The Netherlands Polders|The Netherlands Polders]]
 
 --------------------
 [[Revision|Back To Revision]]

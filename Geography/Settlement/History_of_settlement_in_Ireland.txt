@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-12T09:41:48+01:00
+
+====== History of settlement in Ireland ======
+Created Saturday 12 May 2018
+
+=== Vikings settle in 800AD ===
+* They came in boats from **Scandinavia**.
+* They built settlements on the coast, along river estuaries. An example is **Cork**.
+* Evidence - many place names end in **ford**, which comes from the Scandinavian word **fjord**.
+
+=== Normans invade in 1100AD ===
+* The Normans built **large stone castles**. The castles were usually situated along the banks of rivers, the rivers were used as a natural moat.
+* The rivers also provided water for food, drinking and other domestic purposes.
+* They mainly settled in the **south and** **east** of Ireland.
+* Most towns were located on low fertile land, which developed into market towns.
+
+[[Settlement|Back To Settlement]]
