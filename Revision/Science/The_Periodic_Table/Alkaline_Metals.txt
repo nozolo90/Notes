@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T21:49:12+01:00
+
+====== Alkaline Metals ======
+Created Monday 14 May 2018
+
+=== Alkali metals ===
+* These include **Li Na K linak**
+
+=== Alkalines with water ===
+* Alkaline metals react with water to produce <metal> hydroxide + hydrogen.
+* The more protons/electrons an alkali has, the more reactive it is.
+
+=== Alkalines react with air ===
+* Alkiline metals react with air to produce <metal> oxides.
+* The exposed surface become dull and not shiny.
+
+=== Alkaline earth metals ===
+* These share the same properties as alkali metals, just less extreme.
+* They inclide **Be Mg Ca bemgca**
+
+
+--------------------
+[[The Periodic Table|Back TO The Periodic Table]]

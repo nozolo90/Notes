@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T22:44:48+01:00
+
+====== History of Dublin ======
+Created Monday 14 May 2018
+
+=== Vikings settled - E ===
+* Dublin began as a viking settlement on the south of the liffey in the 10th century.
+* Settlement at the mouth of the liffey was ideal because the Vikings could trade here.
+* (**economic**) Its main **economic activity** was the trading carried out at the port.
+
+=== The Normans invade - EA ===
+* In the 12th century, the noramans took control of Dublin.
+* Thhey built defensive walls around it, turning it into a [[History:Middle Ages:Towns|medival town]].
+* (**economic**) Dublins port function grew as the normas traded with the english.
+* (**administrative**) Dublin Castle was built so Dublin became the center of English rule in ireland.
+* Narrow streets and stuff killed many.
+
+=== Georgian Dublin - EAS ===
+* (**economic**) The bulding of the grand and royal canal improved trade.
+* (**economic**) Manufacturing industries grew in an old part of the city called 'The Liberties'.
+* (**administrative**)Ireland had its own parliament and dublin was the **administrative capital**.
+* (**social**) Dublin was one of Europes most fashionable cities. The old medival walls had been knocked down and straight broad streets (O connel street) and squares (Merrion square) were built.
+* (**social**) Wealthy landlords also built beautiful Georgian townhouses to live in while parliament was in session.
+
+=== The nineteenth century - EF ===
+* Georgian Dublin decaed. Fashinable new suburbs like Dun Laoighaire appeared at sea.
+* Many wealthy people sold their townhouses to 'slum landlords' who would rent them out to the poor tenants.
+* (**economic**) Dublin port once again became the center for economic activity.
+* (**administrative**) The act of union in 1800 abolished the Irish parliament. This had a bad impact on the city.
+* (**social**) The wealthy peopple moved to seaside suburbs, which became the new centers for dublin's social life.
+
+=== 1900 onwards - EAS ===
+* (**economic**) Dublin is Ireland's chief **transport focus** (roads, airports, train), **manufacturing focus** (MNCs like Google & Microsoft), **tourist** and **commercial center — High economic dominance**
+* (**administrative**) Dublins once again became Ireland's center of government after Irish Independance in 1921.
+* (**social**) Dublin is now again attractive for **in migration**. It provides **universities **(UCD, DCU, Trinity), **shops**, **rectrational activities** and **other services**.
+* (**social**) Old inner city slums were cleared and moved out to new suburbs like **Crumlin** and **Ballyfermont**.
+
+
+--------------------
+[[Urbanisation|Back To Urbanisation]]

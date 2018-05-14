@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T20:40:21+01:00
+
+====== Origins Of Living Things ======
+Created Monday 14 May 2018
+
+**Biodiversity -** the range of living things in an area.
+**Extinct -** an animal that has been killed off/ wiped out/ dieded.
+**Fossil - **the remains of an extinct animal or plant.
+
+=== Natural Selection ===
+* [[+Darwin|Darwin]]
+
+[[Science|Back To Science]]

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T20:20:52+01:00
+
+====== Asexual Reproduction ======
+Created Monday 14 May 2018
+
+**Asexual Reproduction -** reproduction involving 1 parent.
+
+=== Problems ===
+* Things that are produced via Asexual Reprduction are succeptible to disease.
+* If a disease knows how to take down one bacteria, they can take down all of them.
+* This is because organisms produced via asexual reproduction are genetically identical.
+
+=== Passing on characteristics ===
+* Child organisms will inherit all of the genes of their parents - they are genetically identical.
+
+
+--------------------
+[[Reproduction|Back To Reproduction]]

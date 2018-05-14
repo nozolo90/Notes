@@ -10,8 +10,11 @@ Created Friday 08 December 2017
 Materials like **food**,**oxygen** and **waste** are transported to all the cells in our body via the **circulatory system**.
 The circulatory system is made up of: __blood__, __blood vessels__ and __the heart the pump__.
 
-[[+The Blood|The Blood]]
+=== Blood ===
+* [[+The Blood|The Blood]]
 
+=== Breathing System - how oxygen comes in ===
+* [[+The Breathing System|The Breathing System]]
 
 --------------------
 [[Science|Back To Science]]

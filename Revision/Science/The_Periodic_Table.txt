@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T21:32:01+01:00
+
+====== The Periodic Table ======
+Created Monday 14 May 2018
+
+=== Image ===
+{{../../../Images/Science/periodictable.png?height=500}}
+
+=== What is it ===
+* The periodic table is a list of all of the elements.
+
+=== Periods and Groups ===
+* Periods - horizontal.
+* Groups - vertical.
+
+=== Group 1 & 2 ===
+* [[+Alkaline Metals|Alkaline Metals]]
+
+=== Group 7 - Halaogens they have 7 electrons in their outer shell ===
+* Include Fourine and Chlorine.
+* They are trying to gain one electron.
+
+=== Group 8 - noble gases ===
+* Full outer .shells
+* Unreactive.
+
+=== Chemical Bonds ===
+* [[+Chemical Bonds|Chemical Bonds]]
+
+
+--------------------
+[[Science|Back To Science]]

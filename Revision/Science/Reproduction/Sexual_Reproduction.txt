@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T20:22:22+01:00
+
+====== Sexual Reproduction ======
+Created Monday 14 May 2018
+
+
+
+S**exual Reproduction - **reproduction involving two parents of the same species.
+
+=== Terms ===
+* **Gamete -** Sex cell. There are two in mamals
+
+=== Passing on characteristics ===
+* Children will inerit genes from both father and mother.
+
+
+--------------------
+[[Reproduction|Back To Reproduction]]

@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T20:43:37+01:00
+
+====== Darwin ======
+Created Monday 14 May 2018
+
+Charles Darwin was an english biologist born in 1809.
+He traveled to the **Galapagos Islands** while he was in university and made observations on the animals on the island.
+In 1859, he published his theory of **Evolution by Natural Selection**.
+
+=== Evolution by Natural Selection ===
+* Evolution is the change and adaptation of species caused by the environment they live in.
+
+
+===== Darwins theory - Observations =====
+* Living things produce large ammounts of offspring.
+* The environment can only support a limeted ammount of organisms.
+* The members of a species have inherited variations
+
+===== Darwins Theory - Conclusions =====
+* Living things struggle to survive, called the **struggle for existance** or **competition over scarce resources**.
+* **Mutations(random changes)** occur in the organism's genes. Organisms with **variations** that help them live in the environment survive and pass their good genes onto their children. Organisms with unsuitable mutations are likely die out with their bad genes.
+
+=== Types ===
+* Directional - one op trait - min max.
+* Stablizing - common traits - balance.
+
+=== Examples ===
+* Humans can store fat so we do not need to eat all the time.
+* Ant eater has a long tounge so that it can eat ants from their base.
+* The woodpecker has an extremely hard beak so that it can peck wood.
+
+[[Origins Of Living Things|Back To Origins Of Living Things]]

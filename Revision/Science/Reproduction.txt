@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T20:19:14+01:00
+
+====== Reproduction ======
+Created Monday 14 May 2018
+
+
+=== Genes ===
+* **Dominant** - genes that stop the recessive genes from functioning
+* **Recessive** - genes that are not recessive.
+* Genes control how the cell functions.
+
+=== Chromosomes ===
+* Chromosomes are long threads of genes. They are made of DNA protien.
+* When cells are in the process of splitting, DNA becomes short and thick and visible to electron microscopes.
+* (**Deoxyribo Nucleic Acid**)
+
+===== Types Of Reproduction =====
+* [[+Asexual Reproduction|Asexual Reproduction]] (involving 1 parent)
+* [[+Sexual Reproduction|Sexual Reproduction]](involving 2 parents)
+
+
+=== Punnet Diagram ===
+--B--
+B| BB
+b| Bb
+
+
+--------------------
+[[Science|Back To Science]]

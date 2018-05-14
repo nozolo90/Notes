@@ -8,13 +8,14 @@ Created Saturday 18 November 2017
 Revision for population chapter
 
 ==== Contents ====
-	* [[+Population Change|Population Change]]
-	* [[+Population Densities|Population Densities]]
-	* [[+Population Make Up|Population Make Up]]
-	* [[+Migration|Migration]]
+* [[+Population Change|Population Change]]
+* [[+Population Densities|Population Densities]]
+* [[+Population Make Up|Population Make Up]]
+* [[+Migration|Migration]]
 
 ==== Study ====
-	* [[+Questions|Questions]]
+* [[+Questions|Questions]]
+
 
 --------------------
 [[Geography|Back to Geography]]

@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T20:59:26+01:00
+
+====== The Breathing System ======
+Created Monday 14 May 2018
+
+=== Diaphragam - Breathing in ===
+* When we breath in, our **Diaphargram** moves downwards.
+* This makes the lungs expand and lowers the pressure inside of them.
+* The low pressure inside of the lungs draws in air from outside so the pressure becomes equal again.
+
+Air comes in through the mouth and the **Nose**.
+
+=== The nose ===
+//When we breath through are nose, air is more suitable for us to breath in, because://
+* The nose has **hairs and mucus** that trap dirt and air particles
+* Air is **warmed and moistended** as it passes through the nose.
+
+Air from the nose goes into the **Trachea**
+
+=== Trachea ===
+* The **Trachea** carrries air to and from the lungs.
+
+Then the air goes into the two **Bronchus**. The Bhronchus split into many **Bronchiolioli**.
+
+=== Bronchioli ===
+* Bronchioli carry air to the many air sacs that line them called aveoli/aveolous.
+
+=== Aveolous ===
+* The aveolous are tiny air sacs that allow gas exchange between our blood and the air.
+* They let oxygen (and other gases) in and Co2 and water vapour out **through diffusion**.
+* The aveolous are lined with **capilleries** which absorb the air.
+
+
+Our Breathing rate increases during exercise.
+This is because more air has to make it to our muscles.
+
+
+--------------------
+[[Transport In The Body|Back To Transport In The Body]]

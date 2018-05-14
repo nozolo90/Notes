@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T22:02:48+01:00
+
+====== Chemical Bonds ======
+Created Monday 14 May 2018
+
+=== Coavealant ===
+
+=== Ionic ===
+
+[[The Periodic Table|Back TO The Periodic Table]]

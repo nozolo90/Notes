@@ -9,10 +9,20 @@ Created Thursday 03 May 2018
 * mixtures of two or more different metals
 
 === Plastics ===
-* polymers made from crude oil extraction
+* polymers made from crude oil extraction.
+* monomers are linked together through a process called polymerisation.
 
 === Composites ===
+* Multiple materials mixed.
 
 === Ceramics ===
+* These include bricks and tiles. In modern times, they have been used in joint replacements an space shuttle parts.
+* Non metalic synthetic mixture.
+//They are//:
+**— Cheap**
+**— Hard**
+**— Long lasting**
+**— Resistant to high temperatures**
 
+--------------------
 [[Materials Fit For Purpose|Back To Materials Fit For Purpose]]
