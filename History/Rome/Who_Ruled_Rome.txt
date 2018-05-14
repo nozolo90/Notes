@@ -8,21 +8,22 @@ Creation-Date: 2017-08-22T13:37:38+01:00
 Created Tuesday 22 August 2017
 
 === Kingdom ===
-	**Rome **was ruled by a king
-	The people couldn't vote
+* **Rome **was ruled by a king
+* The people couldn't vote
 
 === Republic ===
-	People could vote on the **senate**
-	the **senate** voted on two **consuls **who would rule Rome
+* People could vote on the **senate**
+* the **senate** voted on two **consuls **who would rule Rome
 
 === Empire ===
-	**Governors **ruled provinces
-		provinces were roman countries
-	**Emperors **ruled Rome
-		**Examples**
-		**Nero**
-		**Caligula**
-		**Hadrian**
-		**Augustus Ceaser**
+**Governors **ruled provinces
+	* provinces were roman countries
+**Emperors **ruled Rome
+	* **Examples**
+	* **Nero**
+	* **Caligula**
+	* **Hadrian**
+	* **Augustus Ceaser**
 
+--------------------
 [[Rome|Back To Rome]]

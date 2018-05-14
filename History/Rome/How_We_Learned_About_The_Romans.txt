@@ -10,7 +10,9 @@ Created Tuesday 22 August 2017
 What we know about Rome cones from many **Sources**
 
 === Sources ===
-	[[+Volcanoes|Volcanoes]]
-	[[+Writing|Writing]]
+* [[+Volcanoes|Volcanoes]]
+* [[+Writing|Writing]]
 
+
+--------------------
 [[Rome|Back To Rome]]

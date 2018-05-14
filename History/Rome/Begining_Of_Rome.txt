@@ -7,15 +7,21 @@ Creation-Date: 2017-08-22T13:08:57+01:00
 
 Created Tuesday 22 August 2017
 
-Rome began as a small group of villages in **750BC**
-Over time the villages grew and grew
+=== Begining ===
+* Rome began as a small group of villages in **750BC**
+* Over time the villages grew and grew
 
-from **460BC** to **510BC **Rome was a kingdom ruled by a king
-The people were not happy and in **510BC **there was a revolution which led to the creation of the **republic**
+=== Kingdom ===
+* from **460BC** to **510BC **Rome was a kingdom ruled by a king
 
-When Rome began conquering land, it became an **Empire**
-an **Empire **is a country that controls many land
+=== Republic ===
+* The people were not happy and in **510BC **there was a revolution which led to the creation of the **republic**
+
+=== Empire ===
+* When Rome began conquering land, it became an **Empire**
+* an **Empire **is a country that controls many land
 
 Rome controlled most of the land around the **Mediterranean**
 
+--------------------
 [[Rome|Back To Rome]]
