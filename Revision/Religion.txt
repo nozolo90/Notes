@@ -19,22 +19,23 @@ Study For **Religion**
 
 
 ==== Contents ====
-	* [[+Communication Skills|Communication Skills]]
-	* [[+Maslows Hierarchy Of Needs|Maslows Hierarchy Of Needs]]
-	* [[+Community Examples|Communities]]
+* [[+Communication Skills|Communication Skills]]
+* [[+Maslows Hierarchy Of Needs|Maslows Hierarchy Of Needs]]
+* [[+Community Examples|Communities]]
 	
-	* [[+Sectarianism|Sectarianism]]
-	* [[+Tolerance|Tolerance]] 
-	* [[+Inter Faith Dialogue|Inter Faith Dialogue]]
+* [[+Sectarianism|Sectarianism]]
+* [[+Tolerance|Tolerance]] 
+* [[+Inter Faith Dialogue|Inter Faith Dialogue]]
 __Section E__
-	* [[+Pilgrimage|Pilgrimage]]
-	* [[+Icons|Icons]]
-	* [[+Liturgical Year|Liturgical Year]]
-	* [[+Types Of Prayer|Types Of Prayer]]
+* [[+Pilgrimage|Pilgrimage]]
+* [[+Icons|Icons]]
+* [[+Liturgical Year|Liturgical Year]]
+* [[+Types Of Prayer|Types Of Prayer]]
 
 === World Religions ===
-	* [[+Christianity|Christianity]]
-	* [[+Islam|Islam]]
+* [[+Christianity|Christianity]]
+* [[+Islam|Islam]]
+
 
 --------------------
 [[Revision|Back Home]]

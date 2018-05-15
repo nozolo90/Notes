@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-15T23:07:30+01:00
+
+====== Functional Zones ======
+Created Tuesday 15 May 2018
+
+A functional zone is an area in a town/city devoted to a particular function.
+
+===== The Central Business District =====
+* The CBD is the heart of the city.
+* The CBD is where **big banks**, **offices**,** company** **HQs** and **department stores** are found.
+* The buldings are multiple stories high to make good use out of the expensive land.
+
+===== Shopping Centers =====
+* Shopping centers are found in most of the suburbs in Dublin city.
+* They are built close to ring roads, so that they are easily accesible by car.
+* EG, liffey vally, blanchardstown, dundrum, The square.
+
+===== Smaller Shopping areas =====
+
+
+[[Urbanisation|Back To Urbanisation]]

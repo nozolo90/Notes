@@ -9,26 +9,29 @@ Created Tuesday 05 December 2017
 
 ===== What Are They? =====
 * Charecteristics of textiles are **properties** of textiles.
-* **Desireable characteristics/properties** are properties that are most important for a particular use.
+* **Desireable properties** are properties that are most important for a particular use.
 
-=== Fabric ===
+===== Common Properties =====
+
+=== — Fabric ===
 * Stretchy
 * Resiliant
 
-=== Resistance ===
+=== — Resistance ===
 * Crease resistant
 * Fire resistant
-* Waterproof
 * Shrink resistant
+* Waterproof
 
-=== Temperature ===
-* Insulating
+=== — Temperature ===
 * Warm
+* Insulating
 * Cool
 
-=== Cleaning ===
+=== — Cleaning ===
 * Stain resistant
-* Absorbant
 * Easy to clean
+* Absorbant
+
 
 [[Textiles|Back To Textiles]]

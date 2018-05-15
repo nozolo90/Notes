@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-15T22:55:45+01:00
+
+====== Fibres and Fabrics ======
+Created Tuesday 15 May 2018
+
+ [[HomeEc|Back To HomeEc]]

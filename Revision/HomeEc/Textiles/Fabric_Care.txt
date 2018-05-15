@@ -1,0 +1,83 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-15T22:19:00+01:00
+
+====== Fabric Care ======
+Created Tuesday 15 May 2018
+
+===== Care lables =====
+
+== - Care labels provide ==
+* Ironing information - /__|
+* Washing information - \~/
+* Drying information - ✉
+* Bleaching instructions - Δ
+* Dry cleaning instructions - Ο
+
+===== Washing instructions =====
+
+=== - laundry ===
+* Empty pockets
+* Remove stains that won't come out in the wash.
+* Close zips and buttons.
+* Sort clothes according to their color and washing care labels. Non color fast fabrics must be washed separateley as their color will run in the wash.
+* Follow special instructions. like "do not wash with bio detergents"
+
+=== - delicate fabrics ===
+* Use a low temperature
+* Use a mild detergant.
+* Rinse several times, gently squeezing out water - do not wring.
+* Roll in a towel and dry flat or drip dry.
+* Use a cool iron.
+
+===== Detergents - substances which remove dirt =====
+Detergants can be powder, liquid, tablets or gel.
+
+== - Types ==
+* **Biological detergents** - contain enzymes which break down protien stains
+* **Non-biological detergents**
+* **Low foaming detergents** - for automatic washing machines
+* **Hand washing detergents**
+* **Delicate detergants**
+* **Eco freindly detergants**
+
+
+**Fabric conditioners** make fabrics **softer**
+**Color run removers** and color catchers **trap colors that run in the wash**.
+
+===== Removing stains =====
+* Act quickly before the stain sets!
+* Scrape off as much as possible, but do not rub the stain in!
+* Start with a weak treatment, like soaking the item in cold water.
+* If you are using a commercial stain remover, test it on a unseen part of the fabric first.
+
+== - methods ==
+* **Gum** - Freeze clothing and scrape off gum. If grease remains, use a grease solvent like **benzene**.
+* **Grease** - WAsh in hot water and detergant. If the stain persists use method above. then wash as usual.
+* **Perspiration, tea, or coffee** - Soak in warm water with a bio-detergent and then wash item as usual.
+* **Blood, gravy (protien)** - Soak item in cold water immediately. If the stain has set, soak in warm water with bio detergent.
+* **Grass, ink** - Soak stained area with **methylated spirits**.
+* **Chocolate** - Wash stane in hot water. If it remains, dab with **glycerine**.
+
+=== - Commercial stain remover guidelines ===
+* Use in a well ventilated area.
+* Wash hands after use.
+* Follow instructions given.
+* Do not use near flames.
+* Keep away from children
+
+===== Drying clothes =====
+* **Line drying** - does not cost money.
+* **Clothes horse** - can ne used indoors.
+* **Tumble drying** - not environmentally freindly,
+
+===== Guidelines for using an iron =====
+* Unplug when not using.
+* Store upright.
+* Set temperature according to care labels.
+* Unplug iron to add water.
+* Iron clothes inside out.
+
+
+--------------------
+[[HomeEc|Back To HomeEc]]

@@ -8,20 +8,17 @@ Creation-Date: 2017-12-05T14:36:59+00:00
 Created Tuesday 05 December 2017
 
 === Soft furnishings ===
-Items other than furniture that we use to decorate a room
-__Examples__
-* Curtain
-* Blinds
-* Cushions
-* Rugs
+Soft furnishings are items other than furniture that we use to decorate a room.
+__They include...__
+* Curtains, Cushions, Blinds and Rugs.
 
 === Carpets ===
 
-=== Upholstrey ===
-The fabric used to cover furniture like **sofas, chairs and mattresses**.
+=== Upholstery ===
+* Upholstery is the fabric used to cover our furnitures like sofas.
 
 === Bed Linen ===
-Any material used on a bed
+Bed linens are any materials used on a bed
 __Examples__
 * Duvet / Duvet cover
 * Pillow / Pillow cover
@@ -29,6 +26,8 @@ __Examples__
 * Betspreads
 
 === Table Linen ===
-Table clothes, towels, table runners, place mats.
+* Table clothes, table runners, towels, place mats.
 
+
+--------------------
 [[Textiles|Back To Textiles]]
