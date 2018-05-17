@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-17T21:07:06+01:00
+
+====== Consequenses of the French revolution ======
+Created Thursday 17 May 2018
+
+=== Consequences ===
+* King killed.
+* Napolean becomes president.
+* Monarchy is abolished.
+* Bastile destroyed.
+* Death of many people from the committee of public safety.
+
+
+--------------------
+[[French Revolution|Back To French Revolution]]

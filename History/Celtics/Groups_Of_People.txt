@@ -7,12 +7,24 @@ Creation-Date: 2017-08-21T22:49:10+01:00
 
 Created Monday 21 August 2017
 
-=== There were 6 groups of people in Celtic society ===
-	The **ri** ( king )
-	The [[+Derbhfine|derbhfine]]
-	The [[+Warriors|Warriors]]
-	The [[+Aos Dana|Aos Dana]]
-	The **farmers**
-	The **slaves**
+===== The Ri =====
+* The king.
 
+===== The Derbhfine =====
+* Celtic Royal family.
+
+===== The Warriors =====
+* Warriors were **nobles** who owned **land** and **cattle**
+* They fought and protected the [[Celtics:Tuaths|tuath]]
+
+===== The Aos Dana =====
+* The **Aos Dana** were people well respected for their skills
+* Examples are **Smiths, Craftsmen, Druids, Brehons, Fili, Bards** - muisicians.
+
+=== The farmers ===
+
+=== The slaves ===
+
+
+--------------------
 [[Celtics|Back To Celtics]]

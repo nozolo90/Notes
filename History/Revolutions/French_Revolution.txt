@@ -5,10 +5,14 @@ Creation-Date: 2018-04-09T21:22:27+01:00
 ====== French Revolution ======
 Created Monday 09 April 2018
 
-===== --**__1789__**-- =====
+===== 1789 =====
 
 === Contents ===
 * [[+Background|Background]]
+
+=== Causes & Consequenses ===
+* [[+Causes of the French revolution|Causes of the French revolution]]
+* [[+Consequenses of the French revolution|Consequenses of the French revolution]]
 
 
 --------------------

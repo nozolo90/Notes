@@ -13,12 +13,14 @@ They arrived from Britain in **4000BC**
 they learned how to weave **cloth** with **wool** from **sheep**
 
 ==== Contents ====
-	[[+Farming|Farming]]
-	[[+Food|Food]]
-	[[+Houses|Houses]]
-	[[+Tools|Tools]]
-	[[+Tombs|Tombs]]
-	
-	[[+Essay|Essay]]
+* [[+Farming|Farming]]
+* [[+Food|Food]]
+* [[+Houses|Houses]]
+* [[+Tools|Tools]]
+* [[+Tombs|Tombs]]	
+* [[+Essay|Essay]]
 
+
+--------------------
 [[History|Back To Contents]]
+
