@@ -34,10 +34,11 @@ A functional zone is an area in a town/city devoted to a particular function.
 * Dublin has parks like Phoenix PArk and St sTePHenSS GrEEN. There are also many parks in suburban areas around dubin.
 
 === Rsidential areas ===
-* Housing areas. Older closer to city center.
+* Housing areas. Older ones are closer to city center.
 
 ===== Case Studies =====
 * [[+Paris|Paris]]
 
 
+--------------------
 [[Urbanisation|Back To Urbanisation]]

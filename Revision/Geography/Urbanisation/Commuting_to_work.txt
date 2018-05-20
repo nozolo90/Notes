@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-20T14:12:19+01:00
+
+====== Commuting to work ======
+Created Sunday 20 May 2018
+
+Many people live in suburbs and work in Dublin City.
+People who travel to work are called **commuters**.
+
+=== Modes of transport ===
+* The most used form of transport by Dublin commuters is by **Car**.
+* Followed by **bus **and **train**.
+
+===== Traffic congestion in irish cities =====
+* Rush hour traffic.
+* Increased number of cars on the road.
+* Increased size of the city (urban areas & population)
+
+=== Solutions ===
+* The most effective way to reduce traffic is to increase the use of public transport.
+* It has been proven that just building more roads does not solve the problem.
+* For people to use public transport, it must be nearby, reliable and cheap.
+
+=== Buses ===
+* If more people use buses, many cars would be taken off the road.
+* Buses can carry up to 80 people.
+* They can get to the city much quicker if they use **QBCs** (quality bus corridoors).
+* There has been an increase in **QBCs **over the years.
+
+=== Light rail ===
+* **The Dart** which operates on the coast of Dublin. MAny people use it to commute to work each day.
+* **The Luas** which is a tram system. It is a fast and efficient way of travelling.
+
+=== Restricing car use ===
+* Parking no.
+* Fines
+* Clamping
+* Pedestrian streets.
+
+
+[[Urbanisation|Back To Urbanisation]]

@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-20T09:36:25+01:00
+
+====== The Central Business District ======
+Created Sunday 20 May 2018
+
+=== Why land costs alot ===
+* **There is High Demand** due to the fact that the CBD is the busiest part of the city. Many busineses want to set up here.
+* **There is Low Supply**, so land is scarce and the demmand pushes up the price.
+
+=== How the land is used ===
+* **The buildings are very tall **and intensively used.
+* The layers of the buildings are used for a variety of purposes.
+* An example is the Burj Khalifa in Dubai, which is used as a hotel and as a commercial office.
+
+=== Moving Away form the city center ===
+* Land values decrease as you move away from the city center.
+* Land is more plentiful and less expensive.
+* Therefore buldings are less dense and more spacious.
+
+
+--------------------
+[[Urbanisation|Back To Urbanisation]]

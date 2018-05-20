@@ -10,6 +10,10 @@ Urbanisation is the growth in the size and number of cities.
 ===== Contents =====
 * [[+History of Dublin|History of Dublin]]
 * [[+Functional Zones|Functional Zones]]
+* [[+Land use in cities|Land use in cities]]
+* [[+Variations in housing|Variations in housing]]
+* [[+Commuting to work|Commuting to work]]
+* [[+Urban problems|Urban problems]]
 
 === Detail ===
 * [[+The Central Business District|The Central Business District]]

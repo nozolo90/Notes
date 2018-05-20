@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-20T13:22:23+01:00
+
+====== Land use in cities ======
+Created Sunday 20 May 2018
+
+=== In the city ===
+* High rise, high density buildings.
+* Custoom House Quay in dublin.
+
+=== In the inner city ===
+* Multi storet, High desnity buildings.
+* Grand Canal Street in dublin.
+
+=== On suburbs ===
+* Medium density buildings like semi detatched houses.
+* Dundrum in dublin.
+
+=== Urban fringe ===
+* Low density buildings like detatched houses.
+* Rathfarnham in dubin.
+
+
+--------------------
+[[Urbanisation|Back To Urbanisation]]
