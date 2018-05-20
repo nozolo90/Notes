@@ -7,27 +7,29 @@ Creation-Date: 2017-08-25T19:26:19+01:00
 
 Created Friday 25 August 2017
 
-{{~/Pictures/Palestime.png}}
+{{../../../../../Images/Religion/mapofpalestine.jpeg?width=300}}
 
 === Galilee ===
-* **Naim**
-* **Cana** - preformed first miracle here	
-* **Capernaum** - Jesus healed the paralysed man
-* **Nazereth** - grew up here
+* **Naim** - nothing
+* **Cana** - preformed first miracle here.
+* **Capernaum** - Jesus healed the paralysed man.
+* **Nazareth** - grew up here.
 
 === Samaria ===
 * Mountains
 
 === Judea ===
-* **Jericho**
-* **Emmaus**
+* **Jericho** - Jesus was baptized here
+* **Emmaus**- the risen Jesus appears here.
 * **Jerusalem** - Jesus crucified
-* **Bethanee**
-* **Bethlahem** - Jesus born
+* **Bethanne** - Jesus raised Lazarus from the dead.
+* **Bethlehem** - Jesus born
 
 === Water ===
 * **Sea of Galilee** - where jesus recruited his first disciples
 * **River Jordan** - where jesus was baptised
-* **Dead Sea**
+* **Dead Sea** - dead
 
+
+--------------------
 [[Palestine|Back To Palestine]]

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-20T20:09:22+01:00
+
+====== The Sanhedrin ======
+Created Sunday 20 May 2018
+
+=== Details ===
+* The Sanhedrin is the **Jewish Court of law**.
+* It is composed of **70** **Pharisees/Sadducee** and **1 high priest**.
+* They did not have the power to execute.
+* They are located in **Jerusalem**.
+
+
+--------------------
+[[Palestine|Back To Palestine]]
