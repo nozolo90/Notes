@@ -18,7 +18,7 @@ Created Friday 18 August 2017
 
 * An example is **Hook Head in County Wicklow**.
 
-[[:geography:The Sea:Landforms:Sea Stumps|To Sea Stumps]]
+[[Sea Stumps|To Sea Stumps]]
 
 [[Sea Caves|To Sea Caves]]
 [[Sea Arches|To Sea Arches]]

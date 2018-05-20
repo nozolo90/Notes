@@ -8,8 +8,8 @@ Created Friday 18 August 2017
 [[+Study Guide|Study Guide]]
 
 ==== Contents ====
-* [[Geography]]
-* [[History]]
+* [[+Geography|Geography]]
+* [[+History|History]]
 * [[+Religion|Religion]]
 * [[+Irish|Irish]]
 * [[+French|French]]

@@ -17,7 +17,7 @@ Created Friday 18 August 2017
 
 * An example is **Hook Head Co.Wicklow**
 
-[[:geography:The Sea:Landforms:Sea Arches|To Sea Arch]]
+[[Sea Arches|To Sea Arch]]
 
 [[Sea Stacks|To Sea Stacks]]
 [[Sea Stumps|To Sea Stumps]]
