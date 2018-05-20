@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-19T22:03:38+01:00
+
+====== Paris ======
+Created Saturday 19 May 2018
+
+Paris is the capital of France.
+It is the primate city with a population of 13 million people.
+Paris is world city in fashion and culture, ranking in importance with NY, Tokyo and London.
+
+=== CBD ===
+* It has luxury shopping areas like the Champs Elysees.
+* It has famous public buildings like the Eiffel Tower and Notre Damme.
+* It has the world famous sorbonne university.
+* It is the headquarters of many French banking companies.
+* It is the administrative capital.
+* It is home of the stock exchange(Paris Bourse).
+* It is served by the Paris Metro.
+
+=== Shopping Centers ===
+* The city has large shopping areas like the Champs Elysees.
+* There

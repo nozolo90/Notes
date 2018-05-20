@@ -11,9 +11,7 @@ Study for **History**
 
 ===== Contents =====
 
-__1st year__
-
-== Early Ireland ==
+=== Early Ireland ===
 * [[+Archeology|Archaeology]]
 * [[+Sources And Historians|Sources And Historians]]
 * [[+Wattle and Daub|Wattle and Daub]]
@@ -23,7 +21,7 @@ __1st year__
 * [[+Bronze Age|Bronze Age]]
 * [[+Celtics|Celtics]]
 
-== Other ==
+=== Other ===
 * [[+Rome|Rome]]
 * [[+Middle Ages|Middle Ages]]
 * [[+Rennaicance|Rennaicance]]
@@ -35,9 +33,9 @@ __1st year__
 * [[+Revolutions|Revolutions]]
 * [[+Industrial Revolution|Industrial Revolution]]
 
-=== Essays 1st year ===
+===== Essays 1st year =====
 
-=== Essays 2nd year ===
+===== Essays 2nd year =====
 * [[+Martin Luther Essay|Martin Luther Essay]]
 * [[+Christopher Columbus Essay|Christopher Columbus Essay]]
 * [[+Servitor Essay|Servitor Essay]]

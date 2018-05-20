@@ -7,17 +7,37 @@ Created Tuesday 15 May 2018
 
 A functional zone is an area in a town/city devoted to a particular function.
 
-===== The Central Business District =====
+=== The Central Business District ===
 * The CBD is the heart of the city.
 * The CBD is where **big banks**, **offices**,** company** **HQs** and **department stores** are found.
-* The buldings are multiple stories high to make good use out of the expensive land.
+* The buildings are multiple stories high to make good use out of the expensive land.
 
-===== Shopping Centers =====
+=== Shopping Centers ===
 * Shopping centers are found in most of the suburbs in Dublin city.
 * They are built close to ring roads, so that they are easily accesible by car.
-* EG, liffey vally, blanchardstown, dundrum, The square.
+* EG, Liffey Valley, Blanchardstown, Dundrum, The square.
 
-===== Smaller Shopping areas =====
+=== Smaller Shopping areas ===
+* These are small village centers on the outskirts of cities where villagers can do their day to day shopping.
+* These small areas allow people to access services without traveling to the city center.
+
+=== Industrial Estates ===
+* Most modern factories occur in industrial estates.
+* **Location**
+	— On the edges of cities where land is cheaper
+	— On the edges of cities where workers live in nearby suburbs.
+	— Near transport links like motorways and airports so they are easily accsesible.
+* **Footloose Industries** are attracted to industrial estates.
+
+=== Space for recreation and leisure ===
+* All cities need spaces for children to play and people to relax and enjoy the outdoors.
+* Dublin has parks like Phoenix PArk and St sTePHenSS GrEEN. There are also many parks in suburban areas around dubin.
+
+=== Rsidential areas ===
+* Housing areas. Older closer to city center.
+
+===== Case Studies =====
+* [[+Paris|Paris]]
 
 
 [[Urbanisation|Back To Urbanisation]]
