@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-20T23:39:42+01:00
+
+====== Chip Boards ======
+Created Sunday 20 May 2018
+
+==== OSB - Oriented strand board ====
+* This type of wood is used in packing cases, flooring, furniture and timber framed building.
+* Wooden strands or flakes are processed from the tree log.
+* The strands are bonded together under great heat and pressure using a synthetic adhesive.
+
+==== Particle Boards ====
+* The most common kind of particle board is **chipboard**.
+* This kind of wood is used in worktops, **bedrooms** and **kitchen units**.
+* Woodchips are taken and compressed with a **synthetic resin/glue**.
+* The **boards are then sanded** **down, laminated or venered over** to give the finished product.
+
+===== Advantages =====
+* Uniform thickness achieved.
+* Can be veneered over with decorative laminates/veneers.
+* Relatively cheap.
+* Uses timber that would otherwise be wasted.
+
+===== Disadvantages =====
+* Surfaces and edges are very rough for finished surfaces.
+* Chip boards are weak.
+* They are not water resistant.
+* They do not take nails well.
+
+--------------------
+[[Manufactured Boards|Back To Manufactured Boards]]

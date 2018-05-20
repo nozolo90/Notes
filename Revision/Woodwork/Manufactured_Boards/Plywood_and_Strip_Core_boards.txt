@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-20T23:34:19+01:00
+
+====== Plywood and Strip Core boards ======
+Created Sunday 20 May 2018
+
+==== Plywood ====
+* Plywood is made by gluing thin **veneers (called ply)** of wood together to form a board of the required thiccness.
+* Veneers are thin sheets of wood cut from a log by **rotary cutting**.
+* There is **always an uneven amount of layers** in plywood, so that the top and bottom veneers face in the same direction.
+* In plywood, each layer is placed 90 degrees to the layer below it so that their grains run in opposite directions. This strengthens the board.
+
+==== Marine plywood ====
+* Marine plywood **contains high quality veneers** of naturally durable timber.
+* The veneers are bonded with **WBP** (Water and boil proof) glue.
+* This is used where plywood will be exposed to water for long periods of time, like in shipbuilding.
+
+==== Strip core boards ====
+* Strip core boards are long lats of timber glued together and then veneered over.
+* They take nails better than other boards.
+
+===== Advantages =====
+* Have good strength
+* Do not warp or shrink,
+* Do not split easily when nailed.
+* Have smooth and uniform thickness.
+* Cover large areas with uniform thickness.
+
+===== Disadvantages =====
+* Edges need to be covered with a decorative strip.
+* The surface veneers are usually plain.
+* You cannot nail or screw into the edges of plywood.
+
+--------------------
+[[Manufactured Boards|Back To Manufactured Boards]]

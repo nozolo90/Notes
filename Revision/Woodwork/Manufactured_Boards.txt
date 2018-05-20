@@ -5,12 +5,23 @@ Creation-Date: 2018-04-23T07:38:00+01:00
 ====== Manufactured Boards ======
 Created Monday 23 April 2018
 
-=== OSB - Oriented Strand Board ===
+=== Advantages over solid wood ===
+* They are an important substitute to solid wood.
+* Therefore they help preserve natural rain forests.
+* They are economical alternative to solid wood.
+* They provide large flat areas of stable wood of uniform thiccness.
 
-=== Plywood ===
-* Layers of 'veneers' placed on each other that are connected by adhesive.
+=== Woods ===
+* [[+Plywood and Strip Core boards|Plywood and Strip Core boards]]
+* [[+Chip Boards|Chip Boards]]
 
-=== MDF - Medium Density Fiberboard ===
+=== Pineboard ===
+* This board is made up of long strips of pine wood that are glued together to form a wider board.
+* They are used for worktops , tabletops and shelving units.
+* Available in sizes 12mm to 25mm in thickness.
 
+=== Hardboard ===
+* Hardboard is made from wood pulp with added water.
 
+--------------------
 [[Woodwork|To Woodwork]]
