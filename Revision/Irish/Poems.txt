@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-21T00:19:49+01:00
+
+====== Poems ======
+Created Monday 21 May 2018
+
+=== Imeagla ===
+* d
+
+=== Teilifís ===
+* [[+Téama agus Mothúcháin|Téama agus Mothúcháin]]
+
+
+[[Irish|Back to Irish]]

@@ -14,7 +14,7 @@ Study For **Religion**
 | Islam        | Mohhamed               | Qu'ran/Koran | Muslims    | Mosque           | 1500 |
 | Christianity | Jesus                  | Bible        | Christians | Church           | 2000 |
 | Buddism      | Buddah/Sidharta Gutama | Tipitaka     | Buddists   | Temple           | 2500 |
-| Judaism      | Abraham+Moses          | Torah        | Jews       | Synagoge         | 4000 |
+| Judaism      | Abraham+Moses          | Torah/Tenak  | Jews       | Synagoge         | 4000 |
 | Hinduism     | Unknown                | Vedas        | Hindus     | Mandir           | 4500 |
 
 

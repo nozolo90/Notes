@@ -14,9 +14,9 @@ A pilgrimage is a journey made by a pilgrim to a sacred place
 
 === Reasons people go on pilgrimages ===
 * To pray for each other.
-* To ask God for help (Petition).
-* To ask for forgiveness.
-* To find meaning in life.
+* To ask God for **help** (Petition).
+* To ask for **forgiveness**.
+* To look for **meaning in life**.
 
 === Examples ===
 There are 3 types of Christian Pilgrimages.
@@ -30,4 +30,9 @@ __Saint related__
 * **Glendalough**, related to St  Kevin.
 * **Croagh Patrick**, related to St Patrick.
 
+=== Other ===
+* The wailing wall - Judaism.
+* [[Islam:Stages Of  The hajj|Mecca]] - Muslims.
+
+--------------------
 [[Religion|Back To Religion]]

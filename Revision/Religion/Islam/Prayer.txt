@@ -8,9 +8,9 @@ Creation-Date: 2017-12-10T18:30:18+00:00
 Created Sunday 10 December 2017
 
 === Wudu ===
-* Wudu is a **ritual** muslims do to **prepare** for prayer.
-* Muslims wash their **feet, arms, hands and head** to appear **clean and pure to Allah**.
-* Some mosuqes have a wudu area where muslims can do the ritual.
+* Wudu is a **cleaning ritual** that Muslims do to prepare for prayer.
+* Muslims wash their **feet**, **arms**, **hands** and **head **in a special way to appear **clean** and **pure** to Allah.
+* Some Mosques have a wudu area where Muslims can do the ritual.
 
 === Salat ===
 * Salat is a special series of prayer that use both words and actions.
@@ -26,4 +26,6 @@ They pray at least 5 times a day at 5 fixed times.
 They do wudu berfore prayer.
 Du ah is personal prayer.
 
+
+--------------------
 [[Islam|Back To Islam]]
