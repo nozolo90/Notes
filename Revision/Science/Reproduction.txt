@@ -20,7 +20,6 @@ Created Monday 14 May 2018
 * [[+Asexual Reproduction|Asexual Reproduction]] (involving 1 parent)
 * [[+Sexual Reproduction|Sexual Reproduction]](involving 2 parents)
 
-
 === Punnet Diagram ===
 --B--
 B| BB

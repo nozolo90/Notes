@@ -17,17 +17,17 @@ __Compressive Strength __
 === Stiffness ===
 * This is how the material will **warp** or **bend** when force is applied.
 * Some materials, like rubber are easy to bend. Others, like diamond are not.
-* Steel beams in construction need to be stiff
+* Steel beams in construction need to be stiff.
 
 === Elasticity ===
 * This is where a solid can be **stretched** and return to its original form.
 * Solids are elastic because they are held together by stretchy bonds.
-* Rubber bands need to be elastic
+* Rubber bands need to be elastic.
 
 === Hardness ===
 * This is how hard it is to **cut** into a material.
-* Diamond is the hardest material, so it is cut with a lazer.
-* Diamond is used at the tips of powertools.
+* Diamond is the hardest material, so it is cut with a laser.
+* Diamond is used at the tips of power tools.
 
 === Density ===
 * This is how much matter is packed into a material.
@@ -35,8 +35,6 @@ __Compressive Strength __
 === Melting Point ===
 * This is the point where the material will turn form a **solid** **to** **a liquid**.
 * some plastics will melt when heated.
-* Some plastics will not.
-
 
 --------------------
 [[Materials Fit For Purpose|Back To Materials Fit For Purpose]]
