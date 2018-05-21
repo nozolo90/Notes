@@ -15,8 +15,8 @@ Created Thursday 24 August 2017
 {{./diagram.png?type=diagram}}
 
 === Denominations ===
-	* [[+Catholic|Catholic]]
-	* [[+Prodastent|Prodastent]]
-	* [[+Orthodox|Orthodox]]
+* [[+Catholic|Catholic]]
+* [[+Prodastent|Prodastent]]
+* [[+Orthodox|Orthodox]]
 
 [[Christianity|Back To Christianity]]
