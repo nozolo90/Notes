@@ -17,6 +17,7 @@ Created Friday 18 August 2017
 * [[+HomeEc|HomeEc]]
 * [[+Science|Science]]
 * [[+Woodwork|Woodwork]]
+* [[+Maths|Maths]]
 
 {{../Images/icon.png}}
 --------------------

@@ -5,28 +5,28 @@ Creation-Date: 2018-05-03T23:07:00+01:00
 ====== Factors That Influence Change ======
 Created Thursday 03 May 2018
 
-== War ==
+===== War =====
 * Wars can reduce populations.
 * The cause the death of soilders and civillians. They also separate already married couples.
 * Germany lost **7 million people** in world war 1 and 2. Thousands of Irish died in the war aswell.
 
-== Food ==
+===== Food =====
 * As a countries **economy** **develops**, its **food supplies **usually** improve**.
 * Better food supplies lead to people **living longer** and **healthier** which leads to population growth.
 * **Germany lost** **7 million people** during **ww1** and **2**. Thousands of Irish also died in that war.
 
-== Improved Technology ==
+===== Improved Technology =====
 * Some **technology helps people live longer** so it asssists population growth
 * **Farm** **machinery** increases food production
 * **Medical** **equipment** saves lives, lowering death rates.
 * **Pumps** **and** **water** treatment equipment help provide safe and clean water.
 
-== Education ==
+===== Education =====
 * Educated people are more likely to take part in **familly planning** schemes aimed at reducing birth rates.
 * Therefore countries with good education tend to have fewer birth rates which can slow population growth.
 * An example is Germany. Germany is a country with a very high standard of education. Along with many other factors education has contributed to its low birth rate.
 
-== Health ==
+===== Health =====
 * Food, water and medical supplies have increased greatly over the years.
 * Deaths from curable diseses such as **whopping** **couugh** and **gastroentritis** have decreased greatly.
 * This has resulted in people living longer and healthier.
@@ -34,11 +34,13 @@ Created Thursday 03 May 2018
 * In brazil, some people have benifited from improved food, water and medical supplies.
 * This is part of the reason brazil's population has more than trebled in the last 50 years
 
-== Womans ==
+===== Womans =====
 * When womans enjoy equality with men, they are empowered to make more decisions relating to their lives/
 * As the decision making power of women increases, birth rates generally decline.
 * In germany, a country with great equality, women and men recieve the same ammount of education and have an option to work outside the home.
 * In brazil, where women usually have little or no formal education, they seldom have the chance to have a carreer outside the home.
 * They tend to stay at home and care for larger famillies.
 
+
+--------------------
 [[Population Change|Back To Population Change]]

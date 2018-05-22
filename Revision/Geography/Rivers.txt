@@ -9,6 +9,8 @@ Created Saturday 19 August 2017
 
 Study For **Rivers**
 
+TODO: remove small pages - put them into larger ones
+
 ==== Contents ====
 * [[+Key Words|Key Words]]
 * [[+Erosion|River Erosion]]

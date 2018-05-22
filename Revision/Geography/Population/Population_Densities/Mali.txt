@@ -7,11 +7,27 @@ Creation-Date: 2017-12-14T16:51:08+00:00
 
 Created Thursday 14 December 2017
 
-=== Statement ===
-* Mali is a country with a very low population density.
+Mali is a country with a very low population density.
+It is 15 times larger than Ireland, but with only 16 million people.
 
-=== Development ===
+=== Why people leave ===
+* Young people leave Mali because they do not want to spend their life in the lightly populated, desssert like rural areas in Mali.
+* Many young people (especially men) leave to cities like Bamako and Timbuktu in search for jobs, oppurtunities and education.
 
+=== Effects of low population density ===
+
+== Abandonement of agricultural land ==
+* There are no people to farm the land.
+
+== Fewer marriges ==
+* There is urplus of men in the cities and lack in rural areas.
+* Less marriges = less children, meaning that the population decreases even further.
+
+== Political and economic isolation ==
+* Mali was conquered by France in 1850. Their spread out population could do nothing to defend against the empire.
+* They were at the edge of the empire and had no decision making power.
+* They became independant in 1960.
+* They still now have no money to do anything.
 
 --------------------
 [[Population Densities|Back To Population Densities]]

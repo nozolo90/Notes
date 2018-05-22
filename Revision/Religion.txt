@@ -9,6 +9,7 @@ Created Wednesday 23 August 2017
 
 Study For **Religion**
 
+=== World religions grid ===
 | Religion     | Founder                | Sacred Text  | Followers  | Place Of Worship | Age  |
 |:-------------|:-----------------------|:-------------|:-----------|:-----------------|:-----|
 | Islam        | Mohhamed               | Qu'ran/Koran | Muslims    | Mosque           | 1500 |
@@ -20,7 +21,7 @@ Study For **Religion**
 
 ==== Contents ====
 * [[+Communication Skills|Communication Skills]]
-* [[+Maslows Hierarchy Of Needs|Maslows Hierarchy Of Needs]]
+* [[+Maslow's Hierarchy Of Needs|Maslow's Hierarchy Of Needs]]
 * [[+Community Examples|Communities]]
 	
 * [[+Sectarianism|Sectarianism]]

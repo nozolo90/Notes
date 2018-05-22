@@ -9,7 +9,7 @@ Created Monday 27 November 2017
 
 Measuring Distances between two points
 
-== Straight Line Distances ==
+=== Straight Line Distances ===
 * Place the straight edge of a paper on the map so that it is passing through the two points
 * Then using a pencil or a pen mark on the edge of the paper where the points are
 * Put the piece of paper on the linear scale to measure thee distance between the two marks
@@ -22,4 +22,5 @@ Measuring Distances between two points
 * Now repeat step 3 through 5 until you reach the ending point.
 * Put the piece of paper on the linear scale to measure the distnce between two marks
 
+--------------------
 [[Maps|Back To Maps]]

@@ -11,11 +11,11 @@ Created Sunday 20 August 2017
 	* Dams are built on a river - can now be controlled
 	* they release the water to turn large turbines which generate energy
 	* eg //Polaphuca// & //Blessington// lake
-	**advantages**
+**advantages**
 	* clean - renewable energy
 	* reservoirs like **Polaphuca** provide water to Dublin
 	* reservoirs offer amenities ( water sports )
-	**disadvantages**
+**disadvantages**
 	* They can flood valuable farmland
 	* salmon and other marine life could be threatened
 	* its difficult and expensive to dam a river
