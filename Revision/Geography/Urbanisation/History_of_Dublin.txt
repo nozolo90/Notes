@@ -5,15 +5,17 @@ Creation-Date: 2018-05-14T22:44:48+01:00
 ====== History of Dublin ======
 Created Monday 14 May 2018
 
+TODO: fix spelling
+
 === Vikings settled - E ===
 * Dublin began as a viking settlement on the south of the liffey in the 10th century.
 * Settlement at the mouth of the liffey was ideal because the Vikings could trade here.
 * (**economic**) Its main **economic activity** was the trading carried out at the port.
 
 === The Normans invade - EA ===
-* In the 12th century, the noramans took control of Dublin.
-* Thhey built defensive walls around it, turning it into a [[History:Middle Ages:Towns|medival town]].
-* (**economic**) Dublins port function grew as the normas traded with the english.
+* In the 12th century, the Normans took control of Dublin.
+* They built defensive walls around it, turning it into a [[History:Middle Ages:Towns|medival town]].
+* (**economic**) Dublin's port function grew as the Normas traded with the english.
 * (**administrative**) Dublin Castle was built so Dublin became the center of English rule in ireland.
 * Narrow streets and stuff killed many.
 

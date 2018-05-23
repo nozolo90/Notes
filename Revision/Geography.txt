@@ -21,7 +21,7 @@ Study for **geography**
 * [[+Weather|Weather]]
 * [[+Population|Population]]
 * [[+Settlement|Settlement]]
-* [[+Urbanisation|Urbanisation]]
+* [[+Urbanisation|Urbanization]]
 * [[+Soils|Soils]]
 
 

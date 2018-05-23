@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-23T07:52:52+01:00
+
+====== Periodic Table Image ======
+Created Wednesday 23 May 2018
+
+{{../../../../Images/Science/periodictable.png?width=750}}
+
+[[The Periodic Table|Back To The Periodic Table]]

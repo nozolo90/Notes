@@ -42,8 +42,8 @@ Created Sunday 20 May 2018
 * **Some large suburban areas lack sufficient infarstructure** and are seen as soulless.
 * Leads to **long daily commutes**.
 
-=== Inadiquate services ===
-* People need basic infarstructural services to live comfortably. As urban areas grow, these services can become inadiquate, therefore peoples quality of life suffers.
+=== Inadequate services ===
+People need basic infrastructural services to live comfortably. As urban areas grow, these services can become inadequate, therefore peoples quality of life suffers.
 * **Transport** - 
 * **Water supply**
 * **Waste disposal**
