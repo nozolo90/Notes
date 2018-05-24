@@ -10,10 +10,10 @@ Created Thursday 24 August 2017
 	{{../../../../Images/saint_vincent_de_paul_logo.jpeg?width=273}}
 
 
-=== Founder ===
-* **Saint Vincent de Paul** is a community of faith named after a famous French saint who helped the poor.
-* It was founded by **Frederic** **Ozanam** in **Paris**.
+=== Foundation ===
+* **Saint Vincent de Paul** was founded by **Frederic** **Ozanam** in **Paris**.
 * Frederic Ozanam was inspired by Jesus's teaching in the gospel to //"love god and love ones neighbor as yourself "//.
+* It is named after a famous french saint of the same name who helped the poor.
 
 === Purpose ===
 * People can volunteer to give 2 or 3 hours a week to help the poor and the needy.
@@ -25,8 +25,7 @@ Created Thursday 24 August 2017
 * Homework clubs
 * Crèches
 
-=== AOP ===
-* SVP works in over **100** **countries**
+SVP works in over **100** **countries**
 
 --------------------
 [[Community Examples|Back To Community Examples]]
