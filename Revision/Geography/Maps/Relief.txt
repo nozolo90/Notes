@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-24T21:50:28+01:00
+
+====== Relief ======
+Created Thursday 24 May 2018
+
+=== Identifying Relief ===
+* **Lowland** - An area of land that is below 200m in height.
+* **Upland** - An area of land that is above 200m in height.
+
+* **Mountain** - A landform with steep sides that is above 400m in height.
+* **Hill** - An area of land that is above 200m, but below 400m in height.
+
+* **Gap** - A low area between 2 areas of upland.
+* **Ridge** - A narrow area of upland with steep sides.
+
+* **Plateau** - A flat upland area with steep sides.
+
+--------------------
+[[Maps|Back To Maps]]

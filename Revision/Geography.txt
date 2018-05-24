@@ -9,6 +9,8 @@ Created Friday 18 August 2017
 Study for **geography**
 
 ===== Contents =====
+
+=== First year ===
 * [[+The Sea|The Sea]]
 * [[+The Forces Of Weathering|The Forces Of Weathering]]
 * [[+Mass Movement|Mass Movement]]
@@ -17,13 +19,13 @@ Study for **geography**
 * [[+The Earth|The Earth]]
 * [[+Economic Activities|Economic Activities]]
 
+=== Second year ===
 * [[+Maps|Maps]]
 * [[+Weather|Weather]]
 * [[+Population|Population]]
 * [[+Settlement|Settlement]]
 * [[+Urbanisation|Urbanization]]
 * [[+Soils|Soils]]
-
 
 --------------------
 [[Revision|Back Home]]

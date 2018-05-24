@@ -34,6 +34,7 @@ __Section E__
 * [[+Types Of Prayer|Types Of Prayer]]
 
 === World Religions ===
+[[+General|General]]
 * [[+Christianity|Christianity]]
 * [[+Islam|Islam]]
 

@@ -8,23 +8,26 @@ Created Saturday 12 May 2018
 The Rhine is one of the busiest and most important rivers in Europe.
 It is used to transport large amounts of goods in and out.
 
-=== Basel ===
+===== Basel =====
 * Swiss Kip
 
-=== Kloln ===
-* Koln has a **Market Function**
-	* Koln is a major banking, business and shopping city.
-	* It has international trade fairs that attract many people. 
-	* It is a major bridging point as well, and a nodal point of many roads and railways.
-* Koln has a **Port Function**
-	* Like **Rotterdam**, Koln is one of the busiest river ports in Europe.
-	* It has 6 port terminals which process 10 million tonnes of goods each year.
-	* It is a transshipment center.
-* Koln has a **Recreational Function**
-	* Koln is Germany's largest historic center (Koln cathedral).
-	* Its oldest streets are lined with coffee shops, art galleries and tourist centers.
+===== Köln =====
 
-=== Rotterdam ===
+== Market Function ==
+* Köln is a major banking, business and shopping city.
+* It has international trade fairs that attract many people. 
+* It is a major bridging point as well, and a nodal point of many roads and railways.
+
+== Port Function ==
+* Like **Rotterdam**, Köln is one of the busiest river ports in Europe.
+* It has 6 port terminals which process 10 million tonnes of goods each year.
+* It is a transshipment center.
+
+== Recreational Function ==
+* Köln is Germany's largest historic center (Köln cathedral).
+* Its oldest streets are lined with coffee shops, art galleries and tourist centers.
+
+===== Rotterdam - NOT THE ONE WITH PORT TERMINALS =====
 * Rotterdam is the Europe's most important river port.
 * 20% of our oil is imported from here.
 * It is a distribution point.

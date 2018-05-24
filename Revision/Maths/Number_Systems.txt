@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-24T21:31:26+01:00
+
+====== Number Systems ======
+Created Thursday 24 May 2018
+
+N - natural
+Z = integer
+Q -> quotient
+R/Q — irrational
+
+[[Maths|Back To Maths]]

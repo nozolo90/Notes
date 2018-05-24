@@ -8,7 +8,6 @@ Creation-Date: 2017-09-05T20:06:40+01:00
 Created Tuesday 05 September 2017
 
 ===== To be =====
-
 **Je suis** - i am
 **Tu es** - You are
 **Il/elle est** - He/She is

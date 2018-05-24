@@ -12,22 +12,6 @@ A **multi functional town** provides more than one function.
 * It means that the town provides **services** for people like shops and banks.
 * The town also may have sold produce for the nearby fertile land.
 
-=== Religious/Ecclesiastical ===
-* Most towns have a **religious** function.
-* Look for monasteries, abbeys, friaries and convents.
-* Towns developed near these for protection and education.
-
-=== Defense ===
-* Towns with castles (or defensive antiquities) have a defensive function.
-* The defensive features make them easier to defend.
-
-=== Recreational ===
-* Towns with a recreational function have recreational services that can be seen on a map.
-* To identify one, look for **scenic locations, beaches, tourist spots and tourist information centers**.
-* This is the same as tourism.
-
-=== Port ===
-* Port towns are towns with **marinas**, sheltered bays and **navigable** **rivers**.
 
 === Residential ===
 * All towns provide residential functions, especially **dormitory towns**.
@@ -37,6 +21,22 @@ A **multi functional town** provides more than one function.
 * Resource settlements are towns that develop near a natural recourse like oil, gas or peat.
 * To identify a one, look for **power stations**, **industrial rails** and **power lines**.
 
+=== Religious/Ecclesiastical ===
+* Most towns have a **religious** function.
+* Look for monasteries, abbeys, friaries and convents.
+* Towns developed near these for protection and education.
+
+=== Recreational ===
+* Towns with a recreational function have recreational services that can be seen on a map.
+* To identify one, look for **scenic locations, beaches, tourist spots and tourist information centers**.
+* This is the same as tourism.
+
+=== Defense ===
+* Towns with castles (or defensive antiquities) have a defensive function.
+* The defensive features make them easier to defend.
+
+=== Port ===
+* Port towns are towns with **marinas**, sheltered bays and **navigable** **rivers**.
 
 --------------------
 [[Settlement|Back To Settlement]]

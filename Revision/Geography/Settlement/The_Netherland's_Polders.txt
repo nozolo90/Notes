@@ -21,8 +21,8 @@ Over 60% of the Netherlanders/Dutch live on polders now.
 === Cartwheel settlement pattern ===
 * At the center of the town, there is a large town called **Emmelord**. It provides all the services that its residents may need.
 * On the outskirts of the town, there are **smaller villages**. These provide more basic services.
-* The smaller villages are connected to emmelord by radial roads.
-* The smaller villages are connected to each other via a circular road.
+* The smaller villages are connected to Emmelord by **radial roads**.
+* The smaller villages are connected to each other via a **circular road**.
 
 
 --------------------
