@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-24T22:14:54+01:00
+
+====== Location of roads ======
+Created Thursday 24 May 2018
+
+=== Relief and drainage affect the location of roads. ===
+* Roads are built on **well drained landb.**
+* Most roads are built on **flat lowland**. Most people live here and they are easy to build on.
+* Few roads are built on **steep highland**. Few people live here and they are hard to build on.
+* Roads may run through a gap  or valley to get through hills and avoid steep slopes.
+
+--------------------
+[[Maps|Back To Maps]]
+[[Relief and Drainage|To Relief and Drainage]]

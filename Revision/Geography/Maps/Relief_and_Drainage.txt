@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-05-24T21:50:28+01:00
 
-====== Relief ======
+====== Relief and Drainage ======
 Created Thursday 24 May 2018
 
 === Identifying Relief ===
@@ -17,5 +17,17 @@ Created Thursday 24 May 2018
 
 * **Plateau** - A flat upland area with steep sides.
 
+=== Good drainage ===
+* **Settlement**
+* **Little surface water**
+* **Lots of roads**
+
+=== Poor drainage ===
+* **Little settlement**
+* **Lots of surface water.**
+* **Little ammounts of roads.**
+* **Corniferous plantations.**
+
 --------------------
 [[Maps|Back To Maps]]
+[[Location of roads|To Location of roads]]
