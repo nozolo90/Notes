@@ -21,7 +21,7 @@ A pilgrimage is a journey made by a pilgrim to a sacred place
 === Examples ===
 There are 3 types of Christian Pilgrimages.
 __Jesus related__
-* **Holy Land**, The whole of Palestine - see map.
+* **Holy Land**, The whole of Palestine - [[Christianity:Palestine:Map|see map]].
 * **Nazareth**, Where Jesus grew up.
 * **Bethlehem**, Jesus's birth place.
 __Mary related__

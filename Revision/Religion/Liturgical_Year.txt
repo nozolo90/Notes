@@ -9,10 +9,10 @@ The Liturgical year is like the church's seasons.
 
 === Colors used ===
 //During each season on the liturgical year, clergy's vestments and church curtains are decorated with a certain color.//
-* **Purple** is used for Advent and Lent**:** The color represents penance and fasting
-* **Red** during Pentecost**:** the color stands for goodness and strength
-* **Green** is used for Ordinary Time**:** the color stands for growth and hope
-* **White/Gold** is used for Christmas + Easter**:** the colors represent light and joy
+* **Purple** is used for Advent and Lent** ->** The color represents penance and fasting
+* **Red** during Pentecost** ->** the color stands for goodness and strength
+* **Green** is used for Ordinary Time **->** the color stands for growth and hope
+* **White/Gold** is used for Christmas and Easter**: ->**the colors represent light and joy
 
 {{../../../Images/Religion/Liturgical_year?width=240}}
 
@@ -20,7 +20,7 @@ The Liturgical year is like the church's seasons.
 === Advent ===
 * Advent is the waiting time for the coming of baby Jesus.
 * The season begins 4 Sundays before Christmas, and ends on Christmas eve.
-* **During Lent**, **Christians prepare for the coming of Jesus** at Christmas by:
+**During Lent**, **Christians prepare for the coming of Jesus** at Christmas by:
 	* Thinking about their lives
 	* Praying and attending mass.
 	* Doing confession.
@@ -31,15 +31,14 @@ The advent wreath is a religious symbol.
 * The circle represents God's never ending love which both have no beginning and no end.
 * The candles all represent Jesus, the light of the world.
 **Colors of the Candles on the wreath**
-* //Purple Candles - //these candles represent the need to prepare for Jesus' coming, and are the first three candles to be lit.
-* //Pink Candle// - these candles represent the joy of being close to Christmas, and are lit one week before the white candle.
-* //White Candle// - this candle represents the birth of Jesus, and is lit on Christmas eve at the easter vigil.
-
+* //Purple Candles - //these candles represent the **need to prepare** for Jesus' coming, and are the first three candles to be lit.
+* //Pink Candle// - these candles represent the **joy of being close to Christmas**, and are lit one week before the white candle.
+* //White Candle// - this candle represents the **birth of Jesus**, and is lit on Christmas eve at the easter vigil.
 
 === Details - Christmas ===
 * Christmas comes from "the mass of Christ's birth", later shortened to "Christ's mass" and now "Christmas"
 __The Incarnation__
-* The Incarnation is the belief that God became human in Jesus Christ.
+* The **Incarnation** is the belief that God became human in Jesus Christ.
 * Christians believe that this is a sign of God's great love for the world, that he sent down his only son for us.
 __The Epiphany__
 * The epiphany is the celebration of the arrival of the 3 wise men aka **the magi**.
