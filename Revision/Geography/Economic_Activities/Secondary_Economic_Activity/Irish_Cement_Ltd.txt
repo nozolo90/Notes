@@ -8,6 +8,12 @@ Created Sunday 22 April 2018
 Irish Cement Limeted is part of a large **MNC **called CRH,
 They are **heavy industry**.
 
+===== Location =====
+
+TODO: add location info
+
+===== System =====
+
 === Inputs ===
 * Limestone quarry nearby
 * Silica - found above the limestone

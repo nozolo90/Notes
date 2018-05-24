@@ -8,9 +8,8 @@ Creation-Date: 2017-08-20T18:12:38+01:00
 Created Sunday 20 August 2017
 
 === There are three types of economic activity ===
-* [[+Primary Economic Activity|Primary Economic Activity]]
-* [[+Secondary Economic Activity|Secondary Economic Activity]]
-* [[+Tertiary Economic Activity|Tertiary Economic Activity]]
-	
+
+
+--------------------
 [[Economic Activities|Back To Economic Activities]]
 

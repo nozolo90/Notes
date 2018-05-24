@@ -10,9 +10,9 @@ Created Sunday 20 August 2017
 study for **Economic Activities**
 
 ==== Contents ====
-* [[+Types Of Economic Activity|Types Of Economic Activity]]
-* [[+Types Of Recourses|Types Of Recourses]]
-
+* [[+Primary Economic Activity|Primary Economic Activity]]
+* [[+Secondary Economic Activity|Secondary Economic Activity]]
+* [[Tertiary Economic Activity]]
 
 --------------------
 [[Geography|Back To Chapters]]

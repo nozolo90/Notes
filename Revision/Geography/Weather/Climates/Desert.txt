@@ -7,7 +7,7 @@ Creation-Date: 2017-12-06T22:03:42+00:00
 
 Created Wednesday 06 December 2017
 
-{{../../../../Images/image_of_sahara_desert.jpeg?height=200}}
+{{../../../../../Images/image_of_sahara_desert.jpeg?width=250}}
 
 ===== Desert Wear =====
 * People in the desert wear light fitting clothes to allow air to **circulate**.
@@ -21,7 +21,7 @@ __Process__
 
 === Causes of desertification ===
 * **Climate change**
- and **Overgrazing**.
+* and **Overgrazing**.
 
 == Climate Change ==
 * Rainfalls have become **unreliable**.
@@ -37,8 +37,7 @@ __Process__
 === Results Of Desertification ===
 * **Thousands have died** as a result of famine. This has had a big impact on **sudan and etheopia**.
 * Many **animals have died** aswell.
-* Millons of **people were forced to migrate** in search for food or aid. Many of them are Still in refugee camps.
-* Many people have moved into urban areas, resulting in the **growth of slums**.
+* Millons of **people were forced to migrate** in search for food or aid. Many of them are Still in refugee camps. Some people have moved into urban areas, resulting in the **growth of slums**.
 * Vast **areas are now infertile**.
 * Livelyhoods of people are threatened, especially in countries like mali.
 

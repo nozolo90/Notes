@@ -7,7 +7,7 @@ Creation-Date: 2017-12-07T19:13:52+00:00
 
 Created Thursday 07 December 2017
 
-{{../../../../Images/boreal_regoin_image.jpeg?height=200}}
+{{../../../../../Images/boreal_regoin_image.jpeg?width=250}}
 
 === Temperature ===
 * **Short summers** with **long days** averaging around **15 degrees celcius (July mean)**.
@@ -20,7 +20,7 @@ Created Thursday 07 December 2017
 * Many boreal regoins are far from the sea and **moist winds dont reach them**.
 
 === Vegetation ===
-* Natural vegetation present.
+**Natural** **vegetation** present - vegetation that has not been altered by mankind.
 * Corniferous **taiga** (**pine, fir**)
 * **Evergreen** conifers.
 * Sweeden practices sustainable logging.

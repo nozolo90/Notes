@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-24T22:58:35+01:00
+
+====== Types Of Recourses ======
+Created Thursday 24 May 2018
+
+TODO: Remove all links to this page

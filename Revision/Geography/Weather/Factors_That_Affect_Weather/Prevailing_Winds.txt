@@ -13,6 +13,7 @@ Created Sunday 03 December 2017
 * In ireland, we have south westerly prevailing winds.
 
 === Development ===
-{{../../../../Images/images.duckduckgo.com.gif?width=350}}
+{{../../../../../Images/images.duckduckgo.com.gif}}
 
+--------------------
 [[Factors That Affect Weather|Back To Factors That Affect Weather]]

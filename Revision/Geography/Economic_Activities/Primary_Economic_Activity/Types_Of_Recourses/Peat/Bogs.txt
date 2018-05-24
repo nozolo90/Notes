@@ -19,8 +19,8 @@ Created Monday 21 August 2017
 
 
 === After bogs have been used up ===
-	[[Types Of Recourses:Wind Energy|Wind Turbines]] are built on some
+	[[Peat:Types Of Recourses:Wind Energy|Wind Turbines]] are built on some
 		Bogs are **flat** and **remote** so they are perfect for wind turbines	
 	some bogs are returned to **wetlands**
 
-[[Peat|Back To Peat]]
+[[Peat:Peat|Back To Peat]]

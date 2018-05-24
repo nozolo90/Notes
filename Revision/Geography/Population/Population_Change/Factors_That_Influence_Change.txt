@@ -6,17 +6,17 @@ Creation-Date: 2018-05-03T23:07:00+01:00
 Created Thursday 03 May 2018
 
 ===== War =====
-* Wars can reduce populations.
+* Wars can directly reduce the population of a country.
 * The cause the death of soilders and civillians. They also separate already married couples.
 * Germany lost **7 million people** in world war 1 and 2. Thousands of Irish died in the war aswell.
 
-===== Food =====
+===== Food supply =====
+* Better food supplies make people **live longer** and **healthier**, leading to population growth.
 * As a countries **economy** **develops**, its **food supplies **usually** improve**.
-* Better food supplies lead to people **living longer** and **healthier** which leads to population growth.
-* **Germany lost** **7 million people** during **ww1** and **2**. Thousands of Irish also died in that war.
+* **Germany** saw great population growth at the begining of the 19th century due to the** agricultural revolution**.
 
 ===== Improved Technology =====
-* Some **technology helps people live longer** so it asssists population growth
+* Some **technology helps people live longer** so it asssists population growth.
 * **Farm** **machinery** increases food production
 * **Medical** **equipment** saves lives, lowering death rates.
 * **Pumps** **and** **water** treatment equipment help provide safe and clean water.
@@ -34,7 +34,7 @@ Created Thursday 03 May 2018
 * In brazil, some people have benifited from improved food, water and medical supplies.
 * This is part of the reason brazil's population has more than trebled in the last 50 years
 
-===== Women's place in the workspace =====
+===== Women's place in society =====
 * When womans enjoy equality with men, they are empowered to make more decisions relating to their lives.
 * As the decision making power of women increases, birth rates generally decline.
 * This is one of the reasons for Germany's very low birth rates. Women and men recieve the same ammount of education and have an option to work outside the home.

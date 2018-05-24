@@ -7,7 +7,7 @@ Creation-Date: 2017-12-06T17:52:10+00:00
 
 Created Wednesday 06 December 2017
 
-{{../../../../Images/image_of_sahara_desert.jpeg?height=200}}
+{{../../../../../Images/image_of_sahara_desert.jpeg?width=250}}
 
 ===== Temperature - Hot all year =====
 * In the day, temperatures range from **30 to 50 degrees celcius**.

@@ -8,11 +8,14 @@ Created Sunday 20 August 2017
 
 **Primary Economic Activity **is when raw materials are obtained from the earth
 
-=== Some Examples ===
-	* [[+Water Supply|Water Supply]]
-	* [[+Fishing|Fishing]]
-	* [[+Oil|Oil]]
-	* [[+Peat|Peat]]
-	* [[+Farming|Farming]]
+[[+Types Of Recourses|Types Of Recourses]]
 
-[[Types Of Economic Activity|Back To Types Of Economic Activity]]
+=== Some Examples ===
+* [[+Water Supply|Water Supply]]
+* [[+Fishing|Fishing]]
+* [[+Oil|Oil]]
+* [[+Peat|Peat]]
+* [[+Farming|Farming]]
+
+--------------------
+[[Economic Activities|Back To Economic Activity]]
