@@ -7,6 +7,8 @@ Created Sunday 27 May 2018
 
 ===== Deciduous woods =====
 
+TODO: add all info from woodwork kopy
+
 ==== oak ====
 
 === — uses ===
@@ -48,3 +50,62 @@ tool handles
 wood laminates
 
 features
+elastic/bendy
+grows with great quickness
+
+beech
+furniture
+
+info
+durable
+
+horse chessnut
+furniture
+bedsets
+info
+
+cherry tree
+
+uses
+hq furniture
+hardwood floors.
+cabinet making.
+
+features
+decorativce peoaces.
+
+sycamore
+violins
+
+info
+easy to work with
+
+corniferous
+scots pine
+uses
+furniture
+scool
+info
+strong
+red deal
+
+douglas fir
+uses
+telephone poles.
+railway sleepers.
+
+features
+resistant to acid attack and decay
+tough and durable.
+
+norway spruce
+
+uses
+chistmas trees
+construction
+timber
+
+features
+easly wowed.
+
+[[Woodwork|Back To Woodwork]]
