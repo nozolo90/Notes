@@ -18,7 +18,7 @@ Created Monday 18 December 2017
 
 === Design Ideas/Solutions ===
 * **Proposed sketches** based on the analysis of the brief carried out that should meet all the requirements.
-* One design idea or element from several ideas can be brought together into the selected solution.
+* Good elements from different ideas can be brought together into the selected solution.
 
 === Sketches and Working Drawings ===
 * **Dimensioned drawings** to include **plan, elevation and end elevation and/or pictorial view** of the proposed artifact and sketches relating to its manufacture.

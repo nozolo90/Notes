@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-27T22:18:53+01:00
+
+====== Woods ======
+Created Sunday 27 May 2018
+
+===== Deciduous woods =====
+
+==== oak ====
+
+=== — uses ===
+* Furniture.
+* Doors.
+* In construction.
+
+=== — info ===
+* Lives for hundreds of years
+* Slow growing.
+* Hard and durable.
+
+==== elm ====
+
+=== — uses ===
+* Outside garden furniture.
+* Woodturning.
+
+=== — features ===
+* Moisture resistant.
+* Resistant to splitting.
+
+==== birch ====
+
+=== — uses ===
+* Plywood.
+
+=== — info ===
+* Pleniful.
+* Grows with speed.
+* Light in color.
+
+==== ash ====
+
+uses
+furniture
+hurleys
+tool handles
+wood laminates
+
+features
