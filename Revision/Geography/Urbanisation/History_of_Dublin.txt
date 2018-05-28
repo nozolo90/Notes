@@ -5,8 +5,6 @@ Creation-Date: 2018-05-14T22:44:48+01:00
 ====== History of Dublin ======
 Created Monday 14 May 2018
 
-TODO: fix spelling
-
 === Vikings settled - E ===
 * Dublin began as a viking settlement on the south of the liffey in the 10th century.
 * Settlement at the mouth of the liffey was ideal because the Vikings could trade here.
@@ -15,8 +13,8 @@ TODO: fix spelling
 === The Normans invade - EA ===
 * In the 12th century, the Normans took control of Dublin.
 * They built defensive walls around it, turning it into a [[History:Middle Ages:Towns|medival town]].
-* (**economic**) Dublin's port function grew as the Normas traded with the english.
-* (**administrative**) Dublin Castle was built so Dublin became the center of English rule in ireland.
+* (**economic**) Dublin's port function grew as the Normas traded with the English.
+* (**administrative**) Dublin Castle was built so Dublin became the center of English rule in Ireland.
 * Narrow streets and stuff killed many.
 
 === Georgian Dublin - EAS ===
@@ -31,12 +29,12 @@ TODO: fix spelling
 * Many wealthy people sold their townhouses to 'slum landlords' who would rent them out to the poor tenants.
 * (**economic**) Dublin port once again became the center for economic activity.
 * (**administrative**) The act of union in 1800 abolished the Irish parliament. This had a bad impact on the city.
-* (**social**) The wealthy peopple moved to seaside suburbs, which became the new centers for dublin's social life.
+* (**social**) The wealthy peopple moved to seaside suburbs, which became the new centers for Dublin's social life.
 
 === 1900 onwards - EAS ===
 * (**economic**) Dublin is Ireland's chief **transport focus** (roads, airports, train), **manufacturing focus** (MNCs like Google & Microsoft), **tourist** and **commercial center — High economic dominance**
-* (**administrative**) Dublins once again became Ireland's center of government after Irish Independance in 1921.
-* (**social**) Dublin is now again attractive for **in migration**. It provides **universities **(UCD, DCU, Trinity), **shops**, **rectrational activities** and **other services**.
+* (**administrative**) Dublin's once again became Ireland's center of government after Irish Independence in 1921.
+* (**social**) Dublin is now again attractive for **in migration**. It provides **universities **(UCD, DCU, Trinity), **shops**, **recreational activities** and **other services**.
 * (**social**) Old inner city slums were cleared and moved out to new suburbs like **Crumlin** and **Ballyfermont**.
 
 
