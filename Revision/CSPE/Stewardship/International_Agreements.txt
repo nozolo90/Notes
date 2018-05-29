@@ -6,12 +6,12 @@ Creation-Date: 2018-05-09T22:13:11+01:00
 Created Wednesday 09 May 2018
 
 === The Kyoto protocol ===
-* The Kyoto protocol was an agreement between countries to reduce their greenhouse gas emissions.
+* The Kyoto protocol was an agreement between countries to **reduce their greenhouse gas emissions**.
 * Ireland signed it in 2002, America has not.
 * This shows that most developed countries are willing to make changes in order to protect the environment.
 
 === The Copenhagen accord ===
-* The Copenhagen accord states that Climate change is an ongoing issue and countries must take efforts t keep temperature increases below 2 degrees Celsius.
+* The Copenhagen accord states that Climate change is an ongoing issue and countries must take efforts **to keep temperature increases below 2 degrees Celsius**.
 * Unfortunately, the agreement is not legally binding.
 
 === The EU change campaign ===

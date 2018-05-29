@@ -5,4 +5,25 @@ Creation-Date: 2018-05-10T23:40:45+01:00
 ====== The Dail ======
 Created Thursday 10 May 2018
 
+A coalition government is when many parties join to create a partnership.
+We have a coalition government today.
+
+=== TDs ===
+//A TD is a link between the people and the government//
+* TDs pass new laws.
+* TDs meet people who want support for an issue.
+* TDs keep in touch with the people in their constituency.
+* TDs speak on tv and to the mass media.
+
+=== Taoiseach - Leo Vradkar rn ===
+//The taoiseach is the leader of the largest party in the Dail.//
+* They select time for a general election.
+* They meet with other EU leaders.
+* They select 11 senators for the senate.
+* They choose ministers to run the different departments of the government.
+.
+the tanaiste is the secondary taoiseach
+the cabinet is the ministers, tanaiste and the taoiseah.
+
+--------------------
 [[Our Government|Back To Our Government]]

@@ -14,7 +14,7 @@ Created Wednesday 09 May 2018
 * **Do not use gas cookers.**
 
 === To reduce secondary footprints... ===
-//Secondary footprints are the greenhouse gases that our actions indirectly produce//
+//Secondary footprints are the greenhouse gases that we produce indirectly//
 * **Buy locally produced food.**
 * **Buy locally woven clothes.**
 * **Buy locally sourced water.**
@@ -23,7 +23,6 @@ Created Wednesday 09 May 2018
 * **Do I use energy efficient light bulbs?**
 * **Do I reuse bags?**
 * **Do I use recycled paper?**
-* **Do I use too much packaging?**
 * **Do I divide my waste into their respective bins?**
 
 --------------------
