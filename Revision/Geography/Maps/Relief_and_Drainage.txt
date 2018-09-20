@@ -17,12 +17,12 @@ Created Thursday 24 May 2018
 
 * **Plateau** - A flat upland area with steep sides.
 
-=== Good drainage ===
+=== To find Good drainage ===
 * **Settlement**
 * **Little surface water**
 * **Lots of roads**
 
-=== Poor drainage ===
+=== To find Poor drainage ===
 * **Little settlement**
 * **Lots of surface water.**
 * **Little ammounts of roads.**
