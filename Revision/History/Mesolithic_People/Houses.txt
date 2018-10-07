@@ -12,7 +12,7 @@ they placed sticks in a circle and bent them into a center point
 they then covered this dome shape with animal skins or sods of earth.
 
 === It looks like this ===
-{{~/Pictures/MesolithicHome.png}}
+{{../../Images/MesolithicHome.png}}
 
 Archaeologists found [[+Post Holes|Post Holes]] at [[Mount Sandel]] which means that **Houses were built there**
 

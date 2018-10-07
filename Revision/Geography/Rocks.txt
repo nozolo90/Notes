@@ -7,7 +7,7 @@ Creation-Date: 2017-08-19T23:00:02+01:00
 
 Created Saturday 19 August 2017
 
-{{../../Images/Geography/boring_rock.jpeg?height=220}}
+{{../../../Images/Geography/boring_rock.jpeg?width=200}}
 
 Study for **Rocks**
 
