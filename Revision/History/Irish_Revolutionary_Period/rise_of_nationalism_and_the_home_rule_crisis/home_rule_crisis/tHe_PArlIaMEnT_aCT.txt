@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-07T17:32:18+00:00
+
+====== tHe PArlIaMEnT aCT ======
+Created Sunday 07 October 2018
+
+===== PARLIAMENT ACT 1911 =====
+
+THIS ACT STATES THAT AFTER A BILL HAS BEEN VETOED TWICE IT MUST BECOME LAW ON THE THIRD SUBMITION.
+
+_{one}
+--------------------
+^{two}
+--------------------
+^{three}
+--------------------
+[[home rule crisis|take me back home]]
