@@ -6,3 +6,35 @@ Creation-Date: 2018-10-09T21:26:08+00:00
 Created Tuesday 09 October 2018
 
 ===== Glacial Movement =====
+
+=== Basal Slip < 50m ===
+* Bottom melts.
+
+=== Plastic flow > 50m ===
+* Top melts.
+
+===== Glacial Deposition =====
+
+=== Moraines ===
+* Ridges of regolish.
+
+=== Those sand dunes but they're rocks ===
+
+=== Erratics ===
+* Rocks transported into unusual territory.
+
+===== Glacial Erosion =====
+
+=== Plucking and Abrasion ===
+* Freezw thaw and the usuall abrasion.
+
+===== Glacial Landforms =====
+cirques/corries
+pyramid peaks
+Aretes
+Glaciated valleys/ U shaped valleys
+Truncated spurs
+Fjords
+Hanging valleys.
+
+[[Geography|Back To Geography]]
