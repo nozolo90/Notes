@@ -7,9 +7,26 @@ Creation-Date: 2017-08-22T13:37:08+01:00
 
 Created Tuesday 22 August 2017
 
+Rome began as a small group of villages in **750BC**
+Over time the villages grew and grew
+
+=== Kingdom Phase ===
+* from **460BC** to **510BC **Rome was a __kingdom__ ruled by a king.
+* The people couldn't vote.
+
+=== Republic Phase ===
+* The people were not happy and in **510BC **there was a revolution which led to the creation of the __Republic__.
+* People could vote on the **senate**
+* the **senate** voted on two **consuls **who would rule Rome.
+
+=== Empire Phase ===
+* When Rome began conquering land, it became an **Empire**(a country that controls many land).
+* **Governors **ruled provences, roman countries.
+* An **Emperor **ruled Rome (**Nero, Caligula, Hadrian, Augustus Ceaser**).
+
+Rome controlled most of the land around the **Mediterranean**
+
 ==== Contents ====
-* [[+Begining Of Rome|Begining Of Rome]]
-* [[+Who Ruled Rome|Who Ruled Rome]]
 * [[+How We Learned About The Romans|How We Learned About The Romans]]
 * [[+Roman Citizens|Roman Citizens]]
 * [[+Roman People|Roman People]]
