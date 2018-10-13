@@ -8,11 +8,11 @@ Creation-Date: 2017-08-22T16:31:36+01:00
 Created Tuesday 22 August 2017
 
 === Romans believed in many gods ===
-	**Jupiter** - most important god
-	**Venus** - Goddess of love
-	**Mars** - God of war
-	**Pluto** - God of the dead
-	**Neptune** - god of the sea
+* **Jupiter** - most **important** god
+* **Venus** - Goddess of **love**
+* **Mars** - God of **war**
+* **Pluto** - God of the **dead**
+* **Neptune** - god of the **sea**
 
 People would **pray** to **different** **gods** depending  on what they **wanted**
 

@@ -12,17 +12,17 @@ Created Tuesday 22 August 2017
 	[[+Auxillia|Auxillia]]
 
 === Army Structure ===
-	the army was divided into **legions**, which were groups of **5000** solders.
-	The whole roman empire had around 30 of them
+the army was divided into **legions**, which were groups of **5000** solders.
+The whole roman empire had around 30 of them.
 
 === Solders equipment ===
-	**Helmet**
-	**Body armour**
-	**Belt** showing position in army
-	**shield** with legions design
-	**Dagger** for hand to hand combat
-	**Javelin**
-	**Short sword**
-	**Sandals**
+* **Helmet**
+* **Body armour**
+* **Belt** showing position in army
+* **shield** with legions design
+* **Dagger** for hand to hand combat
+* **Javelin**
+* **Short sword**
+* **Sandals**
 
 [[Rome|Back To Rome]]
