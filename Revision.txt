@@ -19,5 +19,5 @@ Created Friday 18 August 2017
 * [[+Woodwork|Woodwork]]
 * [[+Maths|Maths]]
 
-{{../Images/icon.png}}
+-{{../Images/TheDocument.png?width=310}}{{../Images/icon.png?width=126}}
 --------------------

@@ -8,33 +8,42 @@ Created Tuesday 09 October 2018
 ===== Glacial Movement =====
 
 === Basal Slip < 50m ===
-* Bottom melts.
+The bottom of the glacier is not under much pressure, so it melts.
+This acts as a buffer between the frozen ground and the glacier, allowing the glacier to move along.
 
 === Plastic flow > 50m ===
-* Top melts.
+The top of the glacier is not under as much pressure as the bottom of the glacier, so it melts.
+This acts as an overhang pulling glacier forwards in an uneven motion.
 
 ===== Glacial Deposition =====
 
 === Moraines ===
-* Ridges of regolish.
+Moraines are the names given to the material that is carried along by the glacier.
+There ridges of regolith on the **sides** of a glésír are called **lateral moraines**.
+* They are made up of regolith that fell down from the surround‌ing sides of the glacier.
+The ridges in the **middle** of the glacier are called **medial morraines**.
+* They formed when two glaciers melt and their **two lateral moraines joined together**.
+When the glacier melted these moraines were deposited on the glacier valley.
 
-=== Those sand dunes but they're rocks ===
+=== Those sand dunes but they're rocks - drumlins? ===
+Drumlins
 
 === Erratics ===
-* Rocks transported into unusual territory.
+Rocks transported into unusual territory.
 
 ===== Glacial Erosion =====
 
 === Plucking and Abrasion ===
-* Freezw thaw and the usuall abrasion.
+Freezw thaw and the usuall abrasion.
+Plucking too.
 
 ===== Glacial Landforms =====
-cirques/corries
-pyramid peaks
-Aretes
-Glaciated valleys/ U shaped valleys
-Truncated spurs
-Fjords
-Hanging valleys.
+**cirques/corries** - A three walled basin shaped hollow formed when ice moved down the side of a mountain.
+**pyramid peaks** - A pointy peak shaped landform made when 3 or more cirques formed next to each other.
+**Aretes** - Steep ridges that formed when two cirques formed next to each other.
+**Glaciated valleys/ U shaped valleys** - Valleys with a wide flat base and steep sides.
+**Truncated spurs** - Interlocking spurs with their pointy part eroded by a moving glacier.
+**Fjords** - drowned glaciated valleys
+**Hanging valleys** - Tributary valleys that are high above the main glaciated valley.
 
 [[Geography|Back To Geography]]
