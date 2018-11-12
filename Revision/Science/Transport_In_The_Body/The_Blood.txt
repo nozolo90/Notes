@@ -7,27 +7,27 @@ Creation-Date: 2017-12-08T20:17:55+00:00
 Created Friday 08 December 2017
 
 === Plasma ===
-* Plasma is a pale yellow liquid, mostly comprised of water.
-* It transports dissolved materials around the body.
-* It transports goods like food and oxygen, and wastes like CO_{2}.
-* Plasma also transports heat through the body.
+* Plasma is a **pale yellow liquid**, **mostly** comprised of **water**.
+* It **transports dissolved materials** around the body.
+* It transports **goods** like **food** and **oxygen**, and **wastes** like **CO2**.
+* **Plasma** also **transports heat** through the body.
 __Heat__
-* When it is cold, plasma moves to the core to keep the heat insulated by the outer body.
-* When it is hot, plasma moves to the outer limbs to cool off.
+* **When** it is **cold**, **plasma moves** to the **core** **to keep** the **heat** insulated by the outer body.
+* **When** it is **hot**, **plasma moves** to the **outer limbs** **to cool** off.
 
 === White Blood Cells ===
-* White blood cells are made in bone marrow.
-* They fight infection.
-* Some white blood cells surround micro-organism and kill them.
-* Some white blood cells produce protiens called antibodies that kill micro-organisms.
+* **White blood** cells are **made in bone marrow**.
+* They **fight infection**.
+* Some **white blood** cells **surround micro-organisms** and **kill them**.
+* Some **white blood** cells **produce** protiens called **antibodies** that **kill micro-organisms**.
 
 === Red Blood Cells ===
-* Red blood cells are made in bone marrow, located in the center of bones.
-* Red blood cells contain haemoglobin. This red colored pigment allows them to hold oxygen.
+* **Red blood cells** are **made in bone marrow**, located in the center of bones.
+* **Red blood cells** contain **haemoglobin**. This red colored pigment **allows them** to **hold oxygen**.
 
 === Platlets ===
-* Platelets are the broken down peices of human cells.
-* They help form blood clots.
+* **Platelets are** the **broken down** peices of **human cells**.
+* They help **form blood clots**.
 
 
 --------------------

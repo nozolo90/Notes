@@ -15,9 +15,9 @@ Created Friday 18 August 2017
 * they reduce the power of the waves.
 
 ==== Sea Walls ====
-* These are **concrete** **walls** **with a curve** at the top of them.
-* They help to **deflect** waves.
-* They can be destroyed in **severe storms**.
+* These are **concrete walls with** a **curve** at the top of them.
+* They help to **deflect waves**.
+* They can be **destroyed** in **severe storms**.
 
 ==== Boulders ====
 * In this method, large boulders placed along the coast to weaken the strength of the waves before they hit the town.

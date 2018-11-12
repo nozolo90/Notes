@@ -11,7 +11,7 @@ Created Sunday 10 September 2017
 
 === Belief - Shahadah ===
 * Muslims believe in one god, Allah.
-* There is no god but Allah and Mohamed is the prophet of Allah.
+* "//There is no god but Allah and Mohamed is the prophet of Allah"// is their creed.
 * This is the creed, a sumarry of a religions mos deeply held beliefs.
 
 === Prayer - Salat ===
@@ -19,7 +19,7 @@ Created Sunday 10 September 2017
 * on Friday they play in the **mosque**.
 
 === Charity - Zakat ===
-* Give **2.5%** of their savings to help those in need.
+* Muslims give **2.5%** of their savings to help those in need.
 
 === Fasting - Sawm ===
 * Muslims must fast from **sunrise** to **sunset** during the month of **Ramadan**.
@@ -29,5 +29,7 @@ Created Sunday 10 September 2017
 === Pilgrimage - Hajj ===
 * Muslims must make at least one journey to the Ka'ba in their life time.
 * The ka'ba is in mecca, the birthplace of Mohamed and it is the most **sacred** **shrine** **of** I**slam**.
-	
+
+
+--------------------
 [[Islam|Back To Islam]]

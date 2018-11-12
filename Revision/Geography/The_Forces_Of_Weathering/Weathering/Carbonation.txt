@@ -8,10 +8,10 @@ Creation-Date: 2017-11-27T18:22:20+00:00
 Created Monday 27 November 2017
 
 === Statement ===
-* **Carbonation** is when **carbonated** **rain** ( a weak **carbonic acid** ) reacts with the **calcium carbonate** ( [[Geography:Rocks:Types Of Rock:Sedimentary:Limestone|Limestone]] )
+* **Carbonation** is when **carbonated rain** ( a weak **carbonic acid** ) reacts with the **calcium carbonate** ( [[Geography:Rocks:Types Of Rock:Sedimentary:Limestone|Limestone]] )
 
 === Development ===
-* Rainwater absorbs **co2** **from** **the atmosphere**, turning it into a weak **carbonic acid.**
-* This **acid** **reacts** with **calcium carbonate** ( limestone ) and **disolves it**
+* Rainwater aborbs **co2 from the atmosphere**, turning it isnto a weak **carbonic acid.**
+* This **acid reacts** with **calcium carbonate** ( limestone ) and **disolves it**
 
 [[Weathering|Back To Weathering]]

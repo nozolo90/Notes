@@ -1,0 +1,68 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-12T08:28:09+01:00
+
+====== Research cba2 ======
+Created Monday 12 November 
+
+=== Overview ===
+
+http://www.epa.ie/climate/communicatingclimatescience/whatisclimatechange/ghg/ - 9 / 11 / 18
+- Ireland ads 160 thousand tonnes to the atmosphere ever year.
+
+"20% reduction on 2005 emissions levels by 2020"
+&
+"16% of final energy use (all sectors) must be sources from renewables"
+-https://www.seai.ie/about/irelands-energy-targets/
+
+"Solar PV technology has seen a significant reduction in the cost of the underlying technology over the last decade, primarily driven by global government support tariffs for solar derived electrical energy.  There is continued speculation that technology costs will fall further in the coming years as well as the possible future increase in solar panel efficiencies."
+ - 11 / 11 / 18 - https://www.bordnamona.ie/journey/developing-businesses/solar-energy/
+
+"We typically think that when the sun is not out, there  wouldn't be much solar energy,  however, this is not the case. Cloudy  days  have  very good visible light levels and the resource is substantial." - http://irishsolarenergy.org/news-docs/Solar-PV-Factsheet-21.10.2015.pdf
+
+"Solar panels which produce electricity are referred to in the
+ industry as ‘solar photovoltaic (PV) modules.’ These are panels
+ made from materials which generate DC electricity when exposed to light."
+- https://www.seai.ie/resources/publications/FAQs_on_Solar_PV.pdf - 11 / 9 / 18
+
+But they are not very viable
+"It estimates a typical Irish solar farm of that size could make
+ a net profit of a little over €500,000 a year. However, it assumes
+ that the farm is selling its electricity at a price of 15c/kWh (cents
+ per kilowatt hour) – which is around three times the current wholesale price for power.
+
+Those numbers mean that, as it stands, the farms need to be subsidised if they are going to make their owners any money."
+- https://www.thejournal.ie/solar-power-ireland-2-2802799-Jun2016/ - 11 / 9 / 18
+
+"Wind turbines generate energy 85% of the time"
+- https://esb.ie/our-businesses/generation-energy-trading-new/wind-energy/wind-energy-frequently-asked-questions#ep-ba096438-3a47-49e9-9e1c-7b425745d856
+
+"wind capacity has increased to 2,851 MW across the island of Ireland" - https://www.dccae.gov.ie/en-ie/energy/topics/Renewable-Energy/electricity/onshore/Pages/Wind-Onshore-Landing-Page.aspx
+
+**Research question** - what is Ireland doing to ensure clean energy
+
+=== Issues/Questions ===
+* Are we doing enough?
+* What should we do next?
+* What sources are viable in Ireland?
+
+=== Objective ===
+* Dislplay what our energy sources are.
+* Display which energy sources are on the rise and why.
+* Explain relevant technologies
+
+=== Nuclear ===
+
+Research question - should we have a nuclear power plant in Ireland
+
+=== Issues/Questions ===
+* Is it safe?
+* Where should we put it?
+* Is it viable?
+
+=== Objective ===
+* Show that it is safe / unsafe.
+* Address issues that people have with nuclear power.
+* Reference existing nuclear power plants.
+
+==== Research ====
