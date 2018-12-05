@@ -5,6 +5,17 @@ Creation-Date: 2018-05-14T20:19:14+01:00
 ====== Reproduction ======
 Created Monday 14 May 2018
 
+Gametes are sex cells. They combine & fertilize to form a zygote.
+
+=== Females ===
+Eggs are the female gamete.
+They are made in the ovaries.
+
+=== Males ===
+Sperm is the male gamete.
+It is made in the testes.
+
+===== Passing on characteristics =====
 
 === Genes ===
 * **Dominant** - genes that stop the recessive genes from functioning
@@ -16,7 +27,7 @@ Created Monday 14 May 2018
 * When cells are in the process of splitting, DNA becomes short and thick and visible to electron microscopes.
 * (**Deoxyribo Nucleic Acid**)
 
-===== Types Of Reproduction =====
+=== Types Of Reproduction ===
 * [[+Asexual Reproduction|Asexual Reproduction]] (involving 1 parent)
 * [[+Sexual Reproduction|Sexual Reproduction]](involving 2 parents)
 

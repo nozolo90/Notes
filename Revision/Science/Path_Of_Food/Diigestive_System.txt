@@ -28,7 +28,7 @@ Created Friday 08 December 2017
 
 === Liver & Pancreas ===
 * The liver produces bile to help the small intestine digest food.
-* The pancreas produces many enzymes that are passed to the small intestine to help digestion.
+* The pancreas produces many enzymes that are passed to the small intestine to help digestion including insulin.
 
 === Large intestine ===
 * The large intestine **re-absorbs water** from food.

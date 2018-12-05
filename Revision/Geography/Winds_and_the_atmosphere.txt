@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-04T10:35:32+01:00
+
+====== Winds and the atmosphere ======
+Created Tuesday 04 December 2018
+
+=== Greenhouse effect ===
+* **Short wave energy** from the sun can enter the atmosphere **no problemo**, heating up the earth.
+* The earth reflects **long wave energy**. This long wave energy can not escape the atmosphere through GHGHs so easily, so some of this energy is **trapped** in the atmosphere.
+
+=== Global warming ===
+* This is when GHGs in the atmosphere trap heat on earth and raise the temperature.
+The causes include
+* Burning of fossil fuels.
+* Trees being cut down.
+* Household wastes.
+
+=== Bad effects ===
+* Global warming will result in **rising sea levels**. As the temperature gets warmer, polar ice caps melt, releasing massive ammounts of frozen water into the worlds seas and oceans. Coastal towns could be flooded and land will be destroyed.
+* Global warming will cause **extreme drought and dessertification**. As the temperature of the world gets hotter, there will be even less condensation or precipitation in the already dry regoins including the sahel regoin in Africa. This will result in farmland being destroyed and vast amounts of people needing to migrate.
+
+=== Warm and cold winds ===
+* Warm winds. Come from relitavely **warmer places** than their destination.
+* Cold winds. Come from relitavely **colder places** than their destination.
+
+=== Coriolis force ===
+* The coriolis force is the force generated from the world spinning from west to east on its axis.
+* This makes winds **slanted**.
+* Winds in the northern hemisphere move east(for us) and winds in the southern hemisphere slant west.
+
+=== Causes of ocean currents ===
+* Unequal heating of the ocean. There are convection currents in the ocean.
+* The coriolis force. Ocean currents are slanted.
+* Prevailling winds. These winds pull ocean currents along their merry way.
+
+=== Effects of warm ocean currents ===
+* Heat the waters to which they flow. Ireland is warmed 8C by the north atlantic drift.
+* Heat the coasts of the places they flow to by warming prevailing winds that blow onto a country. They also give milder winters.
+* Keep harbours free of ice.
+
+=== Effects of cold ocean currents ===

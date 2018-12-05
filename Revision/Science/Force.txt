@@ -6,9 +6,12 @@ Creation-Date: 2018-05-21T22:50:16+01:00
 Created Monday 21 May 2018
 
 **Force** is measured in **newtons**.
-**Work** is measured in **joules**. It is force times distance.
-**Power** is measured in **watts**. It is work over time.
-**Pressure** is measured in **pascals**. It is force over area.
 **The moment of a force **is how much spinning motion it causes.
 
+**Work** is measured in **joules**. It N * D.
+**Power** is measured in **watts**. It is J / T.
+**Pressure** is measured in **pascals**. It is N / A.
+
+
+--------------------
 [[Science|Back To Science]]

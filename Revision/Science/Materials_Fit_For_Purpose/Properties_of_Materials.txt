@@ -5,14 +5,13 @@ Creation-Date: 2018-05-03T23:44:45+01:00
 ====== Properties of Materials ======
 Created Thursday 03 May 2018
 
-
 === Strength ===
 * Strength is how good a material is at **resisting** **force**.
-* Strong materials require alot of energy to permanently change their strength.
+* Strong materials require alot of energy to permanently change their shape.
 __Tensile Strength__
-* How a material can resist a **pulling** **force**. -> elastic bands need this.
+* How a material can resist a **pulling** **force** -> elastic bands need this.
 __Compressive Strength __
-* How a material can resist a pushing/**compressing** **force**. -> bricks need this.
+* How a material can resist a pushing/**compressing** **force** -> bricks need this.
 
 === Stiffness ===
 * This is how the material will **warp** or **bend** when force is applied.
