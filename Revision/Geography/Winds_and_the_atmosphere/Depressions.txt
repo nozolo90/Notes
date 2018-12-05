@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-06T00:35:55+01:00
+
+====== Depressions ======
+Created Thursday 06 December 2018
+
+=== Depression ===
+* They are large low pressure air masses that are typically oval in shape.
+* They are commonly found in mid-lattitude pareas.
+* Depressions form when warm air masses move over cold air masses, setting up an area of low pressure.
+
+=== Weather in general ===
+There are **strong winds**. This can be extrapolated from the isobars that appear to be close together. Winds blow towards the low pressure center of the depression.
+There is **much cloud**. Air in the low pressure center of the depression rises. As the air rises and cools, the water vapour condenses, forming clouds.
+There is a good bit of **precipitation**. Condensation results in precipitaion. Frontal rain is common in depressions.
+
+=== Weather in different places ===
+
+== As the warm front approaches ==
+* It is **cool**.
+* Warm air rises over cool air resulting in **stratus clouds** and **frontal rainfall**.
+* The **winds** get **stronger**.
+* **Air pressure falls**.
+
+== In a warm sector ==
+* **It is warmer**.
+* There are **stratus clouds from the warm front** and **light rain**.
+* The **winds slow **down.
+* Air **pressure is steady**?
+
+== As the cold front passes ==
+* It gets **cooler**.
+* Cumulous **cloud forms** for some odd reason.
+* There are **shortlived showers**.
+* **Air pressure rises**.
+
+{{../../../../Images/depression.png}}
+
+=== Composition ===
+* A **sector of warm, light air** and a **sector of colder, heavier air**.
+* A warm front where the air from the warm sector slowly rises over the cold air. Frontal rainfall occurs here.
+* A cold front where cold air moves under warm air and makes it rise. More frontal rainfall occurs here.
+
+[[Winds and the atmosphere|Back to Winds and the atmosphere]]

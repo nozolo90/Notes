@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-05T23:55:14+01:00
+
+====== Ocean Currents ======
+Created Wednesday 05 December 2018
+
+=== Causes of ocean currents ===
+* Unequal heating of the ocean. There are convection currents in the ocean.
+* The coriolis force. Ocean currents are slanted.
+* Prevailling winds. These winds pull ocean currents along their merry way.
+
+=== Effects of warm ocean currents ===
+* Warm the waters to which they flow. Ireland is cooked 8C by the north atlantic drift.
+* heat the warming prevailing winds that blow onto a country. They also give milder winters.
+* Keep harbours free of ice.
+
+=== Effects of cold ocean currents ===
+* Cool the waters to which they flow. The **labrador current** **cools** the east coast of **Canada**.
+* They lower wind temperatures of nearby lands.
+* They increase the chances of frozen water blocklettes developing in the higher latitudes.
+
+[[Winds and the atmosphere|Back to Winds and the atmosphere]]

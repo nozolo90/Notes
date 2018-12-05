@@ -29,14 +29,17 @@ The causes include
 * This makes winds **slanted**.
 * Winds in the northern hemisphere move east(for us) and winds in the southern hemisphere slant west.
 
-=== Causes of ocean currents ===
-* Unequal heating of the ocean. There are convection currents in the ocean.
-* The coriolis force. Ocean currents are slanted.
-* Prevailling winds. These winds pull ocean currents along their merry way.
+[[+Ocean Currents|Ocean Currents]]
+[[+Depressions|Depressions]]
 
-=== Effects of warm ocean currents ===
-* Heat the waters to which they flow. Ireland is warmed 8C by the north atlantic drift.
-* Heat the coasts of the places they flow to by warming prevailing winds that blow onto a country. They also give milder winters.
-* Keep harbours free of ice.
+=== Anticyclone ===
+* Large high pressure air masses that are typically ovular in shape.
+* They are also commonly found in mid-lattitude placareas.
 
-=== Effects of cold ocean currents ===
+=== Weather in an anticyclone ===
+The winds are **weak**. This can be seen as the isobars appear far apart. Winds blow away  from the high pressure center to areas of lower pressure.
+There is **barely** any **clouds**. Warm air falls and is able to hold more moisture, so it continues to absorb instead of resorting to condensation.
+The **wearther is dry**. Skies are clear because there is no precipitation.
+
+--------------------
+[[Geography|Back To Geography]]
