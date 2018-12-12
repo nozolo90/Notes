@@ -5,7 +5,7 @@ Creation-Date: 2017-11-28T18:54:10+00:00
 ====== Martin Luther Essay ======
 Created Tuesday 28 November 2017
 
-{{../../Images/martin_luther_reformation_img.jpg?width=200}}
+{{../../../Images/martin_luther_reformation_img.jpg?height=200}}
 
 == 1. Who was he ==
 2. Martin Luther was a **german monk **born in Eisbien, Saxony in Germany in **1483**. He was raised by a rich family and his father wanted him to study law.
