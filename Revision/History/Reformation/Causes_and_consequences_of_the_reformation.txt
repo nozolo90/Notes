@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-04T22:51:38+01:00
+
+====== Causes and consequences of the reformation ======
+Created Monday 04 February 2019
+
+==== Causes ====
+* Abuses.
+* Wealth of the church.
+* Vernacular bible.
+* Indulgences.
+* Unholy popes.
+
+=== Consequences ===
+* Protestant churches formed.
