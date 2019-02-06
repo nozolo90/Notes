@@ -7,8 +7,5 @@ Creation-Date: 2017-08-21T23:32:21+01:00
 
 Created Monday 21 August 2017
 
-The **Round** **tower** was a building in the **monastary** used as a **bell** **tower**,
-a place for monks to look out for enemies and
-a **hiding** **place** for the [[Monks]] and **their** **valuables** if they were to be attacked.
 
 [[Monastaries|Back To Monastaries]]

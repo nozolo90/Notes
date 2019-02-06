@@ -6,10 +6,9 @@ Creation-Date: 2017-08-21T23:10:41+01:00
 
 Created Monday 21 August 2017
 
-**Crannogs** are forts built on **man-made** **islands** in a **river** or **lake**.
-
-They were built there because it made them **harder to attack**.
-
-**Cattle** was brought inside them at night
+=== What were they ===
+* **Crannogs** are forts built on **man-made** **islands** in a **river** or **lake**.
+* They were built there because it made them **harder to attack**.
+* **Cattle** was brought inside them at night
 
 [[Forts|Back To Forts]]

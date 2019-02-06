@@ -8,10 +8,11 @@ Creation-Date: 2017-08-21T23:36:01+01:00
 Created Monday 21 August 2017
 
 A **monk** is a person who goes to live in a **monastary** to be closer to god
+They were self sufficient and farmed their own food.
 
 === When you become a monk ===
-	You cant marry
-	You must obey god
-	You must eat in silence
-	
+* You cant marry
+* You must obey god
+* You must eat in silence
+
 [[Monastaries|Back To Monastaries]]
