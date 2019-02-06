@@ -5,8 +5,38 @@ Creation-Date: 2018-05-14T19:53:28+01:00
 ====== Industrial Revolution Worker ======
 Created Monday 14 May 2018
 
+=== Intro ===
+I am a worker in a textile factory in Manchester in the year 1850. My working conditions are terrible.
 
+=== Factory working conditions ===
+I recieve terrible wages even though I work for over 14 hours each day.
+The factory is hot and stuffy and we are not allowed to open the windows.
+My little siblings also work at this factory. They earn a fraction of my pay and are treated badly too.
+They are only children but they must work long hours like me. If they get tired, they are dipped in water.
+They are used to crawl into machines when things get stuck and could easily lose an air.
+On Saturdays, we get half day. We have a poor diet.
+
+=== Living conditions ===
+We live in overcrowded tenement houses.
+There is no pumps or toilet facilities.
+Most of the roofs leak and we sleep on straw.
+Diseases like Typhoid and TB spread easilly.
+
+=== How it is improving ===
+I have heard of a man called Robert Owen who treats his workers much better.
+Certain polititians like Lord Shaftsbury are campagning for change aswell.
+The government has made reports on conditions called the blue books.
+//And//
+Some slums are being demolished.
+People are being vaccinated
+//And//
+People are starting to organise a sport called football on saturday afternoons.
+We also do boxing and cock fighting.
+The steam engine in trains has allowed some people to go to the beach on sundays.
+Good for them.
 --------------------
 [[History|Back To History]]
 
 @HistoryEssay
+
+TODO: move newly mentioned things here to actual Ind.REv page

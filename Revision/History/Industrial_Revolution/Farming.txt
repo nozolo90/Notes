@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-06T23:16:06+01:00
+
+====== Farming ======
+Created Wednesday 06 February 2019
+
+==== Farming changes ====
+
+=== Medival system - Norfolk crop system ===
+In the medival system, crops were grown on some fields and then one or two of the rest were left fallowm to gain fertility.
+In the new system crops were grown on all fields, but turnips and grass were used to bring life back to the soil.
+
+=== Enclosure ===
+
+=== Better breeding - Robert bakewell ===
+
+=== Random seed placing to seed drill ===
+
+[[Industrial Revolution|Back To Industrial Revolution]]

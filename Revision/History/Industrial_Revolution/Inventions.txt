@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-06T23:23:58+01:00
+
+====== Inventions ======
+Created Wednesday 06 February 2019
+
+=== Cotton Gin by Eil Whitney ===
+* This invention automated the process of separating cotton fibres from the Gin.
+
+=== James Watt made the watt steam Engine ===
+* This was a much more efficient engine than the newcomen engine used at the time.
+
+=== James hargreaves made the spinning jenny ===
+* allowed one peoson to do the job of weaving more efficiently.
+
+=== McAdam roads ===
+* Rocks used to improve strength.
+* Curved roads to act as drainage.
+
+[[Industrial Revolution|Back To Industrial Revolution]]
