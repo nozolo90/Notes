@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-21T16:04:25+01:00
+
+====== Super Trawlers ======
+
+
+Created Monday 21 August 2017
+
+**Super Trawlers** are massive fish catching boats that can catch thousands of fish at a time
+
+=== How they do it ===
+* They go out together so their impact is multiplied
+
+=== Storage ===
+* Large Cold stores can store up to 6,000 tons of fish.
+* They are called holds
+
+=== Modern Technology ===
+* Sonars allow super trawlers to detect large groups of fish called schools.
+
+== Huge Nets ==
+//Super Trawlers have massive nets that can catch hundreds of tones of fish at a time//
+* **Long line** nets are long lines of rope with hooks attached to them
+* **Drift nets** are horrifyingly huge nets that are submerged underwater then brought back up like a spoon in cereal
+* **Trawler nets** are bag like nets that are dragged behind a super trawler to catch lots of fish
+
+	
+[[Fish|Back Yo Overfishing]]
+

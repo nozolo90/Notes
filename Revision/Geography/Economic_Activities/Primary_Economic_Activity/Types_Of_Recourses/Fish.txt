@@ -9,24 +9,26 @@ Created Monday 21 August 2017
 
 Fish are a renewable resource
 
-=== How fish supply is abused ===
-	[[+Overfishing|Overfishing]]
-		[[+Overfishing:Super Trawlers|Super Trawlers]]
-		[[+Overfishing:Illegal Fishing|Illegal Fishing]]
+=== Overfishing and fish supply abuse ===
+**Over fishing** is when we catch too much fish
+When we **over fish**, the fish cant reproduce fast enough
+we end up catching more fish than are being born so the fish supply depletes
 
+== Why over fishing happens ==
+* [[+Super Trawlers|Super Trawlers]]
+* [[+Illegal Fishing|Illegal Fishing]]
 
 === How we can conserve fish ===
-	Monitor illegal fishing
-	Smaller fishing ships
-	Reduce amount of trawlers going out at once
-
+* Monitor illegal fishing
+* Smaller fishing ships
+* Reduce amount of trawlers going out at once
 
 === How fish are being conserved ===
-	Irish navy are monitoring illegal fishing
-	Eu sets a maximum amount of fish that can be caught
-	Amount of trawlers going out has decreased
-	Endangered fish species are being protected like cod
-	Ireland has places that other countries cant fish
+* Irish navy are monitoring illegal fishing
+* Eu sets a maximum amount of fish that can be caught
+* Amount of trawlers going out has decreased
+* Endangered fish species are being protected like cod
+* Ireland has places that other countries cant fish
 
 When we conserve fish, we call it **sustainable** **fishing**
 

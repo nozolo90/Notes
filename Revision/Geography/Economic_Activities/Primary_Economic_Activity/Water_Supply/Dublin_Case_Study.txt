@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-11T00:29:00+01:00
+
+====== Dublin Case Study ======
+Created Monday 11 February 2019
+
+**Dublin's **water supply comes from the Wicklow mountains
+
+== Why? ==
+It has a **low population density** so there's less pollution
+The Bedrock is made of [[Geography:Rocks:Types Of Rock:Igneous:Granite|Granite]], a non permeable rock so **water wont drain into the soil**
+high rainfall
+
+
+=== Water Supply Process In Dublin ===
+* Water from the **liffey **is collected in **pollaphuca lake**
+* Water is piped from the lake to a **water treatment plant **near ballymore eustace.
+* At the water treatment plant the water is **purified** to make it drinkable
+* **Purified water **is piped to a large reservoir in **Saggart** in **Dublin**
+* From that large reservoir it is piped to several **smaller reservoirs**
+* from the **smaller reservoirs** water is **piped to its final consumers**
+
+[[Water Supply|Back To Water Supply]]

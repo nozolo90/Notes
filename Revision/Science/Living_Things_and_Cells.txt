@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-07T21:00:22+01:00
+
+====== Living Things and Cells ======
+Created Thursday 07 February 2019
+
+=== N.B. characteristics of living things - see HEERR ===
+* Having cells.
+* Eating.
+* Excreting.
+* Responding to the environment.
+* Reproduction.
+

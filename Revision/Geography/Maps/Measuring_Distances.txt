@@ -20,7 +20,7 @@ Measuring Distances between two points
 * Rotate the strip of paper so that the edge goes through the center of the road
 * Make a mark on the sheet of paper and the map where the road begins to curve.
 * Now repeat step 3 through 5 until you reach the ending point.
-* Put the piece of paper on the linear scale to measure the distnce between two marks
+* Put the piece of paper on the linear scale to measure the distance between two marks
 
 --------------------
 [[Maps|Back To Maps]]

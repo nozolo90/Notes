@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-07T00:55:53+01:00
+
+====== English ======
+Created Wednesday 06 February 2019
+
+=== Happy and angry romeo ===
+//Happy//
+"Tybalt, the reason that i have to love thee, doth much exuse the appertaining rage" A3S1
+//Angry//
+"Let fire eyed fury be my conduct now" A3S1
+"This shall decide that" A3S1
+
+

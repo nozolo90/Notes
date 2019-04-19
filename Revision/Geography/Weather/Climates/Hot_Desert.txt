@@ -12,6 +12,7 @@ Created Wednesday 06 December 2017
 ===== Temperature - Hot all year =====
 * In the day, temperatures range from **30 to 50 degrees celcius**.
 * The sun is very high in the sky and there are long hours of sunlight.
+
 * In the night, temperatures can drop to **5 degrees celcius**.
 * This is due to the absence of cloud cover and vegetation.
 
@@ -39,7 +40,7 @@ __plants must be able to:__
 * //Protec -// Its **needles** prrotect it from wild animals.
 
 == Other Plants ==
-* The **Date palm** and the **Mesquite bush** have deep taproots.
+* The **Date palm** and the **Mesquite bush** have quite deep taproots to date.
 * The **Joshua tree** has juicy flesh.
 
 ===== Animals =====

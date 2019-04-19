@@ -5,50 +5,49 @@ Creation-Date: 2018-05-20T15:01:32+01:00
 ====== Urban problems ======
 Created Sunday 20 May 2018
 
-=== There are 6 urban problems ===
+=== There are 6 urban problems - iZUUC ===
+* Inadiquate services
 * Zones of decline, Community distruption.
 * Urban sprawl
 * Unemployment
-* Crime
-* Inadiquate services
+* Crime.
+
+=== Inadequate services ===
+People need basic infrastructural services to live comfortably. As urban areas grow, these services can become inadequate, therefore peoples quality of life suffers.
+* **Transport** - There may not be public transport in an area. This results in many private cars on the road. This then leads to traffic. jams.
+* **Water supply**
+* **Waste disposal**
+* **Recreational Facilities** - sometimes urban areas grow without planning any parks for recreation. This makes the areas bad for children growing up.
+* **Schools**
 
 === Zones of decline ===
-* Some urban areas have become less attractive to live in.
-	— Poor housing and increasing traffic congestion.
-	— Unemployment caused by industries moving away.
-	— Business derilict and unapealling to live in
-
+//Some urban areas have become less attractive to live in, like the inner cities//
+* Poor housing and increasing traffic congestion.
+* Unemployment caused by industries moving away.
+* Areas have no business and are unappealing to live in.
 
 === Unemployment ===
-* In the past, many low skill jobs were availiable in small inner city factories.
-* Many of these factories have moved out to industrial estates on the suburbs.
-* Most jobs in the city center are now skilled jobs requirng university education (In 2002, only 62%  of children sat the leaving cert, many of them can't find work)
-* Many inner city residents only have basic work skill, and during the economic depresion, they were the first to go.
+* In the past, many low skill jobs were avaliable in small inner city factories.
+* Many of these **factories have moved out to industrial estates on the suburbs**.
+* Most jobs in the city center are now skilled jobs requiring university education (In 2002, only 62%  of children sat the leaving cert, many of them can't find work)
+* Many inner city residents only have basic work skill, and during the economic depression, they were the first to go.
+
+=== Urban sprawl ===
+* This is the uncontrolled growth of the city into the surrounding countryside.
+* Residential areas are now in what was before farmland.
 
 === Crime ===
 * Crime is a big problem for many areas.
 * A lot of crime is drug related. People steal money and goods to pay for their drugs.
+* Community projects have been set up to help people with substance abuse.
 * The highest crime rates are in dublin city,
 * Racist abuse has become more common.
-* Community projects have been set up to help people with substance abuse.
-
-=== Urban sprawl ===
-* This is the uncontrolled growth of the city into the surrounding countryside.
-* Resiidential areas are now in what was before farmland.
 
 == sad ==
 * **Invades the countryside**, market gardening land in [[Population:Population Densities:The Dublin Area|North Dublin]]
 * **Villages are swallowed up by the city**. Some people believe that this makes villages lose their personality.
 * **Some large suburban areas lack sufficient infarstructure** and are seen as soulless.
 * Leads to **long daily commutes**.
-
-=== Inadequate services ===
-People need basic infrastructural services to live comfortably. As urban areas grow, these services can become inadequate, therefore peoples quality of life suffers.
-* **Transport** - 
-* **Water supply**
-* **Waste disposal**
-* **Recreational Facilities**
-* **Schools**
 
 === Solutions to urban problems ===
 * [[Urban renewal and redevelopment]]

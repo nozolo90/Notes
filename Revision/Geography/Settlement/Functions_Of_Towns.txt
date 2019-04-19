@@ -12,7 +12,6 @@ A **multi functional town** provides more than one function.
 * It means that the town provides **services** for people like shops and banks.
 * The town also may have sold produce for the nearby fertile land.
 
-
 === Residential ===
 * All towns provide residential functions, especially **dormitory towns**.
 * To identify one, look for **hotels **and **suburbs**.
@@ -29,14 +28,14 @@ A **multi functional town** provides more than one function.
 === Recreational ===
 * Towns with a recreational function have recreational services that can be seen on a map.
 * To identify one, look for **scenic locations, beaches, tourist spots and tourist information centers**.
-* This is the same as tourism.
+* Recreational towns are also known as tourist towns.
+
+=== Port ===
+* Port towns are towns with **marinas**, sheltered bays and **navigable** **rivers**.
 
 === Defense ===
 * Towns with castles (or defensive antiquities) have a defensive function.
 * The defensive features make them easier to defend.
-
-=== Port ===
-* Port towns are towns with **marinas**, sheltered bays and **navigable** **rivers**.
 
 --------------------
 [[Settlement|Back To Settlement]]

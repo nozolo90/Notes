@@ -6,11 +6,12 @@ Creation-Date: 2018-01-20T15:43:29+00:00
 Created Saturday 20 January 2018
 
 ===== OS Maps should... =====
-* Have a frame that is the correct size and drawn with a ruler
-* Have a title
-* Have a statement of scale
-* Have a coastline
-* Look nice and presentable
+* Have a frame that is the correct size and drawn with a ruler.
+* Have a title.
+* Have a statement of scale.
+* Have a coastline.
+* Look nice and presentable.
+* Mention north.
 **Roads should be:**
 	* Even width all the way through
 	* drawn with two lines

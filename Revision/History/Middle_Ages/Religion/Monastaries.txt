@@ -7,6 +7,8 @@ Creation-Date: 2017-08-23T15:38:16+01:00
 
 Created Wednesday 23 August 2017
 
+TODO: format this page
+
 === Buildings ===
 	[[+Clostier|Clostier]]
 	[[+Chapter House|Chapter House]]
@@ -28,4 +30,4 @@ Created Wednesday 23 August 2017
 	* [[History:Celtics:Religion:Monastaries:Monks|Monks]]
 	* [[History:Celtics:Religion:Monastaries:Scribes|Scribes]]
 
-[[Religion|Back To Religion]]
+[[Middle Ages:Religion|Back To Religion]]

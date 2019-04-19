@@ -10,9 +10,9 @@ Created Monday 21 August 2017
 Discoveries of oil in the north sea made people interested in looking for oil in Irish waters
 
 === What they foud ===
-	**Gas** was found off the coast of Kinsale - The **kinsale gas field**
-	**Gas** was found off the coast of Mayo - **The corrib gas field**
-	**Oil** was found off the coast of Waterford
+* **Gas** was found off the coast of Kinsale - The **kinsale gas field**
+* **Gas** was found off the coast of Mayo - **The corrib gas field**
+* **Oil** was found off the coast of Waterford
 
 The **kinsale gas field** has been providing gas to ireland for years
 it will soon run out

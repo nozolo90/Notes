@@ -5,19 +5,19 @@ Creation-Date: 2018-05-20T13:46:42+01:00
 ====== Variations in housing ======
 Created Sunday 20 May 2018
 
-===== Age of housing =====
+=== Age of housing ===
 * Houses tend to be older in inner city areas than in the suburbs.
 * Most cities grow from the center outwards, so the oldest parts are near the center.
-* An example of an old area is **York Street **in dublin. A new area is **Clonsilla** in dublin.
+* An example of an old area is **York Street **in dublin. A new area is **Adamstown** near lucan.
 
-===== Types of housing =====
+=== Types of housing ===
 * Houses are smaller in the inner cities and larger towards the suburbs.
 * Inner city homes are usually **high density**, **small terraced homes** or **apartments**.
 * Many do not have gardens because of the high land values.
 * Houses on the edges of the city are **low density**, **semi detatched** or **detatched** houses.
 * They have gardens.
 
-=== Public housing ===
+== Public housing ==
 * Some houses are built by the council or corporations.
 * They are modest is size and quality.
 * They are usually three bedroomed terraced or semi-detatched houses with small front and back gardens.

@@ -11,6 +11,7 @@ A functional zone is an area in a town/city devoted to a particular function.
 * The CBD is the heart of the city.
 * The CBD is where **big banks**, **offices**,** company** **HQs** and **department stores** are found.
 * The buildings are multiple stories high to make good use out of the expensive land.
+* An example is in Paris. There is les champs elyses.
 
 === Shopping Centers ===
 * Shopping centers are found in most of the suburbs in Dublin city.

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-07T20:48:24+01:00
+
+====== Nature Of Science ======
+Created Thursday 07 February 2019
+
+=== Definitions ===
+
+== Variables ==
+//Variables are things that change during experiment//
+* Independent variables are changed by people.
+* Dependent variables change as a result of the investigation.
+* Controlled variables are like quantities that are the same in each test, like the ammount of water used in a graduated cylinder.
+
+== Data ==
+//Information collected in an experiment//
+* Quantitave.
+* Qualitative.
+
+=== Steps of research ===
+1. Question.
+2. Prediction.
+3. Hypothesis.
+4. Investigation.
+5. Conclusion on Results.
+//If the hypothesis is not supported, you restart//
+
+[[Science|Back To Science]]

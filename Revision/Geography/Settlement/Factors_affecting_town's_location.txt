@@ -5,28 +5,26 @@ Creation-Date: 2018-05-12T10:21:10+01:00
 ====== Factors affecting town's location ======
 Created Saturday 12 May 2018
 
+=== Land Quality ===
+* If land is good quality, then people will live there.
+* More people are in the south and the east because the land is more fertile.
+* Market towns developed in areas with fertile land.
+* The land in the west is not as fertile and has less development.
+
 === Altitude ===
-* Settlement is more likely to occur in lowland areas.
-* They are warmer, drier flatter an easier to build on than highland areas which are cold, wet and windy.
+* Lowland areas are good for settlement.
+* They are warmer, drier, flatter an easier to build on than highland areas which are cold, wet and windy.
 * Lowland areas are better serviced by transport routes.
 
-=== Land Quality ===
-* Good land quality attracts settlement.
-* This is why more people settled in the south and the east - the land is more fertile.
-* Market towns developed in these areas.
-* The land in the west is not as fertile.
-
-=== Drainage ===
-* Poor drainage does not attract settlement.
-
 === Nearby Rivers ===
-* Some rivers are navigable, which means that they are deep and wide enough for boats to sail on.
+* Some rivers are navigable. This means that they are deep and wide enough for boats to sail on.
 * Rivers provide water for drinking, transport, cooking and other domestic purposes.
 * Some towns develop near bridging points of rivers. People meet at the rivers and trade develops. This causes towns to grow.
 * Docks and port activities.
+* Some towns develop at dry-point sites.
 
-* Some towns develop near dry-point sites.
-
+=== Drainage ===
+* If land lacks good drainage, people won't settle there.
 
 --------------------
 [[Settlement|Back To Settlement]]

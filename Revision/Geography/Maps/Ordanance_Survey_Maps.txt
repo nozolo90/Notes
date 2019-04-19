@@ -9,10 +9,15 @@ Created Monday 27 November 2017
 
 === National Grid ===
 * The national grid is used to locate regoins in ireland.
-* The grid has a 1:50,000 scale
+* The grid has a 1box : 50,000box scale
 * Each sub-zone of 25 zones has a letter
 
 === Map Features ===
-* [[+Altitude|Altitude]]
+
+== Altitude ==
+* __Triangulation Stations__ show the highths of some mountain peaks
+* __Contours__ are curved lines that show areas of equal height
+* On most maps __color__ is used to indicate altitude. lower areas are shown in green and higher areas are show in brown
+* __Spot heights__ show the heights of some areas between contours
 
 [[Maps|Back To Maps]]

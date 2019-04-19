@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-07T21:58:21+01:00
+
+====== Plant cell under microscope ======
+Created Thursday 07 February 2019
+
+Put saliva drop staned with methlyne blue on the microscope slide.
+Becareful with the methylene blue as it can stay on clothing and skin.
+
+[[Experiments|Back To Experiments]]

@@ -18,6 +18,7 @@ Created Friday 18 August 2017
 * [[+Science|Science]]
 * [[+Woodwork|Woodwork]]
 * [[+Maths|Maths]]
+* [[+English|English]]
 
 -{{../Images/TheDocument.png?width=310}}{{../Images/icon.png?width=126}}
 --------------------

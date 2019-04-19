@@ -7,18 +7,49 @@ Creation-Date: 2017-12-08T18:55:50+00:00
 
 Created Friday 08 December 2017
 
-**Digestion** is the **breakdown of food**.
+=== Digestion is the breakdown of food ===
 Our **digestive** **system** breaks down food into **smaller molecules** that can be **absorbed** by our bodies into our blood.
 
 === Types of digestion ===
-__Physical digestion__
+
+== Physical digestion ==
 * breaking down of food into smaller pieces **mechanically**/**physically**.
-__Chemical digestion__
+
+== Chemical digestion ==
 * Using **enzymes** to break down food.
 * An enzyme is a chemical made of **protien** that speeds up a chemical reaction.
 * Enzymes are called **biological catalysts**.
 
-[[+Diigestive System|Digestive System]]
+=== Digestive System ===
+
+== Mouth ==
+* **Physical** and **Chemical digestion** occurs here.
+* Teeth break food down into smaller peices.
+* **Amylase** breaks down **starch** into **maltose**.
+
+== Osophagus ==
+* Chewed and moistened food is swallowed and sent down the **osophagus**.
+* Food is pushed down through a muscular action called **peristalsis**.
+
+== Stomach ==
+* **Hydrochloric acid** dissolves food, softens it more and **kills bacteria**.
+* The stomach produces **enzymes** that **chemically digest** food.
+* The stomach also **churns up** food.
+
+== Small intestine ==
+* The small intestine produces **enzymes** that allow it to **chemically digest** food.
+* Most digestion occurs **just below the stomach**.
+* After that food and nutrients are absorbed into the **bloodstream**.
+
+== Liver & Pancreas ==
+* The liver produces bile to help the small intestine digest food.
+* The pancreas produces many enzymes that are passed to the small intestine to help digestion including insulin.
+
+== Large intestine ==
+* The large intestine **re-absorbs water** from food.
+* When the body does not absorb enough water, you get **diarea**.
+* When the body absorbs too much water you get **constipation**.
+* The remaining food is passed to the rectum, where faeces is stored until it is excreted out of the anus.
 
 
 --------------------

@@ -20,6 +20,5 @@ Created Monday 23 April 2018
 * Low altitude
 * Constant light rain
 
-
 --------------------
 [[Weather|Back To Weather]]

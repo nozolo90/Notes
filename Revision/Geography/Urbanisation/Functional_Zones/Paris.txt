@@ -6,32 +6,31 @@ Creation-Date: 2018-05-19T22:03:38+01:00
 Created Saturday 19 May 2018
 
 Paris is the capital of France.
-It is the primate city with a population of 13 million people.
+It is the **primate city** with a population of 13 million people.
 Paris is world city in fashion and culture, ranking in importance with NY, Tokyo and London.
 
 === CBD ===
-* It has luxury shopping areas like the Champs Elysees.
-* It has famous public buildings like the Eiffel Tower and Notre Damme.
+* It has **luxury shopping areas** like the Champs Elysees.
+* It has **famous public buildings** like the Eiffel Tower and Notre Damme.
 * It has the world famous sorbonne university.
-* It is the headquarters of many French banking companies.
-* It is the administrative capital.
-* It is home of the stock exchange(Paris Bourse).
-* It is served by the Paris Metro.
+* It is the **headquarters of many French banking companies**.
+* It is the **administrative capital**.
+* It is home of the stock exchange (Paris Bourse).
+* It is **served by the Paris Metro**.
 
 === Shopping Centers ===
-* The city has large shopping areas like the Champs Elysees.
-* There are large department stores like Printemps found in many locations.
-* Some shopping areas like Versailles that have been swallowed up by the growing paris.
+* The city has large shopping areas like the **Champs Elysees**.
+* There are large **department stores like Printemps** found in many locations.
+* Some **shopping areas like Versailles that have been swallowed up** by the growing paris.
 
 === Smaller shopping areas ===
 * Past villages have been swallowed up by Paris and become suburbs.
-* Each suburb has small shopping areas where locals can do their shopping.
-* Champion and Carrefour.
+* Each suburb has **small shopping areas where locals can do their shopping like Champion and Carrefour**.
 
 === Residential areas ===
-* Most people live in apartment blocks up to ten stories high.
+* **Most people live in apartment blocks** up to ten stories high.
 * This is because there is no space for low density semi detatched houses.
-* Residential districts are divided into affluent, middle and working class areas.
+* **Residential districts are divided** into affluent, middle and working class areas.
 
 === Open spaces for recreation ===
 * There are many parks open to the public like the bois de boulonge.
@@ -43,7 +42,7 @@ Paris is world city in fashion and culture, ranking in importance with NY, Tokyo
 * There are good leisure amenities, like parks and pondds. Disneyland.
 
 === Industrial areas ===
-* Paris is the most important manufacturing area in France.
+* Paris is the most **important manufacturing area in France**.
 * The Fashion Industry is located on the banks of the river Seine. fashion products and perfumes are produced here.
 * It is also an improtant river port, home to many chemical and other industries.
 * There are **Industrial Estates** on the outskirts of paris.

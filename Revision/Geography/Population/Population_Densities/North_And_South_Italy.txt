@@ -6,16 +6,16 @@ Creation-Date: 2017-11-28T07:51:16+00:00
 Created Tuesday 28 November 2017
 
 === North of Italy (Milan, Genoa) ===
-* **Land** - There's flat ground so it's easy to build homes, roads, railway lines and factories
-* **Agriculture** - There is fertile soil mud so it is easy to farm. yeoilds per hectaire are high.
-* **Transport** - It is easy to build good transport links on its flat ground.
 * **Industry** - This is the chief industrial regoin. 
+* **Transport** - It is easy to build good transport links on its flat ground.
+* **Agriculture** - There is fertile soil mud so it is easy to farm. yeoilds per hectaire are high.
+* **Land** - There's flat ground so it's easy to build homes, roads, railway lines and factories.
 
 === South of Italy (Sicily, Sardinia) ===
-* **Land** - There is Appenine Mountainous ground making it hard to build roads
-* **Agriculture** - The Mountainous land, poor soil and long dry summers make farming unproductive.
-* **Transport** - It is difficult and expensive to build roads and transport services on the hilly land.
 * **Industry** - The lack of money or transport links discourages industry to set up.
+* **Transport** - It is difficult and expensive to build roads and transport services on the hilly land.
+* **Agriculture** - The Mountainous land, poor soil and long dry summers make farming unproductive.
+* **Land** - There is Appenine Mountainous ground making it hard to build roads
 
 --------------------
 [[Population Densities|Back To Population Densities]]
