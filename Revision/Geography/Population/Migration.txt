@@ -27,14 +27,14 @@ Migration is when people move from one place to another.
 //See //[[History:Plantations:Ulster Plantation|ulster plantation]]// for organised migration example.//
 
 === Anne O'Hallaharan from Galway moved to dublin for college ===
-__Dublin factors__
+**Dublin factors**
 * Pull - good education and social life
 * push - quiet rural areas
 * barrier - high cost of living in dublin.
-__London factory__
+**London factors**
 * Push - Prolonged job search, no permenant positions available.
 * Pull - long term positions, steady wage, good social life.
-* Barrier - expensive cost of living, dear of the unknows
+* Barrier - expensive cost of living, fear of the unknows
 
 --------------------
 [[Population|Back To Population]]

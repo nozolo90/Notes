@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-12-07T20:06:09+00:00
 
-====== 0Population Make Up ======
+====== Population Make Up ======
 
 
 Created Thursday 07 December 2017
@@ -18,10 +18,10 @@ __Goverments can use them to tell:__
 
 === Comparing population pyramids of developed countries to that of developing ones ===
 **Thicc base developing because**
-High birth rate means that a large proportion of the population are children.
-High death rate, so relatively few people make it to old age, so it has a narrow peak.
+* High birth rate means that a large proportion of the population are children.
+* High death rate, so relatively few people make it to old age, so it has a narrow peak.
 **Stick like developed because**
-Family planning means that they have a low and declining birth rate so the ammount of children is low.
-
+* Family planning means that they have a low and declining birth rate so the ammount of children is low.
+* Many make it to old age, so the top is about as wide as the base.
 
 [[Population|Back To Population]]
