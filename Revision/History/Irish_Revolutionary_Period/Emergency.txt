@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-02-05T22:53:09+01:00
 
-====== EMERGENCY ======
+====== Emergency ======
 Created Tuesday 05 February 2019
 
 === People were hungry ===
