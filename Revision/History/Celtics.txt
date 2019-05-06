@@ -7,24 +7,29 @@ Creation-Date: 2017-08-21T22:41:00+01:00
 
 Created Monday 21 August 2017
 
-=== Who were they? ===
-* The Celtics were a farming and warlike group.
-* They became very powerful due to their use of Iron.
-* They brought the Iron Age To ireland in 500BC.
-* Roman writers described the Celts as excessive due to their approaches to clothing and religion.
+=== Who were the Celts ===
+* The Celts were new settlers that came to Ireland in around 500BC.
 
-=== Tuaths ===
-* Ireland was separated into many different kingdoms ( over 15) called tuaths
-* Each tuath was rulled by a ri ( king ) who was part of the derbhfine ( royal family ).
-* The kings job was to protect his tuath with warriors.
+=== How do we know about the Celts ===
+* **Excevations** at Hallsatt in Austria. Hallsatt is a salt mining area so artefacts like weapons, jewlery and pottery were preserved.
+* There were also excevations at La Tene in Switzerland. A hoard of iron weapons and other artefacts were found here in the nineteenth century.
+* **Greek and Roman writers**. Greeeks called them Keltoi and Romans called them Gauls. Plato wrote theat they were warlike and drank too much.
+* After Christianity came to Ireland, the **Celts learned how to write and wrote down their knowlege**. For example the mokes wrote down the Brehon laws, their legends like Tain Bo Cuailgne and annals.
+
+=== Celtic society ===
+* Ireland was split into small kingdoms called tuath. The ri rulled a tuath, and his family was called the Derbhfine.
+* Then there were warriors. They defended the tuath. They were also nobles who owned land and cattle.
+* Then there was the Aos Dana. There were judges called brehons, druids who organised religious ceremonis after long training, fili who wrote poems about the ri and heroic actions and more.
+* Then ther were farmers. They rented land from the warriors, grew crops and reared animals.
+* The Celts also kept slaves. These were people captiured from other tuath.
+* Noble women were allowed to own property. For example Maedbh of Connacht was a powerful ruler in Ireland. There were few of these.
 
 ==== Contents ====
+* [[+Forts|Forts]]
+* [[+Celtic Life|Celtic Life]]
 * [[+Groups Of People|Groups Of People]]
 * [[+Religion|Religion]]
-* [[+Celebrations|Celebrations]]
-* [[+Food|Food]]
 * [[+Clothing|Clothing]]
-* [[+Forts|Forts]]
 * [[+Ogham Stones|Ogham Stones]]
 * [[+La Tene Art|La Tene Art]]	
 * [[+Essay|Essay]]

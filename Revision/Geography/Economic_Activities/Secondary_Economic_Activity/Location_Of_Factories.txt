@@ -14,7 +14,7 @@ Created Monday 23 April 2018
 === Labour ===
 * Most industries are situated near large towns or cities which provide many workiers.
 * Industries which require a skilled workforce are located near to third level colleges and universities.
-* **Intel - **Universities like Maynooth and Dublin provide highly skilled graduates.
+* **Intel - **Universities like NUI Maynooth and UCD provide highly skilled graduates.
 * **Irish Cement Ltd -** Workers live in the nearby Drogheada town.
 
 === Transport Links ===

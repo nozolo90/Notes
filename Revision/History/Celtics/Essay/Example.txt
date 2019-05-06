@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-05T20:12:37+00:00
+
+====== Example ======
+Created Sunday 05 May 2019
+
+=== Who dis ===
+* My name is mark. I am an Iron age, Celtic farmer.
+
+=== Wya ===
+* I live in a fort called a rath. It is enclosed in a circular ditch to make it harder to attack.
+* My house and two others are inside of the rath. They are circular and made out of wattle and daub.
+* Near my rath there is a much bigger fort called a hillfort. Nobody lives there, but it is used for religious ceremonies.
+* Our rath is part of a tuath, which is a small kingdom in Celtic Ireland.
+* It is rulled by the ri aka the king.
+
+=== What u coppin ===
+* I wear a woolen trousers and a shirt called a leine. Wealthier nobles wear knee length tunics with belts called crois.
+
+=== What u croppin ===
+* I rent land from nobles like the warriors.
+* On my farm, I rear cattle, sheep and pigs.
+* Cattle are very important to us Celts as a man's wealth is measured in the ammount of cattle they have.
+* The crops that I grow include wheat, oats and barley.
+* I sometimes make porrige with the oats and sometimes grind the wheat into flour with a rotary quern to make bread.
+* We celts eat alot of meat. We cook the meat over spits and over fires.
+
+=== Religion ===
+* I believe in an afterlife and in many gods.
+* for example, an dagda, god of the afterlife and lugh, god of war.
+* druids are the people who carry out religios ceremonies and sarcrifices.
+* We have many festivals. At bealtaine, the druids move cattle through fires to cleanse them of disiease.

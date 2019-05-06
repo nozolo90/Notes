@@ -7,14 +7,26 @@ Creation-Date: 2017-08-21T23:29:51+01:00
 
 Created Monday 21 August 2017
 
+Christianit 
+
 ==== What were they ====
 * **Monastaries** were settlements **enclosed in a wall**. 
 * They had **many buildings inside them**.
 * They were built in **remote places** so  monks wouldn't be distracted
 
 ==== People ====
-* [[+Monks|Monks]]
-* [[+Scribes|Scribes]]
+
+=== Monks ===
+A **monk** is a person who goes to live in a **monastary** to be closer to god
+They were self sufficient and farmed their own food.
+
+=== When you become a monk ===
+* You cant marry
+* You must obey god
+* You must eat in silence
+
+=== Scribes ===
+* These were monks who made manuscripts.
 
 ==== Buildings in a Monastary ====
 

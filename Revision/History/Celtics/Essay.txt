@@ -15,10 +15,11 @@ Created Tuesday 22 August 2017
 
 === Celtic farmer ===
 * Who are you.
-* Where do you live.
+* Explain your rath.
 * What do you use your hillfort/ringfort for.
 * What clothing do you wear.
-* Mention some of your works.
+* What do you eat and farm.
 * Mention your favourite feast.
+* [[+Example|Example]]
 
 [[Celtics|Back To Celtics]]

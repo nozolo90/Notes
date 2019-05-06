@@ -7,18 +7,19 @@ Creation-Date: 2017-08-21T22:59:51+01:00
 
 Created Monday 21 August 2017
 
-==== Pre christian Ireland ====
-* Up until the fifth century, the Celts believed in **many gods**
+=== Pre christian Ireland ===
+* Up until the fifth century, the Celts believed in **many gods**.
+* In their religion, there was an afterlife.
 * Druids **preached** and carried out **sacrifices **and** religious ceremonies**
 * You had to train 20 years to become a druid
 
-=== Gods ===
+== Gods ==
 * **An** **dagda** - main god
 * **Lugh** - war god
 * **Brigid** - main goddes
 * **Boann** - river goddess
 
-==== Early Christian Ireland ====
+=== Early Christian Ireland ===
 * in the fifth century, **Christianity** was brought to ireland
 * **Druids** were replaced with **priests** and **monastaries** were built
 * [[+Monastaries|To Monastaries]]
