@@ -11,7 +11,8 @@ Created Tuesday 04 December 2018
 
 === Global warming ===
 * This is when GHGs in the atmosphere trap heat on earth and raise the temperature.
-The causes include
+
+=== The causes ===
 * Burning of fossil fuels.
 * Trees being cut down.
 * Household wastes.

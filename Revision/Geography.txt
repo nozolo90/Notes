@@ -2,8 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-08-18T15:16:14+01:00
 
-====== Geography ======
-
+====== Gography ======
 Created Friday 18 August 2017
 
 Study for **geography**
