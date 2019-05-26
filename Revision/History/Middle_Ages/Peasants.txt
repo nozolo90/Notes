@@ -4,34 +4,45 @@ Creation-Date: 2017-08-22T20:33:40+01:00
 
 ====== Peasants ======
 
-
 Created Tuesday 22 August 2017
 
-Peasants farmed on the knights land with the [[Open Field System]]
-They gave some of their produce to the church
-This was called **Tithe**
+A peasant's job was to farm the lord's land.
+They gave 10% of their produce to the church, called the tithe.
 
-=== There were two types of peasant ===
-	[[+Serfs|Serfs]]
-	[[+Freemen|Freemen]]
+=== Serfs ===
+Serfs belonged to the king.
+* They could not leave the manor or get married without permision.
+* They paid taxes to the lord and priest.
+* The lord gave them a pice of land to farm, but they would work for free.
+* If a serf could run away for a year and a day they would become a freeman.
+Serfs with large peices of land (~30 acers) were called viellens.
 
+=== Freemen ===
+* They did not work for free
+* They still paid rent and taxes
+* They could travel and marry freely.
 
-=== Food ===
-	**Peasants** ate **bread,** **ale** ( safer than water ) **cheese** and **veg** **soup** called **pottage**
-
+=== Food and drink ===
+* Bread, cheese, and mix of oat and vegetable soup called pottage.
+* Ale was drank as it was safer than water.
+* Peasants rarely ate meat.
 
 === Clothes ===
-	* Peasants made their own cothes out of **linen** or **wool**.
-	* They **dyed** their clothes with **berries** or **mosses**
-	* Men wore **tunics**
-	* Women wore **dresses** with a **headscarf**
+* Peasants made their own cothes out of **linen** or **wool**.
+* They **dyed** their clothes with **berries** or **mosses**
+* Men wore **tunics**
+* Women wore **dresses** with a **headscarf**
 
 === Passtimes ===
-	* noughts and crosses
-	* wrestling
-	* draughts
+* noughts and crosses
+* wrestling
+* draughts
 
 === Houses ===
-	Peasants lived in [[History:Wattle and Daub|Wattle and Daub]] houses with **thatched** **straw** **roofs**
-	In the cold weather , amnimals would come in too
+* Peasants lived in [[History:Wattle and Daub|Wattle and Daub]] houses with **thatched** **straw** **roofs**
+* In the cold weather, animals would come in too
+
+--------------------
+[[+Serf Essay|Serf Essay]]
+
 [[Middle Ages|Back To Middle Ages]]

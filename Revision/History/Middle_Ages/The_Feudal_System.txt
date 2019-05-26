@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-22T20:06:14+01:00
+
+====== The Feudal System ======
+
+
+Created Tuesday 22 August 2017
+
+The feudal system was the way that society was organised in the middle ages.
+
+The king owned all the land. He kept 1/4 of it for his own use known as demese.
+The king's followers were called **vassals**, and included bishops, lords and abbots.
+knights received land from the local lords and in exchange they would protect it and be loyal
+Serfs and freemen which were peasants farmed on the vasals' and the knight's land.
+
+{{./diagram.png?type=diagram}}
+
+[[Middle Ages|Back To Middle Ages]]

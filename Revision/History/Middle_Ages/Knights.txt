@@ -7,43 +7,44 @@ Creation-Date: 2017-08-23T14:56:55+01:00
 
 Created Wednesday 23 August 2017
 
-==== Jobs of a knight ====
-* Maintaining **law** and **order**
-* **protecting** **community** and land from attackers
-* **fights** and **attacks** for the king
-* [[+Entertainment|Entertainment]]
+Knights were soldiers employed by local lords.
+Only the sons of lords or nobles could become knights.
 
-==== Who can become a knight ====
-* Only the sons of **lords**/**nobles**
+=== Jobs of a knight ===
+* They maintained law and order.
+* They fought and attacked for the local lord.
+* They provided entertainment.
 
-==== Fostrage ====
-* Knights beginning their training would be sent to another knight/lord to be trained
-* This was called **Fostarage**
+=== Stages in becoming a knight ===
+Knights begining their training would go through fostarage where they would be sent to another lord to be trained by him.
 
-==== Stages in becoming a knight ====
+== Page ==
+* At the age of **7** he learned how to ride a **horse** and use a blunt sword.
+* He also learnt good manners, singing and dancing.
 
-== 1. Page ==
-* at the age **7** he learned how to ride a **horse,** use a blunt sword 
-* and **good** **manners**
+== Squire ==
+* At the age of **14 **he learned how to **fight** **on** **horseback**.
+* He went to wars with his lord to help him with his weapons.
 
-== 2. Squire ==
-* At the age of **14 **he learned how to **fight** **on** **a** **horse**
-* He went with his lord to help him with his weapons at war
+== Dubbing as a knight ==
+* When a squire was ready to become a knight, the dubbing ceremony would be held.
+* He would spend the previous knight praying.
+* At the ceremony the knight would wear: red and black to show that they are willing to bleed and die for their lord and white to show that they are loal to only one lord.
+* At the ceremony the lord would tap his two shoulders with a sword and say "arise sir knight".
 
-== 3. Dubbing ==
-* There would be a dubbing ceremony where the squire would become a knight
-* He would spend the previous knight praying to **God**.
-* At the ceremony the lord would tap his two shoulders with a sword and say " **arise** **sir** **knight**"
+== Code of chivalry ==
+* A code to protect the women and children.
 
-=== Clothes worn ===
-	* **Red** - willing to bleed
-	* **White** - to show you only have one lord
-	* **Black** - willing to die for your lord
+=== Entertainment ===
 
+== Jousting ==
+* Knights would charge at each other on horseback with blunt lances , separated by a fence called a tilt . Who ever was knocked over lost.
+* Knights would train on a Quintain.
 
-=== Code of chivalry ===
-* A code to protect the **women** and **children**
-
-[[+Entertainment|Entertainment]]
+== Tournaments ==
+* These were mock battles carried out by knights.
+* They could be 1v1s or two larger groups.
+* Knights wore full armour and used blunt weapons and lances.
+* If a knight fell on the ground, he was out.
 
 [[Middle Ages|Back To Middle Ages]]

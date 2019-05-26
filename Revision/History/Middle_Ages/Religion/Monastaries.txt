@@ -7,27 +7,36 @@ Creation-Date: 2017-08-23T15:38:16+01:00
 
 Created Wednesday 23 August 2017
 
-TODO: format this page
+=== Becoming a medival monk ===
+* You would first go to a monastary as a novice. If you decided that the monk life was for you, an the abbot thought that ou would be a good monk, you could sign the solemn vows of poverty, chastity and obidience.
+* You would then get a tonsure to show that you are a monk.
+
+=== Monky day ===
+* You would wake up before sunrise to say the matins.
+* You would go back to bed for around two hours.
+* You would wake up and have breakfast.
+* Then you would go to work until midday when you went to mass.
+* Then you would go back to work.
+* Then you would say the vespers.
+* Then you would have supper.
+* Then you would say the final compline and go back to bed.
 
 === Buildings ===
-	[[+Clostier|Clostier]]
-	[[+Chapter House|Chapter House]]
-	[[+Infermery|Infermery]]
-	[[+Refectory|Refectory]]
-	[[+Dormitories|Dormitories]]
-	[[+Guest House|Guest house]]
-	[[+Library|Library]]
-	
+* A clostier where the monks walked and prayed.
+* A chapter house where the monks met to discuss buisness and elect the abbot.
+* An infermery where the sick were treated.
+* A refectory where monks ate.
+* Dormitories where monks slept.
+* A guest house.
+* A library where monks would study.
 
 === People ===
-	* **Abbot** - the leader of the monastary who was elected by the monks
-	* almoner - looked after the poor when they visited
-	* **hosteller** - looked after travelers
-	* **librarian** - looked after library
-	* **prior** - takes over for abbot when he is gone
-	* **friars** - traveling monks eg **dominicans** , **augustinians**
-	* **Benidictines** and **poor** **clares**
-	* [[History:Celtics:Religion:Monastaries:Monks|Monks]]
-	* [[History:Celtics:Religion:Monastaries:Scribes|Scribes]]
+* The **abbot** was the leader of the monastary who was elected by the monks
+* The almoner looked after the poor when they visited
+* The **hosteller** looked after travelers
+* The **librarian** looked after library
+* The **prior** took over for abbot when he is gone
+* **Friars** were traveling monks eg **dominicans**, **augustinians**
+* **Benidictines** and **poor** **clares**
 
 [[Middle Ages:Religion|Back To Religion]]

@@ -12,15 +12,18 @@ manor farms were **parishes** organized by priests ( who could read and write )
 bishops built big churches called **cathedrals**
 
 === Church Design Features ===
-	__romanesque - 1000AD__
-	* **rounded** **arches**
-	* **thick pillars**
-	__gothic - 1000AD+__
-	* **thin** **pillars** - thinner pillars
-	* **pointed** **arches** - triangular arches
-	* **rose** **windows** - beautiful design on tinted glass windows
-	* **flying** **buttreses** - supports
-	* **spires** - the tall spikes
+
+== Romanesque - 1000AD ==
+* **rounded** **arches**
+* **thick pillars**
+* dark interiors.
+
+== Gothic - 1000AD+ ==
+* **Thin** **pillars**
+* **Pointed, triangular** **arches**
+* Beautiful designs on tinted glass windows called **rose** **windows**.
+* **Flying** **buttreses** - supports
+* **Spires** - the tall spikes
 
 [[+Monastaries|To Monastaries]]
 [[Middle Ages|To Middle Ages]]

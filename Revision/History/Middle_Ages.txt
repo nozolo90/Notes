@@ -7,16 +7,16 @@ Creation-Date: 2017-08-22T19:41:22+01:00
 
 Created Tuesday 22 August 2017
 
-The middle ages was the time between **500AD** and **1500AD** ( After the [[Rome:Fall Of The Roman Empire|fall of the Roman Empire]] and before the renaicance )
-During this time, The towns and roads of what once was the Roman empire had fell into **ruin**.
-There was no **government**, or laws and **dangerous** **people** ran through the streets
-People relied on local **lords** to protect them. They became very powerful and set up the **feudal** **system**
+The middle ages was the period between the fall of the roman empire in 500 and around 1500.
+The towns and roads of what once was the Roman empire had fallen into ruin.
+There was no government, or laws and dangerous people ran through the streets.
+People relied on local lords to protect them. They became very powerful and set up the feudal system.
 
-==== People ====
-* [[+Knights|Knights]]
+==== Contents ====
+* [[+The Feudal System|The Feudal System]]
+* [[+Knights|Knigh]][[+Knights|ts]]
 * [[+Peasants|Peasants]]
-	* [[+Open Field System|Open Field System]]
-* [[+How Land Went Round|How Land Went Round]]
+* [[+Open Field System|Open Field System]]
 * [[+Lord & Lady|Lords and Ladies]]
 * [[+Craftsmen|Craftsmen]]
 * [[+Religion|Religion]]
@@ -28,6 +28,6 @@ People relied on local **lords** to protect them. They became very powerful and 
 * [[+Castles|Castles]]
 * [[+Baillif|Baillif]]
 
-
 --------------------
-[[History|Back To History]]
+[[History|Back To ]][[History]]
+

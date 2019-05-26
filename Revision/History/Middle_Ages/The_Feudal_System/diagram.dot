@@ -1,0 +1,7 @@
+digraph B {
+	"King's land" -> Vassals
+	"King's land" -> Demese
+	Vassals -> Knights
+	Vassals -> "Serfs and freemen"
+	Knights -> "Serfs and freemen"
+}

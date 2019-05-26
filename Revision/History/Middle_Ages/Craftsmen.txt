@@ -14,7 +14,7 @@ for example, **bakers**,**smiths**,**fishers** and **butchers** are craftsmen
 	
 
 == 1. Apprentices ==
-* At **12 **years old the boy will live with a **master craftsman** and learn the trade
+* At **12 **years old the boy would live with a **master craftsman** and learn the trade
 
 == 2. Journeymen ==
 * At **19** years old the boy was now a **journeyman**.
