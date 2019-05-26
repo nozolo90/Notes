@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-26T17:51:16+00:00
+
+====== Renaissance Painting ======
+Created Sunday 26 May 2019
+
+The renaissance saw many changes in art, especiall in the drawing of people.
+
+=== Changes ===
+* People started to study **anatomy** more thoroughly. Some artists sliced up dead bodies to see how the bones and muscles operated. This allowed their pictures to be more realistic.
+* People started to draw things smaller as they went into the background, which was known as **perspective**. This gave renaissance pictures much more depth.
+* **Portraits** became more popular during the renaissance.
+* The **sfumato** technique was introduced. In this techniques, artists would blend different colors together using tiny brush strokes. This allowed for much smoother color transitions, for use in skin tones, and shadows.
+* Artists started to use **oil paints**. They began to mix their colors with **linseed oil** which dried slower and gave artists more time to perfect their work. In the past, artists used egg white which dried much quicker.
+* Artists started to use **canvas** to paint on. When it was stretched out, the paint dried slower and was less likely to crack.
+* Frescos were introduced. These were where paintings were painted directly onto a wall  surface.
+
+=== Example painters ===
+* Painter from italy - [[+Leonardo de Vinci|Leonardo de Vinci]]
+* Painter from outside italy - [[+Pieter Bruguel|Pieter Bruguel]]
+
+--------------------
+[[Renaissance|Back To Renaissance]]
+
+[[+Quick Questions|Quick Questions]]

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-26T18:08:55+00:00
+
+====== Quick Questions ======
+Created Sunday 26 May 2019
+
+=== Questions ===
+* What did some renaissance painters do to study anatomy?
+* What was perspective?
+* Why was sfumato useful?
+* How did the renaissance paints differ from those from the middle ages?
+
+--------------------
+[[Renaissance Painting|Back To Renaissance Painting]]
