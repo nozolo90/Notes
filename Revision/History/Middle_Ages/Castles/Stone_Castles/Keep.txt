@@ -9,14 +9,19 @@ Created Wednesday 23 August 2017
 
 the **keep** had narrow spiral stairways.
 
-=== Rooms ===
-	The **solar** - where lady does embroidery
-	The **chapel** - priest said mass here every morning
-	The **great** **hall**
-	* **Huge** **banquets** were held here big fires at the ends provided heating
-	* The lord he gave **orders** to his soilders
-	* criminals were brought here to be tried
-	**storage** - **food** and **drink** were kept here
-	**dungeons** for criminals
+=== The top floor ===
+* The **solar** - where lady does embroidery
+* The **chapel** - priest said mass here every morning
 
+=== The hall floor ===
+The **great** **hall**
+* **Huge** **banquets** were held here big fires at the ends provided heating
+* The lord he gave **orders** to his soilders
+* criminals were brought here to be tried
+
+=== The base ===
+* **storage** - **food** and **drink** were kept here
+* **dungeons** for criminals
+
+--------------------
 [[Stone Castles|Back To Stone Castles]]

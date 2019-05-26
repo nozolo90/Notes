@@ -7,20 +7,21 @@ Creation-Date: 2017-08-23T12:11:06+01:00
 
 Created Wednesday 23 August 2017
 
-**Lords** would build castles on their land that they had recived from the **king**.
-Castles had **good** **defence**.
+**Lords** would build castles on their land that they had recived from the **king**. They were built for protection.
 
-== Motte and Bailey ==
+=== Motte and Bailey ===
 * Motte and Bailey castles were made from **wood** and **dirt**
 * They were very **easy** and **quick** to make
-__How they were built__
-	* a moat would be dug arount the motte and bailey
-	* A **hill** would be built with the dirt from the moat to put the fort on. it was a lookout place
-The bailey was where the soilders lived
 
-== And Stone Castles ==
+== How they were built ==
+* A moat would be dug arount the motte and bailey
+* A **hill** would be built with the dirt from the moat to put the fort on. it was a lookout place
+* The bailey was where the soilders lived
+
+=== And Stone Castles ===
 * [[+Stone Castles|Stone Castles]]
 
 A **siege** was when the enemy surrounded a castle so no supplies could come in or out, forcing the occupants to **surrender**
 
+--------------------
 [[Middle Ages|Back To Middle Ages]]
