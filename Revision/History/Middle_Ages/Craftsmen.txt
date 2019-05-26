@@ -7,27 +7,35 @@ Creation-Date: 2017-08-23T11:45:06+01:00
 
 Created Wednesday 23 August 2017
 
-**Craftsmen** were people who made things that other people needed
-for example, **bakers**,**smiths**,**fishers** and **butchers** are craftsmen
+Craftsmen were people who made things that other people needed.
+for example, bakers, smiths, fishers and butchers are craftsmen.
 
-===== Becoming a mastercraftsman takes three stages =====
-	
+=== Becoming a mastercraftsman ===
 
-== 1. Apprentices ==
+== Apprentices ==
 * At **12 **years old the boy would live with a **master craftsman** and learn the trade
 
-== 2. Journeymen ==
+== Journeymen ==
 * At **19** years old the boy was now a **journeyman**.
 * He could get **paid** for his work and look **elsewhere** **for** **jobs**
 
-== 3. Mastercraftsman ==
-* When a **journeyman** creates a **masterpiece** , he advances to this stage.
-* A **masterpiece **is a product a **journeyman** produces that the guild decides is **very high quality**
-* He can have his own **workshop** and sell his own **goods**.
-* To get into a [[+Guilds|guild]] ,  he would have to pay a large sum of money
-* **Craftsmen **are part of organisations called **guilds**
+== Mastercraftsman ==
+* When a journeyman created a masterpiece, he advanced to this stage.
+* First, he would have to join an organisation called a guild. He would have to pay a **large sum of money** to get in.
+* A masterpiece was a product a journeyman produces that the guild decides is very high quality,
+* He could have his own workshop and sell his own goods.
 
-[[+Guilds|To Guilds]]
+=== Guilds ===
+Guilds were organisations that ran each trade.
+trades are the craftsman's areas of work examples are bakers trade, fishermans trade.
 
+=== Here are some of its jobs : ===
+* Taking care of ill members.
+* Setting standards for each trade.
+* Grades masterpieces.
+* Market - where some people sell their goods.
+* Craftsmen lived in the towns.
+
+--------------------
 [[Middle Ages|Back To Middle Ages]]
 

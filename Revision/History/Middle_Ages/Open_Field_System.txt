@@ -7,24 +7,19 @@ Creation-Date: 2017-08-22T20:42:10+01:00
 
 Created Tuesday 22 August 2017
 
-Each peasant familly had some **strips** of farmland on each of the fields
-There was a **commons** where all of the animals were kept
+Each peasant familly had some **strips** of farmland on each of the fields.
+There was a **commons** where all of the animals were kept.
+One of the fields would be left **fallow** with nothing growing. The two others were planted with wheat, then oat or barly.
+The planted fields would rotate each year to keep them fertile.
 **Oxen** were used to sow seeds
 
-=== This was in-eficient and caused trouble because : ===
-* If your neighbours crops are **unattended** , it could mess up your crops
-* You had to move from **field** to **field** to harvest all your crops
-* If one **animal** gets sick all of the **animals** **get** **sick** too
+=== This method was ineficient and caused trouble because ===
+* If your neighbours crops are unattended, it could mess up your crops
+* You had to move from field to field to harvest all your crops
+* If one animal gets sick all of the other animals in the common may get sick too.
 
+It looked a little bit like this
+{{../../../../Images/dog.png?height=181}}
 
-=== Instead you could : ===
-	Have each peasant have continuous strips of land
-	
-	{{~/Pictures/OpenFieldSystem.png}}
-
-
-Each year, one of the fields would be left **fallow** with nothing growing.
-This kept the soil **fertile**.
-**Crop** **rotation** would take place
-
+--------------------
 [[Middle Ages|Back To Middle Ages]]

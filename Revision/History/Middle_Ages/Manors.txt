@@ -7,7 +7,7 @@ Creation-Date: 2017-08-22T21:52:55+01:00
 
 Created Tuesday 22 August 2017
 
-**Manors **were medieval villages owned by the [[Lord & Lady:Lords|Lord]].
+**Manors **were medieval villages owned by the Lord.
 
 === Buildings ===
 * **A manor house** - where the lord lived.
@@ -21,4 +21,5 @@ Created Tuesday 22 August 2017
 * **Forest** - wood supply.
 * **Ballifs house** - He managed money.
 
+--------------------
 [[Middle Ages|Back To Middle Ages]]

@@ -7,23 +7,24 @@ Creation-Date: 2017-08-23T15:34:46+01:00
 
 Created Wednesday 23 August 2017
 
-manor farms were **parishes** organized by priests ( who could read and write )
-**dioscese** were groups of **parishes** - **bishops** ran them
-bishops built big churches called **cathedrals**
+Manor farms were parishes organized by priests ( who could read and write ).
+Dioscese were groups of parishes ran by bishops.
+Bishops built big churches called cathedrals.
 
 === Church Design Features ===
 
 == Romanesque - 1000AD ==
-* **rounded** **arches**
-* **thick pillars**
-* dark interiors.
+* Rounded arches.
+* Thick pillars.
+* Dark interiors.
 
 == Gothic - 1000AD+ ==
-* **Thin** **pillars**
-* **Pointed, triangular** **arches**
-* Beautiful designs on tinted glass windows called **rose** **windows**.
-* **Flying** **buttreses** - supports
-* **Spires** - the tall spikes
+* Thin pillars
+* Pointed, triangular arches
+* Beautiful designs on tinted glass windows called rose windows.
+* Flying buttreses were exterior supports.
+* Spires were the tall spikes.
 
+--------------------
 [[+Monastaries|To Monastaries]]
 [[Middle Ages|To Middle Ages]]

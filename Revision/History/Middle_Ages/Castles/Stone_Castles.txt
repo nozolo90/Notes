@@ -9,22 +9,22 @@ Created Wednesday 23 August 2017
 
 **Stone Castles **were stronger than **motte and bailey castles**
 
-=== Buildings ===
+=== Places in the castle ===
 * [[+Keep|keep]] - lord & lady lived here - very strong (thick walls) - narrow windows good defence
-* **ramparts** - paths on top of the walls
-* **baws**/**bailey**/**courtyard** - soilders lived here
-* **stables** - knights horses
-* **kitchens** - food was made by cooks
-* **forge** - smith worked here -  horseshoes were made
-* **well** - fresh water supply without leaving castle
-* **latrines** - toilets
+* The **bawn**/**bailey**/**courtyard** where soilders lived.
+* **Stables** for knights' horses.
+* **kitchens** where cooks made food.
+* A **forge** where a smith worked. They made metal armour, horseshoues.etc.
+* A **well** which provided fresh water supply without leaving the castle.
+* Toilets called **latrines**.
 
-=== Protection ===
-* **battlements** - on top of keep soilders were put here to look for enemies.
-* **curtain** **walls** - walls you can peep out of, attack then cover
-* **Turrets** - strong towers along the walls
-* **Drawbridge** - raised when enemies were near
-* **Portcuillis** - Iron grille - like a door
-* **moat** - ditch around the castle making it less accesible to the enemy
+=== Features for protection ===
+* There were the **battlements** on top of the keep were soldiers looked out for enemies.
+* Paths on top of the walls called **ramparts**.
+* Walls on the ramparths that you can peep out of, attack then cover called **curtain walls**.
+* There were strong towers along the walls called **turrets**.
+* There was a **drawbridge** which rose when the castle was under attack. It also had a **portcuillis** as a stronger defence mechanism.
+* There was a ditch around the castle making it less accesible to the enemy called a **moat**.
 
+--------------------
 [[Castles|Back To Castles]]
