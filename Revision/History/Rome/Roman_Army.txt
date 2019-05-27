@@ -8,8 +8,8 @@ Creation-Date: 2017-08-22T16:40:39+01:00
 Created Tuesday 22 August 2017
 
 === There were two types of roman Solders ===
-	[[+Legionaries|Legionaries]]
-	[[+Auxillia|Auxillia]]
+* [[+Legionaries|Legionaries]]
+* [[+Auxillia|Auxillia]]
 
 === Army Structure ===
 the army was divided into **legions**, which were groups of **5000** solders.

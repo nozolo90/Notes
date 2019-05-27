@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-26T20:16:09+00:00
+
+====== Renaissance Sculpting ======
+Created Sunday 26 May 2019
+
+In the middle ages, sculptures were usually unrealistic and only made to complement buildings.
+In the renaissance, sculptors copied the ways of the romans and greeks and made stand alone statues to show the human body.
+They were often nude.
+Sculptors sliced up dead bodies to see how they were made.
+
+=== Michelangelo Buonarroti ===
+* Michelangelo was a renaissance sculptor born in 1475.
+* One of his works include the Pieta, a sculpture of Mary holding Jesus after his death on the cross.
+* He also carved a 5 meter tall statue of David out of white marble after Florence won in a battle against France.
+* In rome, he painted the story of the creation of the world on the ceiling of the sistine chapel. It took four years to complete.
+
+--------------------
+[[Renaissance|Back To Renaissance]]
+
+[[+Quick Questions|Quick Questions]]
