@@ -8,6 +8,23 @@ Creation-Date: 2017-08-21T13:54:30+01:00
 Created Monday 21 August 2017
 
 **Excavation** is what we call it when **Archaeologists** dig for **artifacts**
+Archaeologists don't just dig randomly bro.
+They use **techniques** to find digging spots with higher chances of containing **artifacts**
 
-[[Finding An Excavation Site|To Finding An Excavation Site]]
+=== Ways archaeologists find sites ===
+* **Arial photography** where rchaeologists look for bumps/hills that could be artifacts buried underground from the air.
+* They would use **rescue/salvage archaeology** where before something is built over an area, archaeologists are called excavate underneath the proposed area to make sure there isn't any important artifacts underneath that would be covered by the building.
+* Archaeologists use **metal detectors** that beep when something metal is under them
+* Archaeologists would **ask locals** of an area if they know anything about the history of an area. These people are secondary sources
+
+=== Tools Archaeologists use ===
+* **Geophysical Surveys** are like **X-Rays**, but it tells us whats underground.
+* **JCB Diggers** are used to remove **large chunks** of earth.
+* **Polythene Bags **are used to hold artifacts that have been found.
+* **Cameras **are used to take pictures of artifacts that have been found.
+* **Shovels **are used to take out medium sized chunks of earth.
+* **Pick Axes **are used to chip away hard dirt.
+* **Brushes** are used to brush away dirt on an artefact.
+
+--------------------
 [[Archeology|Back To Contents]]

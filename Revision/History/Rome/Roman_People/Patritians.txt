@@ -14,9 +14,10 @@ Created Tuesday 22 August 2017
 * **Domuses **were large town houses.
 * They had colorful mosaics on the floors and bright murals on the walls.
 
-=== Patritian rooms ===
+== Rooms of patritian houses ==
 * An **atrium** was a large airy room with a high ceiling or none at all. It was typically the first thing at the door. Pools, statues, fountains and flowers were inside.
-* The **courtard** was like a garden but inside. it had paintings along the walls had no ceiling.
+* Other rooms opened off from the atrium.
+* The **courtard **(peristype) was like a garden but inside. it had paintings along the walls had no ceiling.
 * There were **simple bedrooms** (lararium) with only a bed. there may have been slave's quarters too.
 * The **dining room** (triclinium) was where patritians ate. slaves would also provide patiritians with entertainment here.
 * The **office** (tablinum) was a families money was kept. buisness would be done here too.
@@ -24,9 +25,9 @@ Created Tuesday 22 August 2017
 * They had **shrines** too (lararium)
 
 === Food ===
-* For **breakfast** they would eat  **bread** dipped in **wine**, with **olives** ,**cheese** or **rasins**
-* For **lunch** they would have **bread**, **salad**, **fruit** and **nuts**.
-* **Wine** mixed with **water** was what they'd drink
+* For breakfast they would eat bread dipped in wine, with olives, cheese or rasins
+* For lunch they would have bread, salad, fruit and nuts.
+* Wine mixed with water was what they'd drink
 
 == The cena ==
 * The cena was and evening 3 course meal.
@@ -39,4 +40,5 @@ Created Tuesday 22 August 2017
 * The **patritian** women wore **tunics**
 * If they were married they would wear a **stola** over their shoulder
 
+--------------------
 [[Roman People|Back To Roman People]]

@@ -9,10 +9,21 @@ Created Monday 21 August 2017
 
 After artifacts have been found, they have to be **dated** so we know how old they are
 
-=== There are for ways archaeologists date artifacts ===
-	[[+Dendrochronology|Dendrochronology]]
-	[[+Stratigraphy|Stratigraphy]]
-	[[+Carbon 14 Dating|Carbon 14 Dating]]
-	
+=== Dendrochronology ===
+* **Dendrochronology**, also known as **tree ring dating** is a type of artifact dating that is usually only useful where wood is found along with the artifact (or the artifact is made of wood).
+* They look at the rings on the Timber found and compare it with Tree rings of certain times.
+* They decide how old the artifact is based on which era of tree rings it matches
+
+=== Stratigraphy ===
+* Stratigraphy is a type of way to date artifacts . They decide how old the artfact is based on how deep the it is found.
+
+=== Carbon 14 Dating ===
+* They measure how much **Carbon 14 **is in organic matter to see how old it is.
+* **Carbon 14** is a chemical that natural occurs in living things.
+* When a living thing dies, its Carbon 14 levels slowly deplete, so by looking at how much Carbon 14 is in a plant/ animal, we can see how long its been dead.
+
+After artifacts are found and [[Dating Artifacts|dated]] they are put in a museum
+
+--------------------
 [[Archeology|Back To Contents]]
 

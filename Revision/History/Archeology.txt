@@ -13,10 +13,7 @@ An **Archaeologist** is a person who looks for **artifacts**
 
 ==== Contents ====
 * [[+Excavations|Excavations]]
-* [[+Finding An Excavation Site|Finding An Excavation Site]]
-* [[+Excavations:Excavation Tools|Excavation Tools]]
 * [[+Dating Artifacts|Dating Artifacts]]
-* [[+After Artifacts Are Found|After Artifacts Are Found]]
 * [[+Essay|Essay]]
 
 --------------------

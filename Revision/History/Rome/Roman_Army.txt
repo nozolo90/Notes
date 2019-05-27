@@ -7,22 +7,26 @@ Creation-Date: 2017-08-22T16:40:39+01:00
 
 Created Tuesday 22 August 2017
 
-=== There were two types of roman Solders ===
-* [[+Legionaries|Legionaries]]
-* [[+Auxillia|Auxillia]]
+=== Legionaries ===
+* The legionaries (the best of the best) were trained to march <30km a day.
+* They were the strongest force in Europe and remained unbeaten for centuries.
+* Legionaries revived very good pay.
+* If they survived their 25 year service, they were given a land to retire on.
+
+=== Auxillia ===
+* The auxilia (they were non-citizens) were back up armies composed of conquered armies and friendly tribes.
+* They would become Citizens after 25 a year service.
 
 === Army Structure ===
-the army was divided into **legions**, which were groups of **5000** solders.
-The whole roman empire had around 30 of them.
+* the army was divided into **legions**, which were groups of **5000** solders.
+* The whole roman empire had around **30** of them.
 
 === Solders equipment ===
-* **Helmet**
-* **Body armour**
+* **Helmet and body armour**
 * **Belt** showing position in army
 * **shield** with legions design
-* **Dagger** for hand to hand combat
-* **Javelin**
-* **Short sword**
+* **Dagger** for hand to hand combat, **Javelin**, and **Short sword**.
 * **Sandals**
 
+--------------------
 [[Rome|Back To Rome]]

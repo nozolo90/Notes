@@ -8,21 +8,32 @@ Creation-Date: 2017-08-21T23:06:11+01:00
 Created Monday 21 August 2017
 
 === The Rath ===
+//Raths were forts enclosed in ditches or mounds of earth.//
 * Most Celts would have lived in a rath.
-* It is a small settlement, surrounded in a ditch, mound of dirt or walls made of wood or stone.
-* Circular wattle and daub houses were built inside of the rath.
-* Cattle would be left outside during the day to graze and brought inside at night.
+* The fort was usually built of **wood**, but a stone one was called a **cashel**.
+* Inside the rath there were round [[History:Wattle and Daub|wattle and daub]] houses
+* Animals were brought inside the rath at night and left outside during the day to graze.
+//There are secret tunnels underneath raths & cashels called souterians.//
+* escape routes
+* storage - food,slaves,valuables
 
 === Crannogs ===
 * Crannogs were houses built on lakes. Below a crannog there would be raised lake bed so that the the crannog could be built.
 * The houses were similar to those found in raths.
 * Some crannnogs had bridges, others had secret boats or stepping stones.
+* They were built there because it made them **harder to attack**.
+* **Cattle** was brought inside them at night.
+
 
 === Hillforts ===
 * These were like raths but much much larger.
 * They were usesd for religious ceremonies and as headquarters for important kings.
+* No archaeological evidence that people lived there.
 
 === Promontory forts ===
-* These were forts bult on clifftops.
+//Stone forts built on a cliff used for religious services//
+* They were built on **cliff faces for extra protection**.
+* Inside, they had a rectangular stone altar facing the sea.
+* **Spiked stones surrounded them** called cheveux de pairs the fort so if a warrior fell on them they would die.
 
 [[Celtics|Back To Celtics]]

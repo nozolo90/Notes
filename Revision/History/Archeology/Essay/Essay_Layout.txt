@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-27T19:35:25+00:00
+
+====== Essay Layout ======
+Created Monday 27 May 2019
+
+
+Jobs of an archaeologist
+**Explain** 2 ways to find a digging site ( aerial photography , rescue archeology )
+**Explain** 3 tools they use and what they're used for
+**Explain** 3 different ways to date artifacts ( dendrochronology , stratigraphy , Carbon 14 )
+Where are artifacts kept after they're found and dated ( museums )
+
+--------------------
+[[Essay|Back To Essay]]

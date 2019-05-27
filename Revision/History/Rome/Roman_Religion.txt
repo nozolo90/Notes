@@ -7,24 +7,34 @@ Creation-Date: 2017-08-22T16:31:36+01:00
 
 Created Tuesday 22 August 2017
 
-=== Romans believed in many gods ===
-* **Jupiter** - most **important** god
-* **Venus** - Goddess of **love**
-* **Mars** - God of **war**
-* **Pluto** - God of the **dead**
-* **Neptune** - god of the **sea**
+=== Roman gods ===
+* **Jupiter** was the most important god.
+* **Venus** was the Goddess of love
+* **Mars** was the God of war
+* **Pluto** was the God of the dead
+* **Neptune** was the god of the sea
 
-People would pray to different gods depending  on what they wanted
-Different Gods had different temples, many were found in the fourm
-The pantheon was a temple to all the gods in rome.
-Every roman household had a household shrine called a lares. They would pray to their household gods every day
+=== Prayer ===
+* People would pray to different gods depending  on what they wanted.
+* Different Gods had different temples, many were found in the fourm.
+* The pantheon was a temple to all the gods in rome.
+* Every roman household had a household shrine called a **lares**. They would pray to their household gods every day
 
 === Burial customs ===
-* The romans believed that in the **afterlife**, the **dead** **person** would be carried into the other world over a mystical river called the **styks**. The romans put two coins over their dead's two eyes because they believed it would **pay** the fare.
-* important men's funerals would be held in the **fourm**
-* cremated remains placed in **urns** would be placed outside the city walls.
+* The romans believed that in the afterlife, the dead person would be carried into the other world over a mystical river called the **styks**.
+* The romans put two coins over their dead's two eyes because they believed it would pay the fare.
+* important men's funerals would be held in the fourm
+* cremated remains placed in urns would be placed outside the city walls.
 
-in **30AD** **Christianity** spread across rome
+=== Coming of christianity ===
+* Romans were tolerant of other religions as long as people obeyed the emperor, did not cause trouble and worshiped roman gods alongside their own.
+* After Jesus died in 30AD, christianity started to spread.
+* Christians believed that there was only one god and refused to worship roman gods alongside their own, which infuriated roman emperors.
+* Romans saw Christianity as Treason and many christians were executed and tortured.
+* In **337AD**, emperor Constantine became christian and it became Rome's official religion.
+* With the coming of Christianity, many were buried in underground cemeteries called catacombs that lined roman streets.
 
-[[+Christianity|To Christianity]]
+--------------------
 [[Rome|Back To Rome]]
+
+[[+Quick Questions|Quick Questions]]
