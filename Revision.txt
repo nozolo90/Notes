@@ -6,6 +6,7 @@ Creation-Date: 2017-08-18T20:53:09+01:00
 Created Friday 18 August 2017
 
 [[+Study Guide|Study Guide]]
+[[+Memorization|Memorization]]
 
 ==== Contents ====
 * [[+Geography|Geography]]

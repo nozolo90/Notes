@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-04T20:41:38+00:00
+
+====== Memorization ======
+Created Tuesday 04 June 2019
+
+=== Recall ===
+
+=== Association ===
+* You can link memories togetger to make them stronger.
+* For example you can link a scentence/word with an image.
+* The image could be related to the emotion, meaning, or sound of the scentence or word.
