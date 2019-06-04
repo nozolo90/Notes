@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T18:06:07+00:00
+
+====== To Kill A Mockingbird by Harper Lee ======
+Created Wednesday 29 May 2019
+
+=== Key parts ===
+* [[+Opening|Opening]]
+
+=== Themes ===
+
+=== Writing styles ===
+
+=== Characters ===
+* [[+Boo Radley|Boo Radley]]
+* [[+Atticus|Atticus]]
+* [[+Jem|Jem]]
+* [[+Dill|Dill]]
+
+opening + ending + climax + character change
+2 characters
+2 themes

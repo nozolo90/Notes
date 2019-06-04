@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-30T19:14:04+00:00
+
+====== Boo Radley ======
+Created Thursday 30 May 2019
+
+=== Describing boo ===
+
+=== Chapter one ===
+* "A malevolant phantom"
+* "People said he existed, but Jem and I had never seen him"

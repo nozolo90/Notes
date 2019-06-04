@@ -13,3 +13,19 @@ Created Wednesday 06 February 2019
 "This shall decide that" A3S1
 
 
+=== The exam ===
+"
+First read the stimulus material
+Then answer the studied text
+Then do the stimuli
+Then do the creative writing questions.
+"
+
+=== Notes ===
+//There are three sections to the new JC english exam: Stimulus (comprehensions), Studied(novels, films, poems, plays .etc) and creative writing (letters, openings .etc)//
+* [[+Text Analysis for Stimulus Material|Text Analysis for Stimulus Material]]
+* [[+Studied Text Revision|Studied Text Revision]]
+* [[+Creative Writing Notes|Creative Writing Notes]]
+
+--------------------
+[[Revision|Back To Revision]]

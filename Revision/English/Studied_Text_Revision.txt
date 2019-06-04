@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T18:05:32+00:00
+
+====== Studied Text Revision ======
+Created Wednesday 29 May 2019
+
+=== Aspects of a good opening ===
+* An interesting point of view (1st person, past, present).
+* Interesting characters introduced (contrasting, unique).
+* Interesting character relations (freinds, enemies, family, meeting each other).
+* Interesting setting (vivid description).
+* Giving the reader questions that they want answered (mystery).
+
+=== Aspects of a good ending ===
+* Story comes full circle.
+* An unpredictable element
+
+=== Materials ===
+* [[+To Kill A Mockingbird by Harper Lee|To Kill A Mockingbird by Harper Lee]]
+* [[+Of Mice and Men by John Steinbeck|Of Mice and Men by John Steinbeck]]
+
+--------------------
+[[English|Back To English]]
